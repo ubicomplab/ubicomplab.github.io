@@ -4,8 +4,8 @@
   name: Shwetak Patel
   image: /images/members/dummy.png
   status: shifu
-  
-  
+
+
 # Grad Students
 
 - id: fromm
@@ -13,13 +13,13 @@
   image: /images/members/dummy.png
   affiliation: EE
   status: current
-  
+
 - id: jain
   name: Mohit Jain
   image: /images/members/dummy.png
   affiliation: CSE
   status: current
-  
+
 - id: li
   name: Hanchuan Li
   image: /images/members/dummy.png
@@ -31,25 +31,27 @@
   image: /images/members/dummy.png
   affiliation: EE
   status: current
-  
+
 - id: saba
   name: Elliot Saba
-  image: /images/members/dummy.png
+  image: /images/members/saba.png
   affiliation: EE
+  email: sabae@uw.edu
+  website: http://staticfloat.github.io
   status: current
-  
+
 - id: degreef
   name: Lilian de Greef
   image: /images/members/dummy.png
   affiliation: CSE
   status: current
-  
+
 - id: ravichandran
   name: Ruth Ravichandran
   image: /images/members/dummy.png
   affiliation: EE
   status: current
-  
+
 - id: whitmire
   name: Eric Whitmire
   image: /images/members/whitmire.jpg
@@ -64,10 +66,10 @@
   affiliation: CSE
   website: http://homes.cs.washington.edu/~atm15/
   status: current
-  
+
 
 # Alumni
-  
+
 - id: goel
   name: Mayank Goel
   image: /images/members/dummy.png
