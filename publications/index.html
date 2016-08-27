@@ -1,0 +1,22 @@
+---
+layout: page
+title: Publications
+---
+
+<div class="row">
+{% for pub in site.publications %}
+  <div class="publication_pic col-md-3">
+    <a href="{{ pub.url }}"><img src="{{ pub.thumbnail }}"/></a>
+  </div>
+  <div class="publication_info col-md-9">
+    <a href="{{ pub.url }}"><h2>{{ pub.title }}</h2></a>
+    <p>{% include author_list.html authors=pub.authors %}<br /><i>{{ pub.conference }}</i>
+    {% if pub.award %}
+      , <font color="red">{{ pub.award }}</font></p>
+    {% endif %}
+    </p>
+  </div>
+</div>
+
+  {{ pub.ref }}
+{% endfor %}

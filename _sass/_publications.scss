@@ -1,0 +1,27 @@
+.citation {
+  display: block;
+  small {
+    p {
+    line-height: 1.2;
+    }
+  }
+}
+
+.publication {
+  .image-holder {
+    max-height: 300px;
+    img {
+      max-height: inherit;
+    }
+  }
+}
+
+h2 {
+  margin-bottom: 0; 
+  padding-bottom: 0;
+  line-height: 1.2;
+}
+
+p {
+  margin-top: 0; padding-top: 0;
+}

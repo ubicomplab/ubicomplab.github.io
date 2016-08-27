@@ -1,0 +1,83 @@
+# Shwetak
+
+- id: patel
+  name: Shwetak Patel
+  image: /images/members/dummy.png
+  status: shifu
+  
+  
+# Grad Students
+
+- id: fromm
+  name: Josh Fromm
+  image: /images/members/dummy.png
+  affiliation: EE
+  status: current
+  
+- id: jain
+  name: Mohit Jain
+  image: /images/members/dummy.png
+  affiliation: CSE
+  status: current
+  
+- id: li
+  name: Hanchuan Li
+  image: /images/members/dummy.png
+  affiliation: CSE
+  status: current
+
+- id: wang
+  name: Edward Wang
+  image: /images/members/dummy.png
+  affiliation: EE
+  status: current
+  
+- id: saba
+  name: Elliot Saba
+  image: /images/members/dummy.png
+  affiliation: EE
+  status: current
+  
+- id: degreef
+  name: Lilian de Greef
+  image: /images/members/dummy.png
+  affiliation: CSE
+  status: current
+  
+- id: ravichandran
+  name: Ruth Ravichandran
+  image: /images/members/dummy.png
+  affiliation: EE
+  status: current
+  
+- id: whitmire
+  name: Eric Whitmire
+  image: /images/members/whitmire.jpg
+  affiliation: CSE
+  email: emwhit@cs.washington.edu
+  website: http://www.ericwhitmire.com
+  status: current
+
+- id: mariakakis
+  name: Alex Mariakakis
+  image: /images/members/dummy.png
+  affiliation: CSE
+  website: http://homes.cs.washington.edu/~atm15/
+  status: current
+  
+
+# Alumni
+  
+- id: goel
+  name: Mayank Goel
+  image: /images/members/dummy.png
+  website: http://www.mayankgoel.com
+  status: alumni
+  affiliation: Carnegie Mellon University
+
+- id: chen
+  name: Keyu Chen
+  image: /images/members/dummy.png
+  website: http://www.keyuc.com
+  status: alumni
+  affiliation: Intel Labs

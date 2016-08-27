@@ -1,0 +1,20 @@
+---
+layout: default
+
+---
+
+<script type="text/javascript" src="{{ site.baseurl }}/bower_components/slick-carousel/slick/slick.min.js"></script>
+
+<div class="posts">
+  <div class="your-class">
+    <div><img src="{{site.publications[0].image}}" width="300"/></div>
+    <div><img src="{{site.publications[1].image}}" width="300"/></div>
+    <div><img src="{{site.publications[0].image}}" width="300"/></div>
+  </div>
+</div>
+<script>
+$(document).ready(function(){
+  $('.your-class').slick({
+  });
+});
+</script>
