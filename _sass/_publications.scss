@@ -7,6 +7,17 @@
   }
 }
 
+.publication-badge {
+  .publication-pic {
+    img {
+      height: 75px;
+    }
+  }
+  h2 {
+    margin: 0px;
+  }
+}
+
 .publication {
   .image-holder {
     max-height: 300px;

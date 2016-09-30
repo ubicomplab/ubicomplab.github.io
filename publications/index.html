@@ -3,17 +3,22 @@ layout: page
 title: Publications
 ---
 
-<div class="row">
+<div class="row publication-badge">
 {% for pub in site.publications %}
-  <div class="publication_pic col-md-3">
+  <div class="publication-pic col-md-3 text-right">
     <a href="{{ pub.url }}"><img src="{{ pub.thumbnail }}"/></a>
   </div>
-  <div class="publication_info col-md-9">
+  <div class="publication-info col-md-9">
     <a href="{{ pub.url }}"><h2>{{ pub.title }}</h2></a>
-    <p>{% include author_list.html authors=pub.authors %}<br /><i>{{ pub.conference }}</i>
-    {% if pub.award %}
-      , <font color="red">{{ pub.award }}</font></p>
-    {% endif %}
+    <p>{% include author_list.html authors=pub.authors %}<br />
+    <i>{{ pub.conference }}</i>{% if pub.award %}, <font color="red">{{ pub.award }}</font>{% endif %}
+      <br/>
+    <a href="{{ site.url }}{{ pub.pdf }}" class="btn btn-default btn-xs" aria-label="Download PDF">
+      <span class="glyphicon glyphicon-file" aria-hidden="true"></span> PDF
+    </a>
+    <a href="{{ site.url }}{{ pub.bibtex }}" class="btn btn-default btn-xs" aria-label="BibTeX">
+      <span class="glyphicon glyphicon-book" aria-hidden="true"></span> BibTeX
+    </a>
     </p>
   </div>
 </div>

@@ -2,7 +2,7 @@
 title: 'HyperCam: Hyperspectral Imaging for Ubiquitous Computing Applications'
 authors: [goel, whitmire, mariakakis, Scott Saponas, Neel Joshi, Dan Morris, Brian Guenter, Marcel Gavriliu, Gaetano Borriello, patel]
 conference: UbiComp '15
-award: Most Fantastic Paper Ever '15
+award: Best Paper Nominee
 pdf: /pdfs/hypercam.pdf
 image: /images/pubs/hypercam_thumb.jpg
 caption: These are some hands
