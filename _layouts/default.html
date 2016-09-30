@@ -10,42 +10,55 @@
     <![endif]-->
     <script type="text/javascript" src="{{ site.baseurl }}/bower_components/jquery/dist/jquery.min.js"></script>
     <script type="text/javascript" src="{{ site.baseurl }}/bower_components/jquery-migrate/jquery-migrate.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/bower_components/slick-carousel/slick/slick.css"></link>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/bower_components/slick-carousel/slick/slick.css" />
 
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/bower_components/bootstrap/dist/css/bootstrap.min.css" />
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/slick-theme.css"></link>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/slick-theme.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     {{ page.extra_header }}
+    <script>
+    $(window).scroll(function(e){
+      if ($(this).scrollTop() > 48) {
+        $("body").addClass("fix-nav");
+      } else {
+        $("body").removeClass("fix-nav");
+      }
+    });
+    </script>
   </head>
 
   <body>
-    <div class="container">
       <div class="wrapper-masthead">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+        <header class="masthead clearfix nav-wrapper">
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+          <div class="container">
+            <div class="site-info row">
+              <div class="col-xs-12 col-md-6">
+                <img src="{{ site.baseurl }}/images/ubicomplab_uw.png">
+              </div>
+              
+              
+              <div class="col-xs-12 col-md-6">
+              <nav id="navbar">
+                <a href="{{ site.baseurl }}/">Home</a>
+                <a href="{{ site.baseurl }}/members">Members</a>
+                <a href="{{ site.baseurl }}/publications">Publications</a>
+                <a href="#">Get Involved</a>
+              </nav>
+              </div>
+            </div>
+
           </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Home</a>
-            <a href="{{ site.baseurl }}/members">Members</a>
-            <a href="{{ site.baseurl }}/publications">Publications</a>
-            <a href="#">Get Involved</a>
-          </nav>
         </header>
-      </div>
-
-      <div id="main" role="main">
+        <div class="nav-spacer">&nbsp;</div>
+      <div id="main" role="main" class="container">
         {{ content }}
       </div>
 
-      <div class="wrapper-footer">
+      <div class="wrapper-footer container">
         <footer class="footer">
           {% include svg-icons.html %}
         </footer>

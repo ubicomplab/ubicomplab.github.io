@@ -6,11 +6,13 @@ layout: default
 <script type="text/javascript" src="{{ site.baseurl }}/bower_components/slick-carousel/slick/slick.min.js"></script>
 
 <div class="row">
+  <div class="col-sm-8 col-sm-offset-2">
   <div class="slick-slider">
     <div><img class="slick-slider-img" src="{{site.publications[0].image}}"/></div>
     <div><img class="slick-slider-img" src="{{site.publications[1].image}}"/></div>
     <div><img class="slick-slider-img" src="{{site.publications[0].image}}"/></div>
   </div>
+    </div>
 </div>
 <div class="row">
   <div class="col-sm-8">
@@ -35,6 +37,15 @@ layout: default
 <script>
 $(document).ready(function(){
   $('.slick-slider').slick({
+    variableWidth: false,
+    adaptiveHeight: false,
+    infinite: true,
+    speed: 300,
+    autoplay: false,
+    //autoplaySpeed: 2000,
+    centerMode: true,
+    centerPadding: "0%",
+    dots: true
   });
 });
 </script>
