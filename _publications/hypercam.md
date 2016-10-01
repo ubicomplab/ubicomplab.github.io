@@ -4,7 +4,8 @@ authors: [goel, whitmire, mariakakis, Scott Saponas, Neel Joshi, Dan Morris, Bri
 conference: UbiComp '15
 award: Best Paper Nominee
 pdf: /pdfs/hypercam.pdf
-image: /images/pubs/hypercam_thumb.jpg
+image: /images/pubs/hypercam.jpg
+thumbnail: /images/pubs/hypercam_thumb.jpg
 caption: These are some hands
 citation: |
     Mayank Goel, Eric Whitmire, Alex Mariakakis, T. Scott Saponas, Neel Joshi, Dan Morris, Brian Guenter, Marcel Gavriliu, Gaetano Borriello, and Shwetak N. Patel. 2015. HyperCam: hyperspectral imaging for ubiquitous computing applications. In Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp '15). ACM, New York, NY, USA, 145-156. DOI: http://dx.doi.org/10.1145/2750858.2804282
