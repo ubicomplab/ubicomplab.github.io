@@ -8,13 +8,27 @@
 }
 
 .publication-badge {
+  margin-bottom: 20px;
   .publication-pic {
     img {
-      height: 75px;
+      
+      width: 100%;
+      max-width: 250px;
+      margin: auto;
+      @media (min-width: 768px){
+        max-width: 150px;
+      }
     }
   }
   h2 {
-    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+  }
+  
+  .btn {
+    //width: 70px;
+    margin-top: 5px;
+    //text-align:left;
   }
 }
 
@@ -35,4 +49,10 @@ h2 {
 
 p {
   margin-top: 0; padding-top: 0;
+}
+
+code {
+  white-space: pre-wrap;
+  word-break: normal;
+  word-wrap: normal;
 }

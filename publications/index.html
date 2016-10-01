@@ -2,26 +2,46 @@
 layout: page
 title: Publications
 ---
-
-<div class="row publication-badge">
 {% for pub in site.publications %}
-  <div class="publication-pic col-md-3 text-right">
-    <a href="{{ pub.url }}"><img src="{{ pub.thumbnail }}"/></a>
+<div class="row publication-badge">
+  <div class="publication-pic col-md-2 col-sm-3 col-xs-12 text-left">
+    <a href="{{ pub.url }}"><img src="{{ pub.thumbnail }}"/></a>&nbsp;
   </div>
-  <div class="publication-info col-md-9">
+  <div class="publication-info col-md-10 col-sm-9 col-xs-12">
     <a href="{{ pub.url }}"><h2>{{ pub.title }}</h2></a>
     <p>{% include author_list.html authors=pub.authors %}<br />
-    <i>{{ pub.conference }}</i>{% if pub.award %}, <font color="red">{{ pub.award }}</font>{% endif %}
+      <i>{{ pub.conference }}</i>{% if pub.award %}, <font color="red">{{ pub.award }}</font>{% endif %}
       <br/>
-    <a href="{{ site.url }}{{ pub.pdf }}" class="btn btn-default btn-xs" aria-label="Download PDF">
-      <span class="glyphicon glyphicon-file" aria-hidden="true"></span> PDF
-    </a>
-    <a href="{{ site.url }}{{ pub.bibtex }}" class="btn btn-default btn-xs" aria-label="BibTeX">
-      <span class="glyphicon glyphicon-book" aria-hidden="true"></span> BibTeX
-    </a>
+      <a href="{{ site.url }}{{ pub.pdf }}" class="btn btn-default btn-xs" aria-label="Download PDF">
+        <span class="glyphicon glyphicon-file" aria-hidden="true"></span> PDF
+      </a>
+      <button type="button" class="btn btn-default btn-xs" aria-label="BibTeX" data-toggle="modal" data-target="#{{pub.title | slugify}}_bibtex">
+        <span class="glyphicon glyphicon-book" aria-hidden="true"></span> BibTeX
+      </button>
     </p>
   </div>
-</div>
 
+
+</div>
+  
+<div class="modal fade" tabindex="-1" role="dialog" id="{{pub.title | slugify}}_bibtex">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">{{ pub.title }}</h4>
+      </div>
+      <div class="modal-body">
+        <code>{{ pub.bibtex }}</code>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
   {{ pub.ref }}
 {% endfor %}
+
+
+
