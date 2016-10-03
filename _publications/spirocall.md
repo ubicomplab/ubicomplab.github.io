@@ -2,6 +2,7 @@
 title: 'SpiroCall: Measuring Lung Function over a Phone Call'
 authors: [goel, saba, Maia Stiber, whitmire, fromm, Eric C. Larson, Gaetano Borriello, patel]
 conference: CHI '16
+date: 2016-05-01
 award: Best Paper Nominee
 pdf: /pdfs/EyeContact.pdf
 image: /images/pubs/spirocall_thumb.jpeg

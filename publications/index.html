@@ -2,7 +2,8 @@
 layout: page
 title: Publications
 ---
-{% for pub in site.publications %}
+{% assign sorted_pubs = site.publications | sort: 'date' %}
+{% for pub in sorted_pubs reversed %}
 <div class="row publication-badge">
   <div class="publication-pic col-md-2 col-sm-3 col-xs-12 text-left">
     <a href="{{ pub.url }}"><img src="{{ pub.thumbnail }}"/></a>&nbsp;

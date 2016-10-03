@@ -10,13 +10,22 @@
 .publication-badge {
   margin-bottom: 20px;
   .publication-pic {
-    img {
-      
-      width: 100%;
-      max-width: 250px;
-      margin: auto;
+    a {
+      display: block;
+      border-radius: 10px;
+      overflow: hidden;
       @media (min-width: 768px){
         max-width: 150px;
+      }
+      img {
+
+        width: 100%;
+        max-width: 250px;
+        margin: auto;
+        vertical-align: middle;
+        @media (min-width: 768px){
+          //max-width: 150px;
+        }
       }
     }
   }

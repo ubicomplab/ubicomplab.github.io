@@ -3,6 +3,7 @@ title: 'SwitchBack: Using Focus and Saccade Tracking to Guide Users’ Attention
 authors: [mariakakis, goel, Md. Tanvir Islam Aumi, patel, Jacob O. Wobbrock]
 conference: CHI '15
 award:
+date: 2015-04-01
 pdf: /pdfs/switchback.pdf
 image: /images/pubs/switchback_thumb.jpg
 caption: lookie lookie see see

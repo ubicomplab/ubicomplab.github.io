@@ -2,6 +2,7 @@
 title: 'EyeContact: Scleral Coil Eye Tracking for Virtual Reality'
 authors: [whitmire, Laura Trutoiu, Robert Cavin, David Perek, Brian Scally, James O. Phillips, patel]
 conference: ISWC '16
+date: 2016-09-16
 award: Best Paper Award
 pdf: /pdfs/EyeContact.pdf
 image: /images/pubs/eyecontact.jpg
