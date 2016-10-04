@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Members
+title: 
 ---
 
 {% assign sorted_members = site.data.members | sort: 'id' %}
@@ -13,7 +13,7 @@ title: Members
   {% assign affiliation = site.data.affiliations[member.affiliation] %}
 
   <div class="member-badge col-md-2 col-sm-3 col-xs-4">
-    <div class="image"><img src="{{site.url}}{{member.image}}"/></div>
+    <div class="image">{% if member.website != nil %}<a href="{{ member.website }}">{% endif %}<img src="{{site.url}}{{member.image}}"/>{% if member.website != nil %}</a>{% endif %}</div>
     <div class="details">
     <div class="name">{% if member.website == nil %}{{ member.name }}{% else %}<a href="{{ member.website }}">{{ member.name }}</a>{% endif %}</div>
     <div class="affiliation">{% if member.affiliation != nil %}{{ affiliation }}{% endif %}</div>
@@ -24,8 +24,16 @@ title: Members
 </div>
 
 <h1>Alumni</h1>
-{% for member in alumni %}
-  <h2>{{ member.name }}</h2>
 
-  <a href="{{ member.website }}">{{ member.website }}</a>
+{% for member in alumni %}
+  {% assign affiliation = site.data.affiliations[member.affiliation] %}
+
+  <div class="member-badge col-md-2 col-sm-3 col-xs-4">
+    <div class="image">{% if member.website != nil %}<a href="{{ member.website }}">{% endif %}<img src="{{site.url}}{{member.image}}"/>{% if member.website != nil %}</a>{% endif %}</div>
+    <div class="details">
+    <div class="name">{% if member.website == nil %}{{ member.name }}{% else %}<a href="{{ member.website }}">{{ member.name }}</a>{% endif %}</div>
+    <div class="affiliation">{% if member.affiliation != nil %}{{ affiliation }}{% endif %}</div>
+    <div class="email">{% if member.email != nil %}<a href="mailto::{{ member.email }}">{{ member.email }}</a>{% endif %}</div>
+      </div>
+  </div>
 {% endfor %}

@@ -14,7 +14,19 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 
+@font-face {
+    font-family: "Avenir";
+    src: url("fonts/Avenir-Medium.woff") format('woff');
+}
+@font-face {
+    font-family: "AvenirHeavy";
+    src: url("fonts/Avenir-Heavy.woff") format('woff');
+}
+
+
 // Font stacks
+$avenir: Avenir, Helvetica, Arial;
+$avenirHeavy: AvenirHeavy, Helvetica, Arial;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;

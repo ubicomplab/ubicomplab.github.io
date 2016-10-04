@@ -20,12 +20,12 @@ html {
 
 body {
 	background: $white;
-  font: 14px/1.2 $opensans;
+  font: 16px/1.2 $avenir;
   color: $darkGray;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $opensans;
+  font-family: $avenir;
   color: $darkerGray;
   font-weight: bold;
 
@@ -196,7 +196,7 @@ img {
 }
 
 .navbar {
-  font-family: $opensans;
+  font-family: $avenir;
   font-size: 18px;
   line-height: 32px;
   float: right;

@@ -4,20 +4,22 @@ layout: default
 ---
 
 <script type="text/javascript" src="{{ site.baseurl }}/bower_components/slick-carousel/slick/slick.min.js"></script>
-
-<div class="row">
-  <div class="col-sm-8 col-sm-offset-2">
-  <div class="slick-slider">
-    <div><img class="slick-slider-img" src="{{site.publications[0].image}}"/></div>
-    <div><img class="slick-slider-img" src="{{site.publications[1].image}}"/></div>
-    <div><img class="slick-slider-img" src="{{site.publications[0].image}}"/></div>
-  </div>
-    </div>
-</div>
 <div class="row">
   <div class="col-sm-8">
     <h3>This is our mission statement</h3>
   </div>
+  
+</div>
+
+<div class="row">
+  <div class="col-sm-8">
+  <div class="slick-slider">
+    <div><img class="slick-slider-img" src="{{site.publications[3].image}}"/></div>
+    <div><img class="slick-slider-img" src="{{site.publications[1].image}}"/></div>
+    <div><img class="slick-slider-img" src="{{site.publications[2].image}}"/></div>
+  </div>
+    </div>
+  
   <div class="col-sm-4">
     <h2>News</h2>
     <ul>
@@ -33,7 +35,10 @@ layout: default
     {% endfor %}
     </ul>
   </div>
+  
+  
 </div>
+
 <script>
 $(document).ready(function(){
   $('.slick-slider').slick({
@@ -45,6 +50,7 @@ $(document).ready(function(){
     //autoplaySpeed: 2000,
     centerMode: true,
     centerPadding: "0%",
+    slidesToShow: 1,
     dots: true
   });
 });

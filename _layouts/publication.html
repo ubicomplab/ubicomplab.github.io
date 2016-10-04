@@ -3,32 +3,57 @@ layout: default
 ---
 
 <article class="page publication">
-
   <h1>{{ page.title }}</h1>
+  <span class="author_list">{% include author_list.html authors=page.authors %}</span>
   
-{% include author_list.html authors=page.authors %}
-  
-  <div class="entry">
+  <section>
     <div class="image">
       <div class="image-holder">
         <img src="{{ site.url }}{{ page.image }}"/>
       </div>
       {{page.caption}}
     </div>
+  </section>
+  <section>
     <h3>Abstract</h3>
     {{ page.abstract }}
-    
+  </section>
+  <section>
     {{ content }}
+  </section>
     
     
-    
+  <section>
     <div class="materials">
-      <a href="{{ site.url }}{{ page.pdf }}">PDF</a>
-      <a href="{{ site.url }}{{ page.bibtex }}">BibTex</a>
+      <a href="{{ site.url }}{{ page.pdf }}" class="btn btn-default btn-xs" aria-label="Download PDF">
+        <span class="glyphicon glyphicon-file" aria-hidden="true"></span> PDF
+      </a>
+      <button type="button" class="btn btn-default btn-xs" aria-label="BibTeX" data-toggle="modal" data-target="#{{page.title | slugify}}_bibtex">
+        <span class="glyphicon glyphicon-book" aria-hidden="true"></span> BibTeX
+      </button>
     </div>
-    <div class="citation well">
-      <h4>Citation</h4>
-      <small><p>{{ page.citation }}</p></small>
-    </div>
-  </div>
+    
+    <div class="modal fade" tabindex="-1" role="dialog" id="{{page.title | slugify}}_bibtex">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title">{{ page.title }}</h4>
+          </div>
+          <div class="modal-body">
+            <code>{{ page.bibtex }}</code>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+  </section>
+    
+  <section class="citation well">
+    <h4>Citation</h4>
+    <small><p>{{ page.citation }}</p></small>
+  </section>
+  
 </article>

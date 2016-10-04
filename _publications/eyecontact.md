@@ -1,10 +1,10 @@
 ---
 title: 'EyeContact: Scleral Coil Eye Tracking for Virtual Reality'
 authors: [whitmire, Laura Trutoiu, Robert Cavin, David Perek, Brian Scally, James O. Phillips, patel]
-conference: ISWC '16
+conference: ACM International Symposium on Wearable Computers (ISWC), 2016
 date: 2016-09-16
 award: Best Paper Award
-pdf: /pdfs/EyeContact.pdf
+pdf: /pdfs/eyecontact.pdf
 image: /images/pubs/eyecontact.jpg
 thumbnail: /images/pubs/eyecontact_thumb.png
 caption: The EyeContact tracker uses five coils that generate oscillating magnetic fields. By examining the signal in the scleral coil worn by the user, we are able to reconstruct the eye's orientation. Our model is able to predict eye gaze orientation with a mean error of 0.094 degrees.

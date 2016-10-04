@@ -1,0 +1,28 @@
+---
+layout: page
+title: Awards
+---
+
+{% assign sorted_members = site.data.members | sort: 'id' %}
+{% assign current_members = sorted_members | where:"status","current" %}
+{% assign alumni = sorted_members | where:"status","alumni" %}
+{% assign sorted_pubs = site.publications | sort: 'date' | where_exp:"pub","pub.award != nil" %}
+
+<h2>Best Paper / Honorable Mention Awards</h2>
+{% for pub in sorted_pubs reversed %}
+<div class="row publication-badge">
+  <div class="publication-info col-md-10 col-sm-9 col-xs-12">
+    <a href="{{ pub.url }}"><b>{{ pub.title }}</b></a>
+    <p>{% include author_list.html authors=pub.authors %}<br />
+      <i>{{ pub.conference }}</i>{% if pub.award %}, <font color="red">{{ pub.award }}</font>{% endif %}
+      <br/>
+    </p>
+  </div>
+</div>
+{% endfor %}
+
+<h2>Fellowships</h2>
+{% for award in site.data.awards %}
+<h3>{{ award.name }}</h3>
+{% include author_list.html authors=award.people %}
+{% endfor %}

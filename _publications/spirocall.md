@@ -4,7 +4,7 @@ authors: [goel, saba, Maia Stiber, whitmire, fromm, Eric C. Larson, Gaetano Borr
 conference: CHI '16
 date: 2016-05-01
 award: Best Paper Nominee
-pdf: /pdfs/EyeContact.pdf
+pdf: /pdfs/spirocall.pdf
 image: /images/pubs/spirocall_thumb.jpeg
 thumbnail: /images/pubs/spirocall_thumb.jpeg
 caption: A user using SpiroCall on a feature phone with and without a SpiroCall whistle.
