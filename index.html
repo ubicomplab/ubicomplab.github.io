@@ -3,7 +3,8 @@ layout: default
 
 ---
 
-<script type="text/javascript" src="{{ site.baseurl }}/bower_components/slick-carousel/slick/slick.min.js"></script>
+<!--<script type="text/javascript" src="{{ site.baseurl }}/bower_components/slick-carousel/slick/slick.min.js"></script>-->
+
 <div class="row">
   <div class="col-sm-8">
     <h3>This is our mission statement</h3>
@@ -13,12 +14,18 @@ layout: default
 
 <div class="row">
   <div class="col-sm-8">
-  <div class="slick-slider">
-    <div><img class="slick-slider-img" src="{{site.publications[3].image}}"/></div>
-    <div><img class="slick-slider-img" src="{{site.publications[1].image}}"/></div>
-    <div><img class="slick-slider-img" src="{{site.publications[2].image}}"/></div>
+<!--    <div class="slick-slider">
+      <div><img class="slick-slider-img" src="{{site.publications[3].image}}"/></div>
+      <div><img class="slick-slider-img" src="{{site.publications[1].image}}"/></div>
+      <div><img class="slick-slider-img" src="{{site.publications[2].image}}"/></div>
+    </div>-->
+
+    <ul class="bxslider">
+      <li><img src="{{site.publications[1].image}}" /></li>
+      <li><img src="{{site.publications[2].image}}" /></li>
+      <li><img src="{{site.publications[0].image}}" /></li>
+    </ul>
   </div>
-    </div>
   
   <div class="col-sm-4">
     <h2>News</h2>
@@ -39,19 +46,18 @@ layout: default
   
 </div>
 
+<div class="row">
+  <div class="col-xs-12">
+The ubiquitous computing (UbiComp) research lab, led by Prof. Shwetak Patel, focuses on many areas of ubiquitous computing including novel user interface technology, energy sensing, low-power sensing, health monitoring, and activity recognition by applying expertise in sensing, signal processing, embedded systems, circuits, and human-computer interaction.
+The ubicomp lab consists of an interdisciplinary team of students (CS, EE, CE, ME), etc. to tackle challenging research problems both from building the enabling hardware to the deployment and evaluation of these technologies in real-world settings.
+We collaborate very closely with UW Professors: Matt Reynolds (EE, CSE), Josh Smith (EE, CSE), Yoshi Kohno (CSE), James Fogarty (CSE), Les Atlas (EE), and Brian Otis (EE). In addition, we have close collaborations with Microsoft Research, and the Intel Science and Technology Center for Pervasive Computing.
+Undergraduates and Masters students interested in conducting research in the Ubicomp lab must fill out an application at least two weeks before the start of the quarter during the academic year. Summer applicants must apply by April 15. Ubicomp Lab Research Application
+    </div>
+</div>
+
 <script>
 $(document).ready(function(){
-  $('.slick-slider').slick({
-    variableWidth: false,
-    adaptiveHeight: false,
-    infinite: true,
-    speed: 300,
-    autoplay: false,
-    //autoplaySpeed: 2000,
-    centerMode: true,
-    centerPadding: "0%",
-    slidesToShow: 1,
-    dots: true
-  });
+
+  $('.bxslider').bxSlider();
 });
 </script>

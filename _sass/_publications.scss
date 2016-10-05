@@ -70,6 +70,10 @@ code {
   h1 {
     margin-bottom: 0px;
   }
+  
+  .materials {
+    margin-bottom: 10px;
+  }
   .author_list {
     margin-bottom: 10px;
     display: block;
@@ -80,8 +84,9 @@ code {
       max-height: inherit;
     }
   }
+  .video-holder {
+  }
 }
-
 h2 {
   margin-bottom: 0; 
   padding-bottom: 0;
