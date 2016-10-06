@@ -84,3 +84,139 @@
   website: http://www.keyuc.com
   status: alumni
   affiliation: Intel Labs
+  
+- id: cohn
+  name: Gabe Cohn
+  image: /images/members/dummy.png
+  status: alumni
+  
+- id: gupta
+  name: Sidhant Gupta
+  image: /images/members/dummy.png
+  status: alumni
+
+- id: froehlich
+  name: Jon Froehlich
+  image: /images/members/dummy.png
+  status: alumni
+  
+- id: larson
+  name: Eric Larson
+  image: /images/members/dummy.png
+  status: alumni
+
+- id: lee
+  name: Tien-jui Lee
+  image: /images/members/dummy.png
+  status: alumni
+
+
+# Past masters
+
+- id: aumi
+  name: Md Tanvir Islam Aumi
+  image: /images/members/dummy.png
+  status: master_alumni
+
+- id: lindsay
+  name: Jack Lindsay
+  image: /images/members/dummy.png
+  status: master_alumni
+  
+- id: swanson
+  name: Eric Swanson
+  image: /images/members/dummy.png
+  status: master_alumni
+  
+- id: ianacci
+  name: Fran Iannacci
+  image: /images/members/dummy.png
+  status: master_alumni
+  
+- id: liu
+  name: Sean Liu
+  image: /images/members/dummy.png
+  status: master_alumni
+  
+  
+# Past undergrad
+
+- id: alcaide
+  name: Ramses Alcaide
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+
+- id: alekhnovich
+  name: Sergey Alekhnovich
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: campbell
+  name: Tim Campbell
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: chou
+  name: Michael Chou
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: garg
+  name: Sunil Garg
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: horton
+  name: Alex Horton
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+
+- id: kim
+  name: Han Kim
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: kristjansson
+  name: Stefan Kristjansson
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: michel
+  name: Jonas Michel
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: peterson
+  name: Josh Peterson
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: schwarz
+  name: Julia Schwarz
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: sommerville
+  name: Tom Sommerville
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: turnquist
+  name: Erik Turnquist
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: zizyte
+  name: Milda Zizyte
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+  
+# Past summer
+
+- id: badshah
+  name: Akash Badshah
+  image: /images/members/dummy.png
+  status: summer_alumni
+
+  
