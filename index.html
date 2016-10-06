@@ -21,9 +21,8 @@ layout: default
     </div>-->
 
     <ul class="bxslider">
-      <li><img src="{{site.publications[1].image}}" /></li>
-      <li><img src="{{site.publications[2].image}}" /></li>
-      <li><img src="{{site.publications[0].image}}" /></li>
+      <li><img src="{{site.base_url}}/images/pubs/eyecontact.jpg" /></li>
+      <li><img src="{{site.base_url}}/images/pubs/hypercam.jpg" /></li>
     </ul>
   </div>
   
@@ -58,6 +57,8 @@ Undergraduates and Masters students interested in conducting research in the Ubi
 <script>
 $(document).ready(function(){
 
-  $('.bxslider').bxSlider();
+  $('.bxslider').bxSlider({
+    adaptiveHeight: true
+    });
 });
 </script>
