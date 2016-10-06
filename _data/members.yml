@@ -68,6 +68,23 @@
   website: http://homes.cs.washington.edu/~atm15/
   status: current
 
+- id: arian
+  name: Morelle Arian
+  image: /images/members/dummy.png
+  affiliation: CSE
+  status: current
+  
+- id: arian
+  name: Morelle Arian
+  image: /images/members/dummy.png
+  affiliation: CSE
+  status: current
+  
+- id: parizi
+  name: Farshid Salemi Parizi
+  image: /images/members/dummy.png
+  affiliation: EE
+  status: current
 
 # Alumni
 
