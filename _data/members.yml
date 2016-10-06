@@ -77,8 +77,9 @@
   
 - id: parizi
   name: Farshid Salemi Parizi
-  image: /images/members/dummy.png
+  image: /images/members/farshid.jpg
   affiliation: EE
+  email: farshidt@uw.edu
   status: current
 
 # Masters
