@@ -6,6 +6,8 @@ title:
 {% assign sorted_members = site.data.members | sort: 'id' %}
 {% assign current_members = sorted_members | where:"status","current" %}
 {% assign alumni = sorted_members | where:"status","alumni" %}
+{% assign master_alumni = sorted_members | where:"status","master_alumni" %}
+{% assign ugrad_alumni = sorted_members | where:"status","ugrad_alumni" %}
 
 <h1>Current Members</h1>
 <div class="row">
@@ -15,25 +17,58 @@ title:
   <div class="member-badge col-md-2 col-sm-3 col-xs-4">
     <div class="image">{% if member.website != nil %}<a href="{{ member.website }}">{% endif %}<img src="{{site.url}}{{member.image}}"/>{% if member.website != nil %}</a>{% endif %}</div>
     <div class="details">
-    <div class="name">{% if member.website == nil %}{{ member.name }}{% else %}<a href="{{ member.website }}">{{ member.name }}</a>{% endif %}</div>
-    <div class="affiliation">{% if member.affiliation != nil %}{{ affiliation }}{% endif %}</div>
-    <div class="email">{% if member.email != nil %}<a href="mailto::{{ member.email }}">{{ member.email }}</a>{% endif %}</div>
-      </div>
+      <div class="name">{% if member.website == nil %}{{ member.name }}{% else %}<a href="{{ member.website }}">{{ member.name }}</a>{% endif %}</div>
+      <div class="affiliation">{% if member.affiliation != nil %}{{ affiliation }}{% endif %}</div>
+      <div class="email">{% if member.email != nil %}<a href="mailto::{{ member.email }}">{{ member.email }}</a>{% endif %}</div>
+    </div>
   </div>
 {% endfor %}
 </div>
 
-<h1>Alumni</h1>
 
+<br/>
+<h1>Previous PhD Students</h1>
+<div class="row">
 {% for member in alumni %}
   {% assign affiliation = site.data.affiliations[member.affiliation] %}
 
   <div class="member-badge col-md-2 col-sm-3 col-xs-4">
     <div class="image">{% if member.website != nil %}<a href="{{ member.website }}">{% endif %}<img src="{{site.url}}{{member.image}}"/>{% if member.website != nil %}</a>{% endif %}</div>
     <div class="details">
-    <div class="name">{% if member.website == nil %}{{ member.name }}{% else %}<a href="{{ member.website }}">{{ member.name }}</a>{% endif %}</div>
-    <div class="affiliation">{% if member.affiliation != nil %}{{ affiliation }}{% endif %}</div>
-    <div class="email">{% if member.email != nil %}<a href="mailto::{{ member.email }}">{{ member.email }}</a>{% endif %}</div>
-      </div>
+      <div class="name">{% if member.website == nil %}{{ member.name }}{% else %}<a href="{{ member.website }}">{{ member.name }}</a>{% endif %}</div>
+      <div class="affiliation">{% if member.affiliation != nil %}{{ affiliation }}{% endif %}</div>
+      <div class="email">{% if member.email != nil %}<a href="mailto::{{ member.email }}">{{ member.email }}</a>{% endif %}</div>
+    </div>
   </div>
 {% endfor %}
+</div>
+
+
+<h1>Previous Masters Students</h1>
+
+<div class="row">
+{% for member in master_alumni %}
+  {% assign affiliation = site.data.affiliations[member.affiliation] %}
+
+  <div class="member-badge col-md-2 col-sm-3 col-xs-4">
+    <div class="details">
+      <div class="name">{% if member.website == nil %}{{ member.name }}{% else %}<a href="{{ member.website }}">{{ member.name }}</a>{% endif %}</div>
+      <div class="affiliation">{% if member.affiliation != nil %}{{ affiliation }}{% endif %}</div>
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+<h1>Previous Undergraudate Students</h1>
+<div class="row">
+{% for member in ugrad_alumni %}
+  {% assign affiliation = site.data.affiliations[member.affiliation] %}
+
+  <div class="member-badge col-md-2 col-sm-3 col-xs-4">
+    <div class="details">
+      <div class="name">{% if member.website == nil %}{{ member.name }}{% else %}<a href="{{ member.website }}">{{ member.name }}</a>{% endif %}</div>
+      <div class="affiliation">{% if member.affiliation != nil %}{{ affiliation }}{% endif %}</div>
+    </div>
+  </div>
+{% endfor %}
+</div>
