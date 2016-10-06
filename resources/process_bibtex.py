@@ -133,11 +133,11 @@ def parse(entry, bibtex):
     template['conference'] = format_conf_name(conference)
     template['date'] = date
     if pdf_a is not None:
-        # pdf_link = pdf_a['href']
-        # pdf_url = 'http://dl.acm.org/'+pdf_link
-        # r_pdf = s.get(pdf_url, headers=headers, stream=True)
-        # with open(os.path.join('pdfs', title+'.pdf'), 'wb') as f:
-        #     shutil.copyfileobj(r_pdf.raw, f)
+        pdf_link = pdf_a['href']
+        pdf_url = 'http://dl.acm.org/'+pdf_link
+        r_pdf = s.get(pdf_url, headers=headers, stream=True)
+        with open(os.path.join('pdfs', title+'.pdf'), 'wb') as f:
+            shutil.copyfileobj(r_pdf.raw, f)
 
         template['pdf'] = '/pdfs/{}.pdf'.format(title)
 
@@ -172,22 +172,22 @@ def run():
 
 
 if __name__ == "__main__":
-    bib = """@inproceedings{Cohn:2010:GAS:2166616.2166638,
- author = {Cohn, Gabe and Gupta, Sidhant and Froehlich, Jon and Larson, Eric and Patel, Shwetak N.},
- title = {GasSense: Appliance-level, Single-point Sensing of Gas Activity in the Home},
- booktitle = {Proceedings of the 8th International Conference on Pervasive Computing},
- series = {Pervasive'10},
- year = {2010},
- isbn = {3-642-12653-7, 978-3-642-12653-6},
- location = {Helsinki, Finland},
- pages = {265--282},
- numpages = {18},
- url = {http://dx.doi.org/10.1007/978-3-642-12654-3_16},
- doi = {10.1007/978-3-642-12654-3_16},
- acmid = {2166638},
- publisher = {Springer-Verlag},
- address = {Berlin, Heidelberg},
- keywords = {gas, sensing, sustainability, ubiquitous computing},
+    bib = """@inproceedings{Froehlich:2012:DEP:2207676.2208397,
+ author = {Froehlich, Jon and Findlater, Leah and Ostergren, Marilyn and Ramanathan, Solai and Peterson, Josh and Wragg, Inness and Larson, Eric and Fu, Fabia and Bai, Mazhengmin and Patel, Shwetak and Landay, James A.},
+ title = {The Design and Evaluation of Prototype Eco-feedback Displays for Fixture-level Water Usage Data},
+ booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},
+ series = {CHI '12},
+ year = {2012},
+ isbn = {978-1-4503-1015-4},
+ location = {Austin, Texas, USA},
+ pages = {2367--2376},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/2207676.2208397},
+ doi = {10.1145/2207676.2208397},
+ acmid = {2208397},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {eco-feedback, iterative design, sustainability, water},
 }"""
-    #parse_bibtex(bib)
-    run()
+    parse_bibtex(bib)
+    #run()

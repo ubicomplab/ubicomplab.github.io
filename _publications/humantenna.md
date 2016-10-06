@@ -6,7 +6,7 @@ authors:
 - Daniel Morris
 - patel
 - Desney Tan
-award: ''
+award: 'Honorable Mention Award'
 bibtex: |-
   @inproceedings{Cohn:2012:HUB:2207676.2208330,
    author = {Cohn, Gabe and Morris, Daniel and Patel, Shwetak and Tan, Desney},

@@ -19,7 +19,7 @@ authors:
 - Brian Otis
 - Gregory D. Abowd
 - patel
-award: ''
+award: 'Honorable Mention Award'
 bibtex: |-
   @inproceedings{Cohn:2010:SSN:1864349.1864377,
    author = {Cohn, Gabe and Stuntebeck, Erich and Pandey, Jagdish and Otis, Brian and Abowd, Gregory D. and Patel, Shwetak N.},

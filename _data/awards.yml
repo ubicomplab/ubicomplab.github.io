@@ -1,11 +1,20 @@
 - name: National Science Foundation Graduate Research Fellows
-  people: [mariakakis, wang]
+  people: [mariakakis, wang, degreef, cohn]
   
 - name: National Defense in Science and Engineering Fellows
   people: [whitmire]
   
 - name: Microsoft Research Fellowship
-  people: [goel, degreef]
+  people: [goel, degreef, cohn]
+  
+- name: Microsoft Women's Graduate Research Fellowship
+  people: [degreef]
   
 - name: UW College of Engineering Innovator Awards
-  people: []
+  people: [larson, froehlich]
+  
+- name: Qualcomm Innovation Fellowship
+  people: [li, mariakakis]
+  
+- name: Forbes Magazine Top 30 Innovators under 30
+  people: [gupta]

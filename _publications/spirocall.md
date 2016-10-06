@@ -10,7 +10,7 @@ authors:
 - larson
 - Gaetano Borriello
 - patel
-award: ''
+award: 'Honorable Mention Award'
 bibtex: |-
   @inproceedings{Goel:2016:SML:2858036.2858401,
    author = {Goel, Mayank and Saba, Elliot and Stiber, Maia and Whitmire, Eric and Fromm, Josh and Larson, Eric C. and Borriello, Gaetano and Patel, Shwetak N.},

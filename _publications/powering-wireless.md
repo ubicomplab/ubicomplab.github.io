@@ -17,7 +17,7 @@ authors:
 - Sam Yisrael
 - Joshua R. Smith
 - patel
-award: ''
+award: 'Honorable Mention Award'
 bibtex: |-
   @inproceedings{Zhao:2014:PWS:2632048.2632066,
    author = {Zhao, Chen and Yisrael, Sam and Smith, Joshua R. and Patel, Shwetak N.},

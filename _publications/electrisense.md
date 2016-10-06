@@ -5,7 +5,7 @@ authors:
 - gupta
 - Matthew S. Reynolds
 - patel
-award: ''
+award: 'Best Paper Award'
 bibtex: |-
   @inproceedings{Gupta:2010:ESS:1864349.1864375,
    author = {Gupta, Sidhant and Reynolds, Matthew S. and Patel, Shwetak N.},

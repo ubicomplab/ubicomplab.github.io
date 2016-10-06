@@ -6,7 +6,7 @@ authors:
 - Daniel Morris
 - patel
 - Desney S. Tan
-award: ''
+award: 'Best Paper Award'
 bibtex: |-
   @inproceedings{Cohn:2011:YNM:1978942.1979058,
    author = {Cohn, Gabe and Morris, Daniel and Patel, Shwetak N. and Tan, Desney S.},

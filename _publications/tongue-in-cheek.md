@@ -6,7 +6,7 @@ authors:
 - Chen Zhao
 - Ruth Vinisha
 - patel
-award: ''
+award: 'Honorable Mention Award'
 bibtex: |-
   @inproceedings{Goel:2015:TUW:2702123.2702591,
    author = {Goel, Mayank and Zhao, Chen and Vinisha, Ruth and Patel, Shwetak N.},

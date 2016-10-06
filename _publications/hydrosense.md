@@ -8,7 +8,7 @@ authors:
 - Conor Haggerty
 - James Fogarty
 - patel
-award: ''
+award: 'Honorable Mention Award'
 bibtex: |-
   @inproceedings{Froehlich:2009:HIS:1620545.1620581,
    author = {Froehlich, Jon E. and Larson, Eric and Campbell, Tim and Haggerty, Conor and Fogarty, James and Patel, Shwetak N.},

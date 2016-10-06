@@ -8,7 +8,7 @@ authors:
 - Sonya Heltshe
 - Margaret Rosenfeld
 - patel
-award: ''
+award: 'Honorable Mention Award'
 bibtex: |-
   @inproceedings{Larson:2012:SUM:2370216.2370261,
    author = {Larson, Eric C. and Goel, Mayank and Boriello, Gaetano and Heltshe, Sonya and Rosenfeld, Margaret and Patel, Shwetak N.},

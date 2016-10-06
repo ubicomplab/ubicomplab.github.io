@@ -9,7 +9,7 @@ authors:
 - James W. Stout
 - James A. Taylor
 - patel
-award: ''
+award: 'Honorable Mention Award'
 bibtex: |-
   @inproceedings{deGreef:2014:BUM:2632048.2632076,
    author = {de Greef, Lilian and Goel, Mayank and Seo, Min Joon and Larson, Eric C. and Stout, James W. and Taylor, James A. and Patel, Shwetak N.},

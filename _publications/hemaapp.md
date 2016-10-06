@@ -8,7 +8,7 @@ authors:
 - Terry Gernsheimer
 - Colette Norby-Slycord
 - patel
-award: ''
+award: 'Best Paper Award'
 bibtex: |-
   @inproceedings{Wang:2016:HNB:2971648.2971653,
    author = {Wang, Edward Jay and Li, William and Hawkins, Doug and Gernsheimer, Terry and Norby-Slycord, Colette and Patel, Shwetak N.},

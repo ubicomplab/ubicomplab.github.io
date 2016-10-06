@@ -6,7 +6,7 @@ title: Awards
 {% assign sorted_members = site.data.members | sort: 'id' %}
 {% assign current_members = sorted_members | where:"status","current" %}
 {% assign alumni = sorted_members | where:"status","alumni" %}
-{% assign sorted_pubs = site.publications | sort: 'date' | where_exp:"pub","pub.award != nil" %}
+{% assign sorted_pubs = site.publications | sort: 'date' | where_exp:"pub","pub.award.size > 0 " %}
 
 <h2>Best Paper / Honorable Mention Awards</h2>
 {% for pub in sorted_pubs reversed %}

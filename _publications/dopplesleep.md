@@ -9,7 +9,7 @@ authors:
 - patel
 - Julie A. Kientz
 - Tanzeem Choudhury
-award: ''
+award: 'Honorable Mention Award'
 bibtex: |-
   @inproceedings{Rahman:2015:DCU:2750858.2804280,
    author = {Rahman, Tauhidur and Adams, Alexander T. and Ravichandran, Ruth Vinisha and Zhang, Mi and Patel, Shwetak N. and Kientz, Julie A. and Choudhury, Tanzeem},

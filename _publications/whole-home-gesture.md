@@ -6,7 +6,7 @@ authors:
 - gupta
 - Shyamnath Gollakota
 - patel
-award: ''
+award: 'Best Paper Award'
 bibtex: |-
   @inproceedings{Pu:2013:WGR:2500423.2500436,
    author = {Pu, Qifan and Gupta, Sidhant and Gollakota, Shyamnath and Patel, Shwetak},

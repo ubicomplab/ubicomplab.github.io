@@ -5,7 +5,7 @@ authors:
 - chen
 - patel
 - Sean Keller
-award: ''
+award: 'Honorable Mention Award'
 bibtex: |-
   @inproceedings{Chen:2016:FTP:2858036.2858125,
    author = {Chen, Ke-Yu and Patel, Shwetak N. and Keller, Sean},

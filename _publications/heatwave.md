@@ -9,7 +9,7 @@ authors:
 - Beverly Harrison
 - Dieter Fox
 - patel
-award: ''
+award: 'Honorable Mention Award'
 bibtex: |-
   @inproceedings{Larson:2011:HTI:1978942.1979317,
    author = {Larson, Eric and Cohn, Gabe and Gupta, Sidhant and Ren, Xiaofeng and Harrison, Beverly and Fox, Dieter and Patel, Shwetak},

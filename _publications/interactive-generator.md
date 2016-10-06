@@ -8,7 +8,7 @@ authors:
 - Nicolas Villar
 - Steve Hodges
 - patel
-award: ''
+award: 'Best Paper Award'
 bibtex: |-
   @inproceedings{Badshah:2011:IGS:1978942.1979240,
    author = {Badshah, Akash and Gupta, Sidhant and Cohn, Gabe and Villar, Nicolas and Hodges, Steve and Patel, Shwetak N.},

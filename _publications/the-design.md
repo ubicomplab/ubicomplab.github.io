@@ -5,7 +5,7 @@ authors:
 - patel
 - gupta
 - Matthew S. Reynolds
-award: ''
+award: 'Honorable Mention Award'
 bibtex: |-
   @inproceedings{Patel:2010:DEE:1753326.1753700,
    author = {Patel, Shwetak N. and Gupta, Sidhant and Reynolds, Matthew S.},

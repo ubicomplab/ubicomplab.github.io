@@ -6,7 +6,7 @@ authors:
 - chen
 - Matthew S. Reynolds
 - patel
-award: ''
+award: 'Honorable Mention Award'
 bibtex: |-
   @inproceedings{Gupta:2011:LUC:2030112.2030122,
    author = {Gupta, Sidhant and Chen, Ke-Yu and Reynolds, Matthew S. and Patel, Shwetak N.},

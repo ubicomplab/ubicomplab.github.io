@@ -20,7 +20,7 @@ authors:
 - Matthew S. Reynolds
 - Desney S. Tan
 - patel
-award: ''
+award: 'Best Paper Award'
 bibtex: |-
   @inproceedings{Cohn:2012:UHB:2370216.2370233,
    author = {Cohn, Gabe and Gupta, Sidhant and Lee, Tien-Jui and Morris, Dan and Smith, Joshua R. and Reynolds, Matthew S. and Tan, Desney S. and Patel, Shwetak N.},
