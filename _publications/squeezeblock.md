@@ -28,7 +28,7 @@ bibtex: |-
 caption: ''
 citation: |-
   Sidhant Gupta, Tim Campbell, Jeffrey R. Hightower, and Shwetak N. Patel. 2010. SqueezeBlock: using virtual springs in mobile devices for eyes-free interaction.  In Proceedings of the 23nd annual ACM symposium on User interface software and technology (UIST '10). ACM, New York, NY, USA,  101-104. DOI=http://dx.doi.org/10.1145/1866029.1866046
-conference: UIST
+conference: ACM symposium on User Interface Software and Technology (UIST), 2010
 date: '2010-10-03'
 image: ''
 pdf: /pdfs/squeezeblock.pdf

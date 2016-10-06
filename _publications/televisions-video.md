@@ -28,7 +28,7 @@ bibtex: |-
 caption: ''
 citation: |-
   Miro Enev, Sidhant Gupta, Tadayoshi Kohno, and Shwetak N. Patel. 2011. Televisions, video privacy, and powerline electromagnetic interference.  In Proceedings of the 18th ACM conference on Computer and communications security (CCS '11). ACM, New York, NY, USA,  537-550. DOI=http://dx.doi.org/10.1145/2046707.2046770
-conference: CCS '11
+conference: ACM Conference on Computer and Communications Security (CCS), 2011
 date: '2011-10-17'
 image: ''
 pdf: /pdfs/televisions-video.pdf

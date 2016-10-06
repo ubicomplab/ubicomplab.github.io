@@ -87,9 +87,13 @@ def get_acm_ref(doi):
 conferences = {"UbiComp": "ACM International Joint Conference on Pervasive and Ubiquitous Computing",
                "ISWC": "ACM International Symposium on Wearable Computers",
                "CHI": "Conference on Human Factors in Computing Systems",
-               "UIST": "ACM symposium on User Interface Software and Technology",
+               "UIST": "ACM Symposium on User Interface Software and Technology",
                "Pervasive": "International Conference on Pervasive Computing",
-               "PERVASIVE": "International Conference on Pervasive Computing"}
+               "PERVASIVE": "International Conference on Pervasive Computing",
+               "BodyNets": "International Conference on Body Area Networks",
+               "BODYNETS": "International Conference on Body Area Networks",
+               "MobiCom": "ACM Annual International Conference on Mobile Computing and Networking",
+               "CCS": "ACM Conference on Computer and Communications Security"}
 
 
 def format_conf_name(conf):

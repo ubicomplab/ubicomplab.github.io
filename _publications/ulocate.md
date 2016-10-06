@@ -30,7 +30,7 @@ bibtex: |-
 caption: ''
 citation: |-
   Ke-Yu Chen, Mark Harniss, Justin Haowei Lim, Youngjun Han, Kurt L. Johnson, and Shwetak N. Patel. 2013. uLocate: a ubiquitous location tracking system for people aging with disabilities.  In Proceedings of the 8th International Conference on Body Area Networks (BodyNets '13). ICST (Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering), ICST, Brussels, Belgium, Belgium,  173-176. DOI: http://dx.doi.org/10.4108/icst.bodynets.2013.253584
-conference: BodyNets
+conference: International Conference on Body Area Networks (BodyNets), 2013
 date: '2013-09-30'
 image: ''
 pdf: /pdfs/ulocate.pdf

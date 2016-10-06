@@ -28,7 +28,7 @@ bibtex: |-
 caption: ''
 citation: |-
   Qifan Pu, Sidhant Gupta, Shyamnath Gollakota, and Shwetak Patel. 2013. Whole-home gesture recognition using wireless signals.  In Proceedings of the 19th annual international conference on Mobile computing & networking (MobiCom '13). ACM, New York, NY, USA,  27-38. DOI=http://dx.doi.org/10.1145/2500423.2500436
-conference: MobiCom '13
+conference: ACM Annual International Conference on Mobile Computing and Networking (MobiCom), 2013
 date: '2013-09-30'
 image: ''
 pdf: /pdfs/whole-home-gesture.pdf
