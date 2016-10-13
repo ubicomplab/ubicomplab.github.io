@@ -34,9 +34,9 @@ citation: |-
 conference: ACM International Joint Conference on Pervasive and Ubiquitous Computing
   (UbiComp), 2014
 date: '2014-09-13'
-image: ''
+image: '/images/pubs/BiliCam_image.jpg'
 pdf: /pdfs/bilicam.pdf
-thumbnail: ''
+thumbnail: '/images/pubs/BiliCam_thumbnail.jpg'
 title: 'Bilicam: Using Mobile Phones to Monitor Newborn Jaundice'
 video: ''
 video_embed: ''
