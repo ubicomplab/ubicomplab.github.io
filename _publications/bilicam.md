@@ -37,7 +37,7 @@ date: '2014-09-13'
 image: '/images/pubs/BiliCam_image.jpg'
 pdf: /pdfs/bilicam.pdf
 thumbnail: '/images/pubs/BiliCam_thumbnail.jpg'
-title: 'Bilicam: Using Mobile Phones to Monitor Newborn Jaundice'
+title: 'BiliCam: Using Mobile Phones to Monitor Newborn Jaundice'
 video: ''
 video_embed: ''
 ---
