@@ -13,7 +13,7 @@ award: 'Honorable Mention Award'
 bibtex: |-
   @inproceedings{deGreef:2014:BUM:2632048.2632076,
    author = {de Greef, Lilian and Goel, Mayank and Seo, Min Joon and Larson, Eric C. and Stout, James W. and Taylor, James A. and Patel, Shwetak N.},
-   title = {Bilicam: Using Mobile Phones to Monitor Newborn Jaundice},
+   title = {BiliCam: Using Mobile Phones to Monitor Newborn Jaundice},
    booktitle = {Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing},
    series = {UbiComp '14},
    year = {2014},
@@ -30,14 +30,14 @@ bibtex: |-
   }
 caption: ''
 citation: |-
-  Lilian de Greef, Mayank Goel, Min Joon Seo, Eric C. Larson, James W. Stout, James A. Taylor, and Shwetak N. Patel. 2014. Bilicam: using mobile phones to monitor newborn jaundice.  In Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp '14). ACM, New York, NY, USA,  331-342. DOI=http://dx.doi.org/10.1145/2632048.2632076
+  Lilian de Greef, Mayank Goel, Min Joon Seo, Eric C. Larson, James W. Stout, James A. Taylor, and Shwetak N. Patel. 2014. BiliCam: using mobile phones to monitor newborn jaundice.  In Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp '14). ACM, New York, NY, USA,  331-342. DOI=http://dx.doi.org/10.1145/2632048.2632076
 conference: ACM International Joint Conference on Pervasive and Ubiquitous Computing
   (UbiComp), 2014
 date: '2014-09-13'
-image: ''
+image: '/images/pubs/BiliCam_image.jpg'
 pdf: /pdfs/bilicam.pdf
-thumbnail: ''
-title: 'Bilicam: Using Mobile Phones to Monitor Newborn Jaundice'
+thumbnail: '/images/pubs/BiliCam_thumbnail.jpg'
+title: 'BiliCam: Using Mobile Phones to Monitor Newborn Jaundice'
 video: ''
 video_embed: ''
 ---
