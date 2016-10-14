@@ -33,7 +33,9 @@
 
 - id: wang
   name: Edward Wang
-  image: /images/members/dummy.png
+  image: /images/members/edwardjaywang.jpg
+  email: ejaywang@uw.edu
+  website: http://www.ejaywang.com
   affiliation: EE
   status: current
 

@@ -33,11 +33,11 @@ citation: |-
 conference: ACM International Joint Conference on Pervasive and Ubiquitous Computing
   (UbiComp), 2009
 date: '2009-09-30'
-image: ''
+image: /images/pubs/hydrosense.png
 pdf: /pdfs/hydrosense.pdf
-thumbnail: ''
+thumbnail: /images/pubs/hydrosense_thumb.jpg
 title: 'HydroSense: Infrastructure-mediated Single-point Sensing of Whole-home Water
   Activity'
-video: ''
-video_embed: ''
+video: 'https://www.youtube.com/watch?v=dcPI1Cp0VZI'
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/dcPI1Cp0VZI" frameborder="0" allowfullscreen></iframe>'
 ---
