@@ -23,10 +23,10 @@ citation: |-
   Ruth Ravichandran, Elliot Saba, Ke-Yu Chen, Mayank Goel, Sidhant Gupta, and Shwetak N. Patel. 2015. WiBreathe: Estimating respiration rate using wireless signals in natural settings in the home. 2015 IEEE International Conference on Pervasive Computing and Communications (PerCom) (2015). DOI:http://dx.doi.org/10.1109/percom.2015.7146519
 conference: IEEE International Conference on Pervasive Computing and Communications (PerCom), 2015
 date: '2015-03-23'
-image: ''
+image: /images/pubs/wibreathe.png
 pdf: /pdfs/wibreathe.pdf
-thumbnail: ''
+thumbnail: /images/pubs/wibreathe_thumb.png
 title: 'Wibreathe: Estimating respiration rate using wireless signals in natural settings in the home'
-video: ''
-video_embed: ''
+video: 'https://www.youtube.com/watch?v=d7ttEyUXUwk'
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/d7ttEyUXUwk" frameborder="0" allowfullscreen></iframe>'
 ---
