@@ -17,7 +17,9 @@
 
 - id: jain
   name: Mohit Jain
-  image: /images/members/dummy.png
+  image: /images/members/mohitjain.jpg
+  email: mohitj@cs.washington.edu
+  website: http://www.dgp.toronto.edu/~mjain/
   affiliation: CSE
   status: current
 
