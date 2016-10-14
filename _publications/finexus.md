@@ -24,15 +24,15 @@ bibtex: |-
    address = {New York, NY, USA},
    keywords = {3D space, electromagnet, fingertips, localization, magnetic field, real-time, tracking, wearable},
   }
-caption: ''
+caption: 'Finexus can track the fine 3D motions of multiple electromagnets attached to fingertips using four magnetic sensors. The system leverages frequency multiplexing and a bandpass filter to achieve robustness against ambient noise.'
 citation: |-
   Ke-Yu Chen, Shwetak N. Patel, and Sean Keller. 2016. Finexus: Tracking Precise Motions of Multiple Fingertips Using Magnetic Sensing.  In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI '16). ACM, New York, NY, USA,  1504-1514. DOI: http://dx.doi.org/10.1145/2858036.2858125
 conference: Conference on Human Factors in Computing Systems (CHI), 2016
 date: '2016-05-07'
-image: ''
+image: '/images/pubs/finexus.png'
 pdf: /pdfs/finexus.pdf
-thumbnail: ''
+thumbnail: '/images/pubs/finexus_thumb.png'
 title: 'Finexus: Tracking Precise Motions of Multiple Fingertips Using Magnetic Sensing'
-video: ''
-video_embed: ''
+video: 'https://www.youtube.com/watch?v=fHhbM_2UMiI'
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/fHhbM_2UMiI" frameborder="0" allowfullscreen></iframe>'
 ---
