@@ -1,8 +1,7 @@
-image: jekyll/jekyll
+image: staticfloat/github-pages-builder
 
 pages:
   script:
-  - gem install github-pages
   - jekyll build -d public
   artifacts:
     paths:
