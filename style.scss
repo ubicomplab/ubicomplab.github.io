@@ -19,9 +19,13 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 16px/1.2 $avenir;
   color: $darkGray;
+}
+
+.fix-nav {
+  padding-top: 110px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -176,13 +180,13 @@ img {
 
 
 .navbar-fixed-top {
-  visibility: hidden;
+  visibility: visible;
   .fix-nav & {
     visibility: visible;
   }
   .navbar-brand {
     .fix-nav & {
-      visibility: hidden;
+      display: none;
     }
   }
 }
@@ -190,7 +194,7 @@ img {
 .navbar-static-top {
   visibility: visible;
   .fix-nav & {
-    visibility: hidden;
+    visibility: visible;
   }
 
 }
@@ -205,6 +209,10 @@ img {
   padding-top: 10px;
   padding-bottom: 10px;
   width: 100%;
+  min-height: auto;
+  @media (min-width: 768px){
+    height: 120px; 
+  }
   
   .navbar-header {
     min-height: 30px;
@@ -212,16 +220,19 @@ img {
   
   .fix-nav & {
     margin-top: 0px;
+    height: 52px; 
   }
   
   .navbar-collapse {
-    position: relative;
     
     @media (min-width: 768px){
+      
+      height: 40px!important;
       ul {
         position: absolute;
         right: 0px;
         bottom: 0px;
+        margin: 10px;
         li {
           a {
             padding: 5px;
