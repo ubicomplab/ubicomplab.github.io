@@ -14,9 +14,10 @@ layout: default
   <div class="col-sm-8">
 
     <ul class="bxslider">
-      <li><img src="{{site.base_url}}/images/pubs/eyecontact.jpg" /></li>
-      <li><img src="{{site.base_url}}/images/pubs/hypercam.jpg" /></li>
-      <li><img src="{{site.base_url}}/images/pubs/spirocall.jpg" /></li>
+      <li><a href="/publications/eyecontact"><img src="{{site.base_url}}/images/slider/eyecontact.jpg" title="EyeContact enables high resolution scleral coil eye tracking on virtual reality head mounted displays."/></a></li>
+      <li><a href="/publications/hemaapp"><img src="{{site.base_url}}/images/slider/hemaapp.png" title="HemaApp screens for anemia and other blood conditions using the camera on a smartphone. "/></a></li>
+      <li><a href="/publications/bilicam"><img src="{{site.base_url}}/images/slider/bilicam.jpg" title="BiliCam uses a smartphone to screen newborns for jaundice."/></a></li>
+      <li><a href="/publications/spirocall"><img src="{{site.base_url}}/images/slider/spirocall.jpg" title="SpiroCall enables lung function estimation using the microphone on any mobile phone."/></a></li>
     </ul>
   </div>
   
@@ -52,7 +53,7 @@ Undergraduates and Masters students interested in conducting research in the Ubi
 $(document).ready(function(){
 
   $('.bxslider').bxSlider({
-    adaptiveHeight: false
+    adaptiveHeight: false,
     captions: true
     });
 });
