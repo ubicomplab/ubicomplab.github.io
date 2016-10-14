@@ -11,13 +11,17 @@
 
 - id: fromm
   name: Josh Fromm
-  image: /images/members/dummy.png
+  image: /images/members/joshfromm.jpg
+  email: jwfromm@uw.edu
+  website: http://jwfromm.com
   affiliation: EE
   status: current
 
 - id: jain
   name: Mohit Jain
-  image: /images/members/dummy.png
+  image: /images/members/mohitjain.jpg
+  email: mohitj@cs.washington.edu
+  website: http://www.dgp.toronto.edu/~mjain/
   affiliation: CSE
   status: current
 
@@ -63,7 +67,7 @@
 
 - id: mariakakis
   name: Alex Mariakakis
-  image: /images/members/dummy.png
+  image: /images/members/alexmariakakis.jpg
   affiliation: CSE
   website: http://homes.cs.washington.edu/~atm15/
   status: current

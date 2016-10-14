@@ -5,9 +5,9 @@ conference: CHI '15
 award:
 date: 2015-04-01
 pdf: /pdfs/switchback.pdf
-image: /images/pubs/eyecontact.jpg
-thumbnail: /images/pubs/eyecontact_thumb.png
-caption: lookie lookie see see
+image: /images/pubs/switchback.jpg
+thumbnail: /images/pubs/switchback_thumb.png
+caption: SwitchBack uses gaze tracking on smartphones to guide attention for task resumption.
 citation: |
     Alexander Mariakakis, Mayank Goel, Md Tanvir Islam Aumi, Shwetak N. Patel, and Jacob O. Wobbrock. 2015. SwitchBack: Using Focus and Saccade Tracking to Guide Users' Attention for Mobile Task Resumption. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15). ACM, New York, NY, USA, 2953-2962. DOI: http://dx.doi.org/10.1145/2702123.2702539
 abstract: |
