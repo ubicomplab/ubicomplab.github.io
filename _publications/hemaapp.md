@@ -33,10 +33,10 @@ citation: |-
 conference: ACM International Joint Conference on Pervasive and Ubiquitous Computing
   (UbiComp), 2016
 date: '2016-09-12'
-image: ''
+image: '/images/pubs/hemaapp.png'
 pdf: /pdfs/hemaapp.pdf
-thumbnail: ''
+thumbnail: '/images/pubs/hemaapp_thumb.png'
 title: 'HemaApp: Noninvasive Blood Screening of Hemoglobin Using Smartphone Cameras'
-video: ''
-video_embed: ''
+video: 'https://www.youtube.com/watch?v=9Gb-uer1cEI'
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/watch?v=9Gb-uer1cEI" frameborder="0" allowfullscreen></iframe>'
 ---
