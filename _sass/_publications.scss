@@ -23,20 +23,22 @@ code {
   
   font-size: 15px;
   .publication-pic {
+    max-width: 300px;
     a {
       display: block;
+      position: relative;
+      padding-bottom: 56.25%;
       //border-radius: 10px;
       overflow: hidden;
       @media (min-width: 768px){
-        max-width: 150px;
-        max-height: 80px;
       }
       img {
 
         width: 100%;
-        max-width: 250px;
-        margin: auto;
         vertical-align: middle;
+        position: absolute;
+        top: 0px;
+        left: 0px;
         @media (min-width: 768px){
           //max-width: 150px;
         }
