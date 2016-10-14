@@ -3,8 +3,6 @@ layout: default
 
 ---
 
-<!--<script type="text/javascript" src="{{ site.baseurl }}/bower_components/slick-carousel/slick/slick.min.js"></script>-->
-
 <div class="row">
   <div class="col-sm-8">
     <h3>This is our mission statement</h3>
@@ -14,11 +12,6 @@ layout: default
 
 <div class="row">
   <div class="col-sm-8">
-<!--    <div class="slick-slider">
-      <div><img class="slick-slider-img" src="{{site.publications[3].image}}"/></div>
-      <div><img class="slick-slider-img" src="{{site.publications[1].image}}"/></div>
-      <div><img class="slick-slider-img" src="{{site.publications[2].image}}"/></div>
-    </div>-->
 
     <ul class="bxslider">
       <li><img src="{{site.base_url}}/images/pubs/eyecontact.jpg" /></li>
@@ -59,7 +52,8 @@ Undergraduates and Masters students interested in conducting research in the Ubi
 $(document).ready(function(){
 
   $('.bxslider').bxSlider({
-    adaptiveHeight: true
+    adaptiveHeight: false
+    captions: true
     });
 });
 </script>
