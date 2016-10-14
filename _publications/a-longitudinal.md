@@ -32,11 +32,11 @@ citation: |-
   Jon Froehlich, Eric Larson, Elliot Saba, Tim Campbell, Les Atlas, James Fogarty, and Shwetak Patel. 2011. A longitudinal study of pressure sensing to infer real-world water usage events in the home.  In Proceedings of the 9th international conference on Pervasive computing (Pervasive'11), Kent Lyons, Jeffrey Hightower, and Elaine M. Huang (Eds.). Springer-Verlag, Berlin, Heidelberg,  50-69.
 conference: International Conference on Pervasive Computing (Pervasive), 2011
 date: '2011-06-12'
-image: ''
-pdf: ''
-thumbnail: ''
+image: /images/pubs/hydrosense.png
+pdf: /pdfs/ALongtudinal-Froelich2011.pdf
+thumbnail: /images/pubs/hydrosense_thumb.jpg
 title: A Longitudinal Study of Pressure Sensing to Infer Real-world Water Usage Events
   in the Home
-video: ''
-video_embed: ''
+video: 'https://www.youtube.com/watch?v=dcPI1Cp0VZI'
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/dcPI1Cp0VZI" frameborder="0" allowfullscreen></iframe>'
 ---
