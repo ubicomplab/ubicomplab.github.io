@@ -1,3 +1,11 @@
+## Where to perform common tasks:
+- **Updating profile**: _data/members.yml
+- **Adding publications**: _publications/*paper\_name*.yml
+
+The BibTeX and citation should be copied verbatim from the ACM DL, if possible.
+Thumbnail pictures should be 16x9, at least 300 px wide.
+
+
 ## Local Development
 
 1. Install Ruby if not already installed (installed by default on OS X). On Windows, use http://rubyinstaller.org/. On Linux, run `sudo apt-get install ruby-full`. This should come with the gem package manager.
