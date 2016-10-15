@@ -227,7 +227,12 @@ img {
     
     @media (min-width: 768px){
       
-      height: 40px!important;
+      height: 108px!important;
+      position: relative;
+      
+      .fix-nav & {
+          height: 40px!important;
+      }
       ul {
         position: absolute;
         right: 0px;
