@@ -7,6 +7,12 @@ authors:
 - Samer Al Moubayed
 - patel
 - Alanson P. Sample
+
+video: https://youtu.be/HYVUR52wqq4
+video_embed: '<iframe width="560" height="315" src="https://youtu.be/HYVUR52wqq4" frameborder="0" allowfullscreen></iframe>'
+image: /images/pubs/idmatch.jpg
+caption: ID-Match is a hybird RF and computer vision system identifying users in a group. 
+thumbnail: /images/pubs/thumb.jpg
 award: ''
 bibtex: |-
   @inproceedings{Li:2016:IHC:2858036.2858209,
