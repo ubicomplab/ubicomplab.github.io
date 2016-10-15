@@ -1,6 +1,13 @@
-- date: 2016-08-26
-  blurb: New website!
-  url: http://ubicomplab.github.io
+- date: 2016-09-16
+  blurb: EyeContact wins ISWC 2016 Best Paper Award
+  url: /publications/eyecontact
+  
+- date: 2016-09-14
+  blurb: HemaApp wins UbiComp 2016 Best Paper Award
+  url: /publications/hemaapp
 
 - date: 2016-08-21
-  blurb: Mayank Goel defended his thesis!
+  blurb: Mayank Goel defended his thesis and will be moving on to a faculty position at CMU.
+  
+- date: 2015-11-30
+  blurb: Keyu Chen defended his thesis and will be moving on to Intel Labs.
