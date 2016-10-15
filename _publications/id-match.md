@@ -6,8 +6,8 @@ date: 2016-05-07
 image: /images/pubs/idmatch.jpg
 pdf: /pdfs/id-match.pdf
 thumbnail: /images/pubs/idmatch.jpg
-video: https://youtu.be/HYVUR52wqq4
-video_embed: '<iframe width="560" height="315" src="https://youtu.be/HYVUR52wqq4" frameborder="0" allowfullscreen></iframe>'
+video: https://www.youtube.com/watch?v=HYVUR52wqq4
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/HYVUR52wqq4" frameborder="0" allowfullscreen></iframe>'
 award: 
 caption: ID-Match is a hybird RF and computer vision system for simultaneous identification and localization of users in a group.
 citation: |
