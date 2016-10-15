@@ -8,11 +8,6 @@ authors:
 - patel
 - Alanson P. Sample
 
-video: https://youtu.be/HYVUR52wqq4
-video_embed: '<iframe width="560" height="315" src="https://youtu.be/HYVUR52wqq4" frameborder="0" allowfullscreen></iframe>'
-image: /images/pubs/idmatch.jpg
-caption: ID-Match is a hybird RF and computer vision system identifying users in a group. 
-thumbnail: /images/pubs/thumb.jpg
 award: ''
 bibtex: |-
   @inproceedings{Li:2016:IHC:2858036.2858209,
@@ -32,16 +27,16 @@ bibtex: |-
    address = {New York, NY, USA},
    keywords = {computer vision, human-robot interaction, recognition, rfid, sensor fusion, synthetic aperture},
   }
-caption: ''
+caption: 'ID-Match is a hybird RF and computer vision system for simultaneous identification and localization of users in a group.'
 citation: |-
   Hanchuan Li, Peijin Zhang, Samer Al Moubayed, Shwetak N. Patel, and Alanson P. Sample. 2016. ID-Match: A Hybrid Computer Vision and RFID System for Recognizing Individuals in Groups.  In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (CHI '16). ACM, New York, NY, USA,  4933-4944. DOI: http://dx.doi.org/10.1145/2858036.2858209
 conference: Conference on Human Factors in Computing Systems (CHI), 2016
 date: '2016-05-07'
-image: ''
+image: '/images/pubs/idmatch.jpg'
 pdf: /pdfs/id-match.pdf
-thumbnail: ''
+thumbnail: '/images/pubs/thumb.jpg'
 title: 'ID-Match: A Hybrid Computer Vision and RFID System for Recognizing Individuals
   in Groups'
-video: ''
-video_embed: ''
+video: 'https://youtu.be/HYVUR52wqq4'
+video_embed: '<iframe width="560" height="315" src="https://youtu.be/HYVUR52wqq4" frameborder="0" allowfullscreen></iframe>'
 ---
