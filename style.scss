@@ -216,6 +216,8 @@ img {
   
   .navbar-header {
     min-height: 30px;
+    position: relative;
+    z-index: 2;
   }
   
   .fix-nav & {
@@ -224,7 +226,7 @@ img {
   }
   
   .navbar-collapse {
-    
+    z-index: 1;
     @media (min-width: 768px){
       
       height: 108px!important;
