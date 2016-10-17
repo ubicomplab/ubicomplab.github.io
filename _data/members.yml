@@ -145,6 +145,7 @@
   name: Tien-jui Lee
   image: /images/members/tien.jpg
   status: alumni
+  affiliation: Now working at Senosis
 
 
 # Past masters
@@ -247,9 +248,130 @@
   image: /images/members/dummy.png
   status: ugrad_alumni
   
+- id: tseng
+  name: Clint Tseng
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: agashe
+  name: Rajas Agashe
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: banks
+  name: Megan Banks
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+
+- id: benaloh
+  name: Steven Benaloh
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: chen_yuxiang
+  name: Yuxiang Chen
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: dorsett
+  name: Matt Dorsett
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+
+- id: fadaie
+  name: Michael Fadaie
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: guh
+  name: Ka Ho Guh
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+  
+- id: jiang
+  name: Siju Jiang
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+  
+- id: johanson
+  name: Brandon Johanson
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: johnson
+  name: Michael Johnson
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: kathuria
+  name: Mayank Kathuria
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: mandyam
+  name: Aishwarya Mandyam
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: mehta
+  name: Vardhman Mehta
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: pickett
+  name: Cameron Pickett
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: smoots
+  name: Ryan Smoots
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: wang_ying
+  name: Ying Wang
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: wu_meiling
+  name: Meiling Wu
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: yisrael
+  name: Samuel Yisrael
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: li_william
+  name: William Li
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: zhu_junyi
+  name: Junyi Zhu
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: luo_andrew
+  name: Andrew Luo
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: jain_divye
+  name: Divye Jain
+  image: /images/members/dummy.png
+  status: ugrad_alumni
   
 # Past summer
 
+- id: badshah
+  name: Akash Badshah
+  image: /images/members/dummy.png
+  status: summer_alumni
+  
 - id: badshah
   name: Akash Badshah
   image: /images/members/dummy.png
