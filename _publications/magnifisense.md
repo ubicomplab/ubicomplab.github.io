@@ -33,9 +33,9 @@ citation: |-
 conference: ACM International Joint Conference on Pervasive and Ubiquitous Computing
   (UbiComp), 2015
 date: '2015-09-07'
-image: 'images/pubs/magnifisense.jpg'
+image: '/images/pubs/magnifisense.jpg'
 pdf: /pdfs/magnifisense.pdf
-thumbnail: 'images/pubs/magnifisense_thumb.jpg'
+thumbnail: '/images/pubs/magnifisense_thumb.jpg'
 title: 'MagnifiSense: Inferring Device Interaction Using Wrist-worn Passive Magneto-inductive
   Sensors'
 video: ''
