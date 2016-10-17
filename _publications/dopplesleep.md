@@ -34,9 +34,9 @@ citation: |-
 conference: ACM International Joint Conference on Pervasive and Ubiquitous Computing
   (UbiComp), 2015
 date: '2015-09-07'
-image: ''
+image: /images/pubs/dopple_sleep.png
 pdf: /pdfs/dopplesleep.pdf
-thumbnail: ''
+thumbnail: /images/pubs/dopple_sleep.png
 title: 'DoppleSleep: A Contactless Unobtrusive Sleep Sensing System Using Short-range
   Doppler Radar'
 video: ''
