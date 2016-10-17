@@ -14,10 +14,11 @@ layout: default
   <div class="col-sm-8">
 
     <ul class="bxslider">
-      <li><a href="/publications/eyecontact"><img src="{{site.base_url}}/images/slider/eyecontact.jpg" title="EyeContact enables high resolution scleral coil eye tracking on virtual reality head mounted displays."/></a></li>
-      <li><a href="/publications/hemaapp"><img src="{{site.base_url}}/images/slider/hemaapp.png" title="HemaApp screens for anemia and other blood conditions using the camera on a smartphone. "/></a></li>
-      <li><a href="/publications/bilicam"><img src="{{site.base_url}}/images/slider/bilicam.jpg" title="BiliCam uses a smartphone to screen newborns for jaundice."/></a></li>
-      <li><a href="/publications/spirocall"><img src="{{site.base_url}}/images/slider/spirocall.jpg" title="SpiroCall enables lung function estimation using the microphone on any mobile phone."/></a></li>
+      <li><a href="{{site.base_url}}/pdfs/lab/ubicomplab-health.pdf"><img src="{{site.base_url}}/images/slider/poster_banner.png" title="EyeContact enables high resolution scleral coil eye tracking on virtual reality head mounted displays."/></a></li>
+      <li><a href="{{site.base_url}}/pdfs/lab/ubicomplab-flyer.pdf"><img src="{{site.base_url}}/images/slider/health_banner.png" title="EyeContact enables high resolution scleral coil eye tracking on virtual reality head mounted displays."/></a></li>
+      <li><a href="{{site.base_url}}/publications/hemaapp"><img src="{{site.base_url}}/images/slider/hemaapp.png" title="HemaApp screens for anemia and other blood conditions using the camera on a smartphone. "/></a></li>
+      <li><a href="{{site.base_url}}/publications/bilicam"><img src="{{site.base_url}}/images/slider/bilicam.jpg" title="BiliCam uses a smartphone to screen newborns for jaundice."/></a></li>
+      <li><a href="{{site.base_url}}/publications/spirocall"><img src="{{site.base_url}}/images/slider/spirocall.jpg" title="SpiroCall enables lung function estimation using the microphone on any mobile phone."/></a></li>
     </ul>
   </div>
   
@@ -54,7 +55,9 @@ $(document).ready(function(){
 
   $('.bxslider').bxSlider({
     adaptiveHeight: false,
-    captions: true
+    captions: true,
+    controls: true,
+    auto: true
     });
 });
 </script>
