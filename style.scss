@@ -281,16 +281,23 @@ img {
 }
 
 .news {
-  padding-left: 0px;
-  li {
-    list-style: none;
-    margin-bottom: 5px;
+  h2 {
+    margin-top: 0px;
   }
-  .date {
-    display: inline;
-  }
-  .blurb {
-    display: inline
+  ul {
+    padding-left: 0px;
+    
+    li {
+      list-style: none;
+      margin-bottom: 10px;
+      
+      .date {
+        display: inline;
+      }
+      .blurb {
+        display: inline
+      }
+    }
   }
 }
 
