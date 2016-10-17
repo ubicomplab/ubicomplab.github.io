@@ -26,15 +26,15 @@ bibtex: |-
    address = {New York, NY, USA},
    keywords = {energy monitoring, smart home, sustainability sensing, ubiquitous computing},
   }
-caption: ''
+caption: 'The sensor unit consists of four magnetic pickup sensors surrounded by some permanent magnets.'
 citation: |-
   Md Tanvir Islam Aumi, Sidhant Gupta, Cameron Pickett, Matt Reynolds, and Shwetak Patel. 2014. A self-calibrating approach to whole-home contactless power consumption sensing.  In Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp '14). ACM, New York, NY, USA,  361-371. DOI=http://dx.doi.org/10.1145/2632048.2636087
 conference: ACM International Joint Conference on Pervasive and Ubiquitous Computing
   (UbiComp), 2014
 date: '2014-09-13'
-image: ''
+image: '/images/pubs/selfcalibrating.png'
 pdf: /pdfs/a-self-calibrating.pdf
-thumbnail: ''
+thumbnail: '/images/pubs/selfcalibrating.png'
 title: A Self-calibrating Approach to Whole-home Contactless Power Consumption Sensing
 video: ''
 video_embed: ''

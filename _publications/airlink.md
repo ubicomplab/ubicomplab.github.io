@@ -26,16 +26,16 @@ bibtex: |-
    address = {New York, NY, USA},
    keywords = {doppler effect, gestures, mobile phones, multipledevice environment, sensing},
   }
-caption: ''
+caption: 'AirLink allows file sharing between multiple devices by using in-air gestures and without adding new sensors.'
 citation: |-
   Ke-Yu Chen, Daniel Ashbrook, Mayank Goel, Sung-Hyuck Lee, and Shwetak Patel. 2014. AirLink: sharing files between multiple devices using in-air gestures.  In Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp '14). ACM, New York, NY, USA,  565-569. DOI=http://dx.doi.org/10.1145/2632048.2632090
 conference: ACM International Joint Conference on Pervasive and Ubiquitous Computing
   (UbiComp), 2014
 date: '2014-09-13'
-image: ''
+image: '/images/pubs/AirLink.jpg'
 pdf: /pdfs/airlink.pdf
-thumbnail: ''
+thumbnail: '/images/pubs/AirLink.jpg'
 title: 'AirLink: Sharing Files Between Multiple Devices Using In-air Gestures'
-video: ''
-video_embed: ''
+video: 'https://www.youtube.com/watch?v=fnFUv2v7Gbg'
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/fnFUv2v7Gbg" frameborder="0" allowfullscreen></iframe>'
 ---

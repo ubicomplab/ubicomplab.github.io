@@ -36,16 +36,16 @@ bibtex: |-
    address = {New York, NY, USA},
    keywords = {battery-free sensors, sensing, thermal energy harvesting},
   }
-caption: ''
+caption: 'Temperature-based power harvester and sensor node'
 citation: |-
   Chen Zhao, Sam Yisrael, Joshua R. Smith, and Shwetak N. Patel. 2014. Powering wireless sensor nodes with ambient temperature changes.  In Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp '14). ACM, New York, NY, USA,  383-387. DOI=http://dx.doi.org/10.1145/2632048.2632066
 conference: ACM International Joint Conference on Pervasive and Ubiquitous Computing
   (UbiComp), 2014
 date: '2014-09-13'
-image: ''
+image: '/images/pubs/temppower.jpg'
 pdf: /pdfs/powering-wireless.pdf
-thumbnail: ''
+thumbnail: '/images/pubs/temppower.jpg'
 title: Powering Wireless Sensor Nodes with Ambient Temperature Changes
-video: ''
-video_embed: ''
+video: 'https://www.youtube.com/watch?v=cawnuJWTNJE'
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/cawnuJWTNJE" frameborder="0" allowfullscreen></iframe>'
 ---

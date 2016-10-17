@@ -41,11 +41,11 @@ citation: "Mayank Goel, Brendan Lee, Md. Tanvir Islam Aumi, Shwetak Patel, Gaeta
   \ USA,  1387-1396. DOI: http://dx.doi.org/10.1145/2556288.2557120"
 conference: Conference on Human Factors in Computing Systems (CHI), 2014
 date: '2014-04-26'
-image: ''
+image: '/images/pubs/surfacelink.jpg'
 pdf: /pdfs/surfacelink.pdf
-thumbnail: ''
+thumbnail: '/images/pubs/surfacelink.jpg'
 title: 'SurfaceLink: Using Inertial and Acoustic Sensing to Enable Multi-device Interaction
   on a Surface'
-video: ''
-video_embed: ''
+video: 'https://www.youtube.com/watch?v=enqP83UOaA8'
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/enqP83UOaA8" frameborder="0" allowfullscreen></iframe>'
 ---
