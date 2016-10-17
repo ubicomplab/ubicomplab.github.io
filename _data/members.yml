@@ -104,54 +104,54 @@
   image: /images/members/goel.jpg
   website: http://www.mayankgoel.com
   status: alumni
-  affiliation: Now a professor at Carnegie Mellon University
+  affiliation: Assistant Professor at Carnegie Mellon University
 
 - id: chen
   name: Keyu Chen
   image: /images/members/keyu.jpg
   website: http://www.keyuc.com
   status: alumni
-  affiliation: Now a researcher at Intel Labs
+  affiliation: Researcher at Intel Labs
   
 - id: cohn
   name: Gabe Cohn
   image: /images/members/cohn.jpg
   website: http://www.gabeacohn.com
   status: alumni
-  affiliation: Now a researcher at Microsoft Research
+  affiliation: Researcher at Microsoft Research
   
 - id: gupta
   name: Sidhant Gupta
   image: /images/members/gupta.jpg
   website: http://sidhantgupta.com/
   status: alumni
-  affiliation: Now a researcher at Microsoft Research
+  affiliation: Researcher at Microsoft Research
 
 - id: froehlich
   name: Jon Froehlich
   image: /images/members/froehlich.png
   website: http://www.cs.umd.edu/~jonf/
   status: alumni
-  affiliation: Now a professor at the University of Maryland, College Park.
+  affiliation: Assistant Professor at the University of Maryland
   
 - id: larson
   name: Eric Larson
   image: /images/members/larson.jpg
   website: http://www.eclarson.com
   status: alumni
-  affiliation: Now a professor at the Lyle School of Engineering, Southern Methodist University
+  affiliation: Assistant Professor at Southern Methodist University
 
 - id: lee
   name: Tien-jui Lee
   image: /images/members/tien.jpg
   status: alumni
-  affiliation: Now working at Senosis
+  affiliation: Engineer at Senosis Health
   
 - id: kay
   name: Matthew Kay
   image: /images/members/kay.jpg
   status: alumni
-  affiliation: Now a professor at the University of Michigan School of Information
+  affiliation: Assistant Professor at the University of Michigan
 
 
 # Past masters
