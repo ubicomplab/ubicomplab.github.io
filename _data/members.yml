@@ -27,7 +27,9 @@
 
 - id: li
   name: Hanchuan Li
-  image: /images/members/dummy.png
+  image: /images/members/Hanchuan.jpg
+  email: hanchuan@cs.washington.edu
+  website: http://hanchuan.wixsite.com/resume
   affiliation: CSE
   status: current
 
@@ -76,7 +78,7 @@
 
 - id: arian
   name: Morelle Arian
-  image: /images/members/dummy.png
+  image: /images/members/morelle_square.jpg
   affiliation: CSE
   status: current
 
