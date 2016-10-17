@@ -82,18 +82,33 @@
   affiliation: CSE
   status: current
 
-  
 - id: parizi
   name: Farshid Salemi Parizi
   image: /images/members/farshid.jpg
   affiliation: EE
   status: current
+  
+# Visiting Researchers
 
+- id: gulati
+  name: Manoj Gulati
+  image: /images/members/gulati.jpg
+  affiliation: PhD student at IIIT-Delhi
+  website: https://manojgulati.wordpress.com/
+  status: visiting
+  
+- id: wong
+  name: Dorothy Wong
+  image: /images/members/wong.jpg
+  affiliation: Masters student at the University of Washington in HCID
+  status: visiting
+  
+  
 # Masters
   
 - id: garrison
   name: Jake Garrison
-  image: /images/members/dummy.png
+  image: /images/members/garrison.jpg
   affiliation: EE
   status: current
 
