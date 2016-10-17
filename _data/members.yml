@@ -2,10 +2,10 @@
 
 - id: patel
   name: Shwetak Patel
-  image: /images/members/dummy.png
+  image: /images/members/shwetak.jpg
   website: http://abstract.cs.washington.edu/~shwetak/
   status: shifu
-
+  affiliation: Washington Research Foundation Entrepreneurship Endowed Professor in Computer Science and Engineering and Electrical Engineering at the University of Washington
 
 # Grad Students
 
