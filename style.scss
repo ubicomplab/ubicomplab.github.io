@@ -285,6 +285,20 @@ img {
    display: none !important;
 }
 
+.news {
+  padding-left: 0px;
+  li {
+    list-style: none;
+    margin-bottom: 5px;
+  }
+  .date {
+    display: inline;
+  }
+  .blurb {
+    display: inline
+  }
+}
+
 //
 // .main
 //

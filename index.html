@@ -3,6 +3,8 @@ layout: default
 
 ---
 
+{% assign sorted_news = site.data.news | sort: 'date' | reverse %}
+
 <div class="row">
   <div class="col-sm-12">
     <h3>The Ubiquitous Computing Lab develops innovative sensing systems for real world applications in <b>health</b>, <b>sustainability</b>, and <b>novel interactions</b>.</h3>
@@ -24,9 +26,9 @@ layout: default
   
   <div class="col-sm-4">
     <h2>News</h2>
-    <ul>
-    {% for news in site.data.news %}
-      <li><div class="date">{{ news.date | date: '%B %d, %Y' }}</div>
+    <ul class="news">
+    {% for news in sorted_news limit:5 %}
+      <li><div class="date">{{ news.date | date: '%B %d, %Y' }}:</div>
         <div class="blurb">
           {% if news.url == nil %}
           {{ news.blurb }}
@@ -36,6 +38,7 @@ layout: default
           </div></li>
     {% endfor %}
     </ul>
+    <a href="{{site.base_url}}/news/">(More news...)</a>
   </div>
   
   
@@ -56,7 +59,6 @@ $(document).ready(function(){
   $('.bxslider').bxSlider({
     adaptiveHeight: false,
     captions: true,
-    controls: true,
     auto: true
     });
 });
