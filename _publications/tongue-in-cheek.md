@@ -32,7 +32,7 @@ conference: Conference on Human Factors in Computing Systems (CHI), 2015
 date: '2015-04-18'
 image: '/images/pubs/tongueincheek.jpg'
 pdf: /pdfs/tongue-in-cheek.pdf
-thumbnail: '/images/pubs/tongueincheek.jpg'
+thumbnail: '/images/pubs/tongueincheek_thumbnail.jpg'
 title: 'Tongue-in-Cheek: Using Wireless Signals to Enable Non-Intrusive and Flexible
   Facial Gestures Detection'
 video: 'https://www.youtube.com/watch?v=CAehjSYkEt8'
