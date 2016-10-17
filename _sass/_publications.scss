@@ -20,6 +20,9 @@ code {
 
 .publication-badge {
   margin-bottom: 5px;
+  .glyphicon-file {
+    color: #980000;
+  }
   
   font-size: 15px;
   .publication-pic {
@@ -69,6 +72,11 @@ code {
 }
 
 .publication {
+
+  .glyphicon-file {
+    color: #980000;
+  }
+  
   h1 {
     margin-bottom: 0px;
   }
