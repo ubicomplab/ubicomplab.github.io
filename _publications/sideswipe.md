@@ -26,14 +26,14 @@ bibtex: |-
    address = {New York, NY, USA},
    keywords = {GSM, antenna, in-air hand gesture},
   }
-caption: ''
+caption:  'The SideSwipe system. Our system leverages the unmodified GSM signal to enable in-air hand gestures both above and on the side of the phone.'
 citation: |-
   Chen Zhao, Ke-Yu Chen, Md Tanvir Islam Aumi, Shwetak Patel, and Matthew S. Reynolds. 2014. SideSwipe: detecting in-air gestures around mobile devices using actual GSM signal.  In Proceedings of the 27th annual ACM symposium on User interface software and technology (UIST '14). ACM, New York, NY, USA,  527-534. DOI=10.1145/2642918.2647380 http://doi.acm.org/10.1145/2642918.2647380
 conference: ACM symposium on User Interface Software and Technology (UIST), 2014
 date: '2014-10-05'
-image: ''
+image: '/images/pubs/sideswipe.jpg'
 pdf: /pdfs/sideswipe.pdf
-thumbnail: ''
+thumbnail: '/images/pubs/sideswipe.jpg'
 title: 'SideSwipe: Detecting In-air Gestures Around Mobile Devices Using Actual GSM
   Signal'
 video: ''

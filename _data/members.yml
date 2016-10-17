@@ -146,6 +146,12 @@
   image: /images/members/tien.jpg
   status: alumni
   affiliation: Now working at Senosis
+  
+- id: kay
+  name: Matthew Kay
+  image: /images/members/kay.jpg
+  status: alumni
+  affiliation: Now a professor at the University of Michigan School of Information
 
 
 # Past masters

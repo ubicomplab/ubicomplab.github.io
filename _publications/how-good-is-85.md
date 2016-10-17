@@ -31,7 +31,7 @@ conference: Conference on Human Factors in Computing Systems (CHI), 2015
 date: '2015-04-18'
 image: ''
 pdf: /pdfs/how-good-is-85.pdf
-thumbnail: ''
+thumbnail: '/images/pubs/howgoodis_thumbnail.jpg'
 title: 'How Good is 85%?: A Survey Tool to Connect Classifier Evaluation to Acceptability
   of Accuracy'
 video: ''

@@ -25,16 +25,16 @@ bibtex: |-
    address = {New York, NY, USA},
    keywords = {accessibility, tongue gestures, tongue-computer interface, wireless signals},
   }
-caption: ''
+caption: 'Tongue-in-Cheek is a non-contact facial gesture detection system. It is integrated into a pair of off-the-shelf headphones.'
 citation: |-
   Mayank Goel, Chen Zhao, Ruth Vinisha, and Shwetak N. Patel. 2015. Tongue-in-Cheek: Using Wireless Signals to Enable Non-Intrusive and Flexible Facial Gestures Detection.  In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15). ACM, New York, NY, USA,  255-258. DOI: http://dx.doi.org/10.1145/2702123.2702591
 conference: Conference on Human Factors in Computing Systems (CHI), 2015
 date: '2015-04-18'
-image: ''
+image: '/images/pubs/tongueincheek.jpg'
 pdf: /pdfs/tongue-in-cheek.pdf
-thumbnail: ''
+thumbnail: '/images/pubs/tongueincheek.jpg'
 title: 'Tongue-in-Cheek: Using Wireless Signals to Enable Non-Intrusive and Flexible
   Facial Gestures Detection'
-video: ''
-video_embed: ''
+video: 'https://www.youtube.com/watch?v=CAehjSYkEt8'
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/CAehjSYkEt8" frameborder="0" allowfullscreen></iframe>'
 ---
