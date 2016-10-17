@@ -99,41 +99,49 @@
 
 - id: goel
   name: Mayank Goel
-  image: /images/members/dummy.png
+  image: /images/members/goel.jpg
   website: http://www.mayankgoel.com
   status: alumni
-  affiliation: Carnegie Mellon University
+  affiliation: Now a professor at Carnegie Mellon University
 
 - id: chen
   name: Keyu Chen
-  image: /images/members/dummy.png
+  image: /images/members/keyu.jpg
   website: http://www.keyuc.com
   status: alumni
-  affiliation: Intel Labs
+  affiliation: Now a researcher at Intel Labs
   
 - id: cohn
   name: Gabe Cohn
-  image: /images/members/dummy.png
+  image: /images/members/cohn.jpg
+  website: http://www.gabeacohn.com
   status: alumni
+  affiliation: Now a researcher at Microsoft Research
   
 - id: gupta
   name: Sidhant Gupta
-  image: /images/members/dummy.png
+  image: /images/members/gupta.jpg
+  website: http://sidhantgupta.com/
   status: alumni
+  affiliation: Now a researcher at Microsoft Research
 
 - id: froehlich
   name: Jon Froehlich
-  image: /images/members/dummy.png
+  image: /images/members/froehlich.png
+  website: http://www.cs.umd.edu/~jonf/
   status: alumni
+  affiliation: Now a professor at the University of Maryland, College Park.
   
 - id: larson
   name: Eric Larson
-  image: /images/members/dummy.png
+  image: /images/members/larson.jpg
+  website: http://www.eclarson.com
   status: alumni
+  affiliation: Now a professor at the Lyle School of Engineering, Southern Methodist University
 
 - id: lee
   name: Tien-jui Lee
-  image: /images/members/dummy.png
+  image: /images/members/tien.jpg
   status: alumni
 
 

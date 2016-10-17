@@ -1,5 +1,10 @@
 .member-badge {
   display: block;
+  .image {
+    img {
+      width:100%;
+    }
+  }
   .details {
     height: 150px;
     font-size: 10pt;
