@@ -36,4 +36,5 @@ thumbnail: ''
 title: 'SqueezeBlock: Using Virtual Springs in Mobile Devices for Eyes-free Interaction'
 video: ''
 video_embed: ''
+redirect_from: /projects/SqueezeBlock/
 ---

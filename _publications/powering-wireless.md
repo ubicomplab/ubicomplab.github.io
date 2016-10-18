@@ -48,4 +48,5 @@ thumbnail: '/images/pubs/temppower.jpg'
 title: Powering Wireless Sensor Nodes with Ambient Temperature Changes
 video: 'https://www.youtube.com/watch?v=cawnuJWTNJE'
 video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/cawnuJWTNJE" frameborder="0" allowfullscreen></iframe>'
+redirect_from: /projects/TemperaturePowerHarvester/
 ---

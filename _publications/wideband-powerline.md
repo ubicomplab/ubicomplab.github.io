@@ -37,4 +37,5 @@ thumbnail: ''
 title: Wideband Powerline Positioning for Indoor Localization
 video: ''
 video_embed: ''
+redirect_from: /projects/PLP/
 ---

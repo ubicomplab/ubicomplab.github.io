@@ -38,4 +38,5 @@ title: 'SideSwipe: Detecting In-air Gestures Around Mobile Devices Using Actual 
   Signal'
 video: ''
 video_embed: ''
+redirect_from: /projects/sideswipe/
 ---

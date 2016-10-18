@@ -48,4 +48,5 @@ title: 'SurfaceLink: Using Inertial and Acoustic Sensing to Enable Multi-device 
   on a Surface'
 video: 'https://www.youtube.com/watch?v=enqP83UOaA8'
 video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/enqP83UOaA8" frameborder="0" allowfullscreen></iframe>'
+redirect_from: /projects/SurfaceLink/
 ---

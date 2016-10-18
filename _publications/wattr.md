@@ -40,4 +40,5 @@ title: 'WATTR: A Method for Self-powered Wireless Sensing of Water Activity in t
   Home'
 video: ''
 video_embed: ''
+redirect_from: /projects/WATTR/
 ---

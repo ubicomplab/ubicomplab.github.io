@@ -36,4 +36,5 @@ title: 'GripSense: Using Built-in Sensors to Detect Hand Posture and Pressure on
   Mobile Phones'
 video: ''
 video_embed: ''
+redirect_from: /projects/GripSense/
 ---

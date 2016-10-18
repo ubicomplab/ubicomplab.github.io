@@ -37,4 +37,5 @@ title: 'The Haptic Laser: Multi-sensation Tactile Feedback for At-a-distance Phy
   Space Perception and Interaction'
 video: ''
 video_embed: ''
+redirect_from: /projects/HapticLaser/
 ---

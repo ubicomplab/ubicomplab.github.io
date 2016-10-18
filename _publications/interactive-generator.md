@@ -38,4 +38,5 @@ thumbnail: ''
 title: 'Interactive Generator: A Self-powered Haptic Feedback Device'
 video: ''
 video_embed: ''
+redirect_from: /projects/InGen/
 ---

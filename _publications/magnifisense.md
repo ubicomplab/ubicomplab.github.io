@@ -40,4 +40,5 @@ title: 'MagnifiSense: Inferring Device Interaction Using Wrist-worn Passive Magn
   Sensors'
 video: ''
 video_embed: ''
+redirect_from: /projects/magnifisense/
 ---

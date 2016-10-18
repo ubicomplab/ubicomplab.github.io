@@ -35,4 +35,5 @@ title: 'Detecting Human Movement by Differential Air Pressure Sensing in HVAC Sy
   Ductwork: An Exploration in Infrastructure Mediated Sensing'
 video: ''
 video_embed: ''
+redirect_from: /projects/HVAC/
 ---
