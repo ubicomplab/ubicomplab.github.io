@@ -4,7 +4,7 @@
 - name: Forbes Magazine Top 30 Innovators under 30
   people: [gupta]
   
-- name: Presidential Early Career Award for Scientists and Engineers
+- name: Presidential Early Career Award for Scientists and Engineers (PECASE)
   url: https://www.whitehouse.gov/the-press-office/2016/02/18/president-obama-honors-extraordinary-early-career-scientists
   people: [patel]
   
@@ -28,6 +28,13 @@
   url: http://www.sloan.org/sloan-research-fellowships/
   people: [patel] 
   
-- name: MIT Tech Review Innovators Under 35 Award
+- name: Microsoft Research Faculty Fellowship
+  url: https://www.microsoft.com/en-us/research/making-the-world-a-better-place-one-fellow-at-a-time/
+  people: [patel] 
+  
+- name: World Economic Forum Young Global Scientist Award
+  people: [patel] 
+  
+- name: MIT Tech Review Innovators Under 35 Award (TR-35)
   url: http://www2.technologyreview.com/tr35/profile.aspx?TRID=814
   people: [patel] 
