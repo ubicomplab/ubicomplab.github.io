@@ -22,9 +22,9 @@ citation: |-
   K. Y. Chen, S. Gupta, E. C. Larson and S. Patel, "DOSE: Detecting user-driven operating states of electronic devices from a single sensing point," Pervasive Computing and Communications (PerCom), 2015 IEEE International Conference on, St. Louis, MO, 2015, pp. 46-54.
 conference: IEEE International Conference on Pervasive Computing and Communications (PerCom), 2015
 date: '2015-03-23'
-image: ''
+image: '/images/pubs/DOSE.jpg'
 pdf: /pdfs/dose.pdf
-thumbnail: ''
+thumbnail: '/images/pubs/DOSE.jpg'
 title: 'DOSE: Detecting user-driven operating states of electronic devices from a single sensing point'
 video: 'https://www.youtube.com/watch?v=PixXD-RGxX8'
 video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/PixXD-RGxX8" frameborder="0" allowfullscreen></iframe>'

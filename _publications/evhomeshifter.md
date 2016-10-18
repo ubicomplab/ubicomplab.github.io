@@ -33,7 +33,7 @@ conference: ACM International Joint Conference on Pervasive and Ubiquitous Compu
 date: '2015-09-07'
 image: ''
 pdf: /pdfs/evhomeshifter.pdf
-thumbnail: ''
+thumbnail: '/images/pubs/evhomeshifter_thumbnail.png'
 title: 'EVHomeShifter: Evaluating Intelligent Techniques for Using Electrical Vehicle
   Batteries to Shift when Homes Draw Energy from the Grid'
 video: ''
