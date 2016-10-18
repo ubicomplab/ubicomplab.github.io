@@ -36,4 +36,5 @@ thumbnail: ''
 title: Whole-home Gesture Recognition Using Wireless Signals
 video: ''
 video_embed: ''
+redirect_from: /projects/WiSee/
 ---
