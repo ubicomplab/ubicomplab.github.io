@@ -112,3 +112,9 @@ code {
   word-break: normal;
   word-wrap: normal;
 }
+
+.flyer-thumbs {
+  img {
+    max-height: 200px;
+  }
+}
