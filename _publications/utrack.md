@@ -36,4 +36,5 @@ thumbnail: ''
 title: 'uTrack: 3D Input Using Two Magnetic Sensors'
 video: ''
 video_embed: ''
+redirect_from: /projects/utrack
 ---

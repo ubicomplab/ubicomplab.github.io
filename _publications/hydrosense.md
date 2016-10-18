@@ -40,4 +40,5 @@ title: 'HydroSense: Infrastructure-mediated Single-point Sensing of Whole-home W
   Activity'
 video: 'https://www.youtube.com/watch?v=dcPI1Cp0VZI'
 video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/dcPI1Cp0VZI" frameborder="0" allowfullscreen></iframe>'
+redirect_from: /projects/HydroSense
 ---

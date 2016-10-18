@@ -37,4 +37,5 @@ thumbnail: ''
 title: 'LightWave: Using Compact Fluorescent Lights As Sensors'
 video: ''
 video_embed: ''
+redirect_from: /projects/LightWave
 ---
