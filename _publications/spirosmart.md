@@ -39,5 +39,5 @@ thumbnail: ''
 title: 'SpiroSmart: Using a Microphone to Measure Lung Function on a Mobile Phone'
 video: ''
 video_embed: ''
-redirect_from: /projects/SpiroSmart
+redirect_from: /projects/SpiroSmart/
 ---

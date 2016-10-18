@@ -37,5 +37,5 @@ title: 'ElectriSense: Single-point Sensing Using EMI for Electrical Event Detect
   and Classification in the Home'
 video: ''
 video_embed: ''
-redirect_from: /projects/ElectriSense
+redirect_from: /projects/ElectriSense/
 ---

@@ -36,5 +36,5 @@ thumbnail: ''
 title: 'uTouch: Sensing Touch Gestures on Unmodified LCDs'
 video: ''
 video_embed: ''
-redirect_from: /projects/utouch
+redirect_from: /projects/utouch/
 ---

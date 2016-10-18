@@ -30,5 +30,5 @@ bibtex: |
     address = {New York, NY, USA},
     keywords = {computer vision, multispectral imaging, sensing},
     }
-redirect_from: /node/589
+redirect_from: /node/589/
 ---

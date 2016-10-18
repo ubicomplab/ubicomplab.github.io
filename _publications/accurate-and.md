@@ -38,5 +38,5 @@ thumbnail: ''
 title: Accurate and Privacy Preserving Cough Sensing Using a Low-cost Microphone
 video: ''
 video_embed: ''
-redirect_from: /projects/CoughSense
+redirect_from: /projects/CoughSense/
 ---
