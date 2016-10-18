@@ -25,7 +25,7 @@ body {
 }
 
 .fix-nav {
-  padding-top: 120px;
+  padding-top: 150px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -209,11 +209,16 @@ img {
   width: 100%;
   min-height: auto;
   @media (min-width: 768px){
-    height: 120px; 
+    height: 140px; 
   }
   
   .navbar-header {
     min-height: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    .fix-nav & {
+      margin-top: 0px!important;
+    }
     position: relative;
     z-index: 2;
   }
@@ -227,7 +232,7 @@ img {
     z-index: 1;
     @media (min-width: 768px){
       
-      height: 108px!important;
+      height: 128px!important;
       position: relative;
       
       .fix-nav & {
