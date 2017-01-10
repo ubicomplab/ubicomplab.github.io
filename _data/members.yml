@@ -311,12 +311,10 @@
   image: /images/members/dummy.png
   status: ugrad_alumni
   
-  
 - id: jiang
   name: Siju Jiang
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
   
 - id: johanson
   name: Brandon Johanson
@@ -385,6 +383,31 @@
   
 - id: jain_divye
   name: Divye Jain
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: yi_michael
+  name: Michael Yi
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: lu_clara
+  name: Clara Lu
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: kotalik_justin
+  name: Justin Kotalik
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: rana_rajneil
+  name: Rajneil Rana
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+  
+- id: viswanath_varun
+  name: Varun Viswanath
   image: /images/members/dummy.png
   status: ugrad_alumni
   
