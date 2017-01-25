@@ -15,8 +15,10 @@ Undergraduate research is an important part of the lab and we have a very active
 ## Applying
 Undergraduates and Masters students interested in conducting research in the Ubicomp lab must fill out an application at least two weeks before the start of the quarter during the academic year. Summer applicants must apply by April 15. We use the applications to keep track of everyone interested in doing research and to find project matches. Please note that we often get many more applications than positions we have, but we will try our best to find an opportunity for you.
 
-<a href="http://www.surveygizmo.com/s3/3175100/UbiComp-Lab-Research-Application-Winter-2017">Apply Here</a>
+<a href="http://www.surveygizmo.com/s3/3304064/UbiComp-Lab-Research-Application-Spring-2017">Apply Here</a> to get involved Spring quarter<br>
+<a href="http://www.surveygizmo.com/s3/3304067/UbiComp-Lab-Research-Application-Summer-2017">Apply Here</a> to get involved Summer quarter
 
 ## High school research opportunities 
 The Ubicomp Lab invites a select number of high school students from the Seattle area to conduct an intense 8-week long research project during the summer.  Prof. Shwetak Patel created this program because of his own participation in research when he was in high school and the incredible experience it provided for his career path.  The application process begins in April of each year.
 
+<a href="http://www.surveygizmo.com/s3/3304069/UbiComp-Lab-High-School-Research-Application-Summer-2017">Apply Here</a> to get involved over the Summer as a High School student
