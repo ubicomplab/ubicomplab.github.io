@@ -1,6 +1,6 @@
 ---
 title: 'Making Sense of Sleep Sensors: How Sleep Sensing Technologies Support and Undermine Sleep Health'
-authors: [ravichandran, Sang-Wha Sien, patel, Julie A. Kientz, & Laura R. Pina]
+authors: [ravichandran, Sang-Wha Sien, patel, Julie A. Kientz, Laura R. Pina]
 conference: ACM SIGCHI (Special Interest Group on Computer-Human Interaction), 2017
 date: 2017-05-11
 pdf: /pdfs/MakingSenseOfSleepSensors.pdf
