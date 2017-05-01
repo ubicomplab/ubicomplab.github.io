@@ -11,10 +11,12 @@ description: Ubiquitous Computing Lab at the University of Washington
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/9437612?v=3&s=200
 
+future: true
+
 collections:
   publications:
     output: true
-    
+
 defaults:
   - scope:
       path: ""

@@ -23,7 +23,7 @@ code {
   .glyphicon-file {
     color: #980000;
   }
-  
+
   font-size: 15px;
   .publication-pic {
     max-width: 300px;
@@ -58,17 +58,21 @@ code {
     font-size: 15px;
     font-family: $avenirHeavy;
   }
-  
+
   .btn {
     //width: 70px;
     //margin-top: 5px;
     //text-align:left;
   }
-  
+
   .award {
     color: #c70000;
     font-family: $avenirHeavy;
   }
+  .to-appear {
+    color: rgb(13, 95, 180);
+  }
+
 }
 
 .publication {
@@ -76,11 +80,11 @@ code {
   .glyphicon-file {
     color: #980000;
   }
-  
+
   h1 {
     margin-bottom: 0px;
   }
-  
+
   .materials {
     margin-bottom: 10px;
   }
@@ -98,7 +102,7 @@ code {
   }
 }
 h2 {
-  margin-bottom: 0; 
+  margin-bottom: 0;
   padding-bottom: 0;
   line-height: 1.2;
 }
