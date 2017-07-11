@@ -3,9 +3,9 @@ title: 'Automatic Characterization of User Errors in Spirometry'
 authors: [Andrew Luo, whitmire, James W. Stout, Drew Martenson, patel]
 conference: 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2017
 date: 2017-07-11
-# pdf: /pdfs/eyecontact.pdf
+pdf: /pdfs/spiroerror.pdf
 # video: https://www.youtube.com/watch?v=R8DG0aIZymg
-# video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/R8DG0aIZymg" frameborder="0" allowfullscreen></iframe>'
+# video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/R8DG0aIZymg" frameborder="0" allowfullscreen></iframe
 image: /images/pubs/spiroerror.png
 thumbnail: /images/pubs/spiroerror_thumb.png
 caption: An example of a spirometry device
