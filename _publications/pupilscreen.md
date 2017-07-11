@@ -1,8 +1,8 @@
 ---
 title: 'PupilScreen: Using Smartphones to Assess Traumatic Brain Injury'
 authors: [mariakakis, Jacob Baudin, whitmire, Vardhman Mehta, Megan A Banks, Anthony Law, Lynn McGrath, patel]
-conference: UbiComp '17
-date: 2017-09-05
+conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2017
+date: 2017-09-01
 pdf: /pdfs/pupilscreen.pdf
 image: /images/pubs/pupilscreen.jpg
 thumbnail: /images/pubs/pupilscreen_thumb.jpg

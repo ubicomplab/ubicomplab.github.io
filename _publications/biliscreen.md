@@ -1,7 +1,7 @@
 ---
 title: 'BiliScreen: Smartphone-Based Scleral Jaundice Monitoring for Liver and Pancreatic Disorders'
 authors: [mariakakis, Megan A. Banks, Lauren Phillipi, Lei Yu, James Taylor, patel]
-conference: UbiComp '17
+conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2017
 date: 2017-07-05
 pdf: /pdfs/biliscreen.pdf
 image: /images/pubs/biliscreen.jpg

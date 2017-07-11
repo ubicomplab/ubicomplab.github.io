@@ -2,7 +2,7 @@
 title: 'DigiTouch: Reconfigurable Thumb-to-Finger Input and Text Entry on Head-mounted Displays'
 authors: [whitmire, jain, Divye Jain, Greg Nelson, Ravi Karkar, patel]
 conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2017
-date: 2017-09-12
+date: 2017-09-1
 # award: Best Paper Award
 # pdf: /pdfs/eyecontact.pdf
 # video: https://www.youtube.com/watch?v=R8DG0aIZymg
