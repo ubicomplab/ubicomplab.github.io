@@ -4,8 +4,8 @@ authors: [wang, garrison, whitmire, goel, patel]
 conference: 30th Annual ACM Symposium on User Interface Software and Technology, UIST '17
 date: 2017-10-22
 pdf: /pdfs/carpacio.pdf
-image: /images/pubs/carpacio.jpg
-thumbnail: /images/pubs/carpacio_thumb.jpg
+image: /images/pubs/carpacio.png
+thumbnail: /images/pubs/carpacio_thumb.png
 caption: Carpacio enables modern vehicles to differentiate the user of the touch screen based on capacitive coupling of the user's body to the screen. 
 
 abstract: |
