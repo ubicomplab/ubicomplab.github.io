@@ -11,5 +11,6 @@ date: '2017-07-13'
 image: '/images/pubs/hemaapp_v2.png'
 pdf: /pdfs/hemaapp_v2.pdf
 thumbnail: '/images/pubs/hemaapp_v2_thumb.png'
+conference: IEEE 4th International Conference on Pervasive Computing for Healthcare (PERVASIVEHEALTH), 2015
 title: 'Noninvasive Hemoglobin Measurement using Unmodified Smartphone Camera and White Flash'
 redirect_from: /projects/hemaapp_v2/
