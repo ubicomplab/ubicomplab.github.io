@@ -6,7 +6,7 @@ authors:
 - Rajneil Rana
 - patel
 
-caption: ''
+caption: 'The new version of HemaApp enables the smartphone to measure hemoglobin with only the use of the white flash led'
 date: '2017-07-13'
 image: '/images/pubs/hemaapp_v2.png'
 pdf: /pdfs/hemaapp_v2.pdf
