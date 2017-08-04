@@ -1,5 +1,5 @@
 ---
-abstract: |-
+abstract: |
 We show that a mobile phone can measure hemoglobin levels using the built-in RGB camera and white LED without modification. Prior work has demonstrated that a smartphone using the built-in RGB camera with the aid of visible and IR lights can achieve a Pearson correlation results between 0.69-0.82 and an RMSE value between 1.26-1.56 g/dL. Our system builds upon the prior work and demonstrates that with only the built-in white LED, the estimation of hemoglobin level has a Pearson correlation of 0.62 with an RMSE of 1.27 g/dL. This extension work demonstrates that it is feasible to measure hemoglobin without using an IR source.authors:
 authors:
 - wang
