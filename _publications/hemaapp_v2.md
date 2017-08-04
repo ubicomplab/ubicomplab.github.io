@@ -9,7 +9,7 @@ We show that a mobile phone can measure hemoglobin levels using the built-in RGB
 caption: ''
 date: '2017-07-13'
 image: '/images/pubs/hemaapp_v2.png'
-pdf: /pdfs/hemaapp_v2_embc.pdf
+pdf: /pdfs/hemaapp_v2.pdf
 thumbnail: '/images/pubs/hemaapp_v2_thumb.png'
 title: 'Noninvasive Hemoglobin Measurement using Unmodified Smartphone Camera and White Flash'
 redirect_from: /projects/hemaapp_v2/
