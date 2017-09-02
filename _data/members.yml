@@ -413,6 +413,11 @@
   name: Varun Viswanath
   image: /images/members/dummy.png
   status: ugrad_alumni
+
+- id: liu_frank
+  name: Frank Liu
+  image: /images/members/dummy.png
+  status: ugrad_alumni
   
 # Past summer
 
