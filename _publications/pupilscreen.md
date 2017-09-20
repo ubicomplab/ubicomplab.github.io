@@ -7,6 +7,8 @@ pdf: /pdfs/pupilscreen.pdf
 image: /images/pubs/pupilscreen.jpg
 thumbnail: /images/pubs/pupilscreen_thumb.jpg
 caption: PupilScreen uses convolutional neural networks to track the pupillary light reflex (PLR)
+video: 'https://www.youtube.com/watch?v=sZwgpz4s8Jw'
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/watch?v=sZwgpz4s8Jw" frameborder="0" allowfullscreen></iframe>'
 citation: |
      Alex Mariakakis, Jacob Baudin, Eric Whitmire, Vardhman Mehta, Megan A. Banks, Anthony Law, Lynn McGrath, and Shwetak N. Patel. (2017). PupilScreen: Using Smartphones to Assess Traumatic Brain Injury. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 1(3), 81. DOI: https://doi.org/10.1145/3131896
 abstract: |

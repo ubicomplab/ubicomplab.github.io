@@ -7,6 +7,8 @@ pdf: /pdfs/biliscreen.pdf
 image: /images/pubs/biliscreen.jpg
 thumbnail: /images/pubs/biliscreen_thumb.jpg
 caption: BiliScreen uses machine learning to estimate the extent of jaundice in the sclera.
+video: 'https://www.youtube.com/watch?v=xAI-95DSZi8'
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xAI-95DSZi8" frameborder="0" allowfullscreen></iframe>'
 citation: |
     Alex Mariakakis, Megan A. Banks, Lauren Phillipi, Lei Yu, James Taylor, & Shwetak N. Patel. (2017). BiliScreen: Smartphone-Based Scleral Jaundice Monitoring for Liver and Pancreatic Disorders. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 1(2), 20. DOI: http://dx.doi.org/10.1145/3090085
 abstract: |
