@@ -1,7 +1,7 @@
 ---
 title: 'Carpacio: Repurposing Capacitive Sensors to Distinguish Driver and Passenger Touches on In-Vehicle Screens'
 authors: [wang, garrison, whitmire, goel, patel]
-conference: 30th Annual ACM Symposium on User Interface Software and Technology, UIST '17
+conference: 30th Annual ACM Symposium on User Interface Software and Technology (UIST), 2017
 date: 2017-10-22
 pdf: /pdfs/carpacio.pdf
 image: /images/pubs/carpacio.png
