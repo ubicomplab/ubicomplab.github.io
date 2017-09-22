@@ -53,6 +53,7 @@
   name: Lilian de Greef
   image: /images/members/liliandegreef.jpg
   affiliation: CSE
+  email: ldegreef@cs.washington.edu
   website: http://www.ldegreef.com
   status: current
 
@@ -60,6 +61,7 @@
   name: Ruth Ravichandran
   image: /images/members/ruth_profile.png
   affiliation: EE
+  email: vinisha@uw.edu
   website: http://vinisha7.wixsite.com/mysite
   status: current
 
@@ -75,13 +77,15 @@
   name: Alex Mariakakis
   image: /images/members/alexmariakakis.jpg
   affiliation: CSE
-  website: http://homes.cs.washington.edu/~atm15/
+  email: atm15@cs.washington.edu
+  website: http://atm15.github.io
   status: current
 
 - id: arian
   name: Morelle Arian
   image: /images/members/morelle_square.jpg
   affiliation: CSE
+  email: morellea@uw.edu
   website: http://homes.cs.washington.edu/~morellea/
   status: current
 
@@ -89,6 +93,7 @@
   name: Farshid Salemi Parizi
   image: /images/members/farshid.jpg
   affiliation: EE
+  email: farshid@uw.edu
   website: http://homes.cs.washington.edu/~farshid/
   status: current
   
