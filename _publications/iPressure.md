@@ -1,10 +1,14 @@
 ---
 title: 'A Smartphone-Based System for Assessing Intraocular Pressure'
-authors: [mariakakis, wang, patel, Joanne Wen]
-conference: 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2016
+authors:
+- mariakakis
+- wang
+- patel
+- Joanne Wen
+conference: EMBC '16
 date: 2016-08-16
 pdf: /pdfs/ipressure.pdf
-slides: /slides/ipressure.pptx
+slides: 'https://www.dropbox.com/s/0s98p2l8tf20t9e/iPressure_presentation.pptx?dl=0'
 image: /images/pubs/ipressure.jpg
 thumbnail: /images/pubs/ipressure_thumb.jpg
 caption: A smartphone attachment that helps the camera measure eye pressure

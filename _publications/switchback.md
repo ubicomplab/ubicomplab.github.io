@@ -1,10 +1,16 @@
 ---
 title: 'SwitchBack: Using Focus and Saccade Tracking to Guide Users’ Attention for Mobile Task Resumption'
-authors: [mariakakis, goel, Md. Tanvir Islam Aumi, patel, Jacob O. Wobbrock]
+authors: 
+- mariakakis
+- goel
+- Md. Tanvir Islam Aumi
+- patel
+- wobbrock
 conference: CHI '15
 award:
 date: 2015-04-01
 pdf: /pdfs/switchback.pdf
+slides: 'https://www.dropbox.com/s/m9uu0potuetp27p/SwitchBack_presentation.pptx?dl=0'
 image: /images/pubs/switchback.jpg
 thumbnail: /images/pubs/switchback_thumb.jpg
 caption: SwitchBack uses gaze tracking on smartphones to guide attention for task resumption.

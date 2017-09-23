@@ -83,7 +83,15 @@ layout: default
   <section>
     {{ content }}
   </section>
-
+  <section>
+    {% if page.press.size > 0 %}
+    <h3>Press</h3>
+      {% assign sorted_articles = page.press | sort: 'name' %}
+      {% for article in sorted_articles %}      
+        <u><a href="{{article.url}}">{{ article.name }}</a></u>: {{ article.headline }}<br/>
+      {% endfor %}
+    {% endif %}
+  </section>
 
 
 
