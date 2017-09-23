@@ -30,6 +30,11 @@ Create a new file in `_publications/`. I recommend copying an existing file (suc
 - `conference`: This should be in the format: ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2011
 - `date`: Publication/presentation date
 - `image`: Hi res image for the project detail page (accompanies `caption`). Add to `images/pubs/`.
+- `news`: (optional) List of different press releases, which contains
+	- `name`: the name of the news entity
+	- `url`: the url to the article
+	- `headline`: the headline
+	- `date`: the date the article was published
 - `pdf`: Copy from the ACM DL, not anywhere else.
 - `thumbnail`: Must be 16x9 and 300px wide. Add to `images/pubs/`.
 - `title`: Verbatim paper title
