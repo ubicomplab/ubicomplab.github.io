@@ -7,7 +7,7 @@ authors:
 - Julie A. Kientz
 - Matthew S. Reynolds
 - Gregory D. Abowd
-award: ''
+award: 'Ubicomp 10 year impact award'
 bibtex: |-
   @inproceedings{Patel:2007:FSD:1771592.1771608,
    author = {Patel, Shwetak N. and Robertson, Thomas and Kientz, Julie A. and Reynolds, Matthew S. and Abowd, Gregory D.},
