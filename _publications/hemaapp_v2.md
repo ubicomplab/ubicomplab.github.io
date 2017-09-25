@@ -11,7 +11,19 @@ date: '2017-07-13'
 image: '/images/pubs/hemaapp_v2.png'
 pdf: /pdfs/hemaapp_v2.pdf
 thumbnail: '/images/pubs/hemaapp_v2_thumb.png'
-conference: 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, EMBC’17
+citation: E. J. Wang, W. Li, J. Zhu, R. Rana and S. N. Patel, "Noninvasive hemoglobin measurement using unmodified smartphone camera and white flash," 2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Jeju Island, South Korea, 2017, pp. 2333-2336.
+bibtex: |
+    @inproceedings{8037323, 
+    author={E. J. Wang and W. Li and J. Zhu and R. Rana and S. N. Patel}, 
+    booktitle={2017 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)}, 
+    title={Noninvasive hemoglobin measurement using unmodified smartphone camera and white flash}, 
+    year={2017}, 
+    pages={2333-2336}, 
+    keywords={Absorption;Blood;Cameras;Color;Fingers;Light emitting diodes;Wavelength measurement}, 
+    doi={10.1109/EMBC.2017.8037323}, 
+    month={July},}
+
+conference: 39th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2017
 title: 'Noninvasive Hemoglobin Measurement using Unmodified Smartphone Camera and White Flash'
 redirect_from: /projects/hemaapp_v2/
 abstract: |
