@@ -96,6 +96,14 @@
   email: farshid@uw.edu
   website: http://homes.cs.washington.edu/~farshid/
   status: current
+
+- id: parkcj
+  name: Chunjong Park
+  image: /images/members/cjpark.jpg
+  affiliation: CSE
+  email: cjparkuw@cs.washington.edu
+  status: current
+
   
 # Visiting Researchers
 
