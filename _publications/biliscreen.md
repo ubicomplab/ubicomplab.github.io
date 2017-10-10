@@ -34,52 +34,56 @@ bibtex: |
     doi={10.1145/3090085}
     }
 press:
- - name: Allen School News
+ - name: "Allen School News"
    url: https://news.cs.washington.edu/2017/08/28/snap-a-selfie-screen-for-pancreatic-cancer-with-new-app-from-uw-researchers/
-   headline: Snap a selfie, screen for pancreatic cancer with new app from UW researchers
+   headline: "Snap a selfie, screen for pancreatic cancer with new app from UW researchers"
    date: 2017-08-28
- - name: BBC
+ - name: "BBC"
    url: http://www.bbc.co.uk/news/av/technology-41114587/selfie-app-spots-early-signs-of-pancreatic-cancer
-   headline: Selfie app 'spots early signs of pancreatic cancer'
+   headline: "Selfie app 'spots early signs of pancreatic cancer'"
    date: 2017-09-01
- - name: IEEE Spectrum
+ - name: "IEEE Spectrum"
    url: https://spectrum.ieee.org/the-human-os/biomedical/diagnostics/eye-scans-to-detect-cancer-and-alzheimers-disease
-   headline: Eye Scans to Detect Cancer and Alzheimer’s Disease
+   headline: "Eye Scans to Detect Cancer and Alzheimer’s Disease"
    date: 2017-08-31
- - name: Medscape
+ - name: "Medscape"
    url: http://www.medscape.com/viewarticle/885025
-   headline: Smartphone 'Selfies' May Help Diagnose Pancreatic Cancer
+   headline: "Smartphone 'Selfies' May Help Diagnose Pancreatic Cancer"
    date: 2017-08-30
- - name: NY Daily News
+ - name: "NY Daily News"
    url: http://www.nydailynews.com/life-style/health/selfies-detect-pancreatic-cancer-early-proposed-app-article-1.3455442
-   headline: Selfies could detect pancreatic cancer early with proposed app
+   headline: "Selfies could detect pancreatic cancer early with proposed app"
    date: 2017-08-30
- - name: USA Today
+ - name: "USA Today"
    url: https://www.usatoday.com/story/tech/talkingtech/2017/08/30/how-your-selfies-could-help-detect-pancreatic-cancer/615716001/
-   headline: How your selfies could help detect pancreatic cancer
+   headline: "How your selfies could help detect pancreatic cancer"
    date: 2017-08-31
- - name: KIRO-TV
+ - name: "KIRO-TV"
    url: http://www.kiro7.com/news/local/selfies-helping-detect-cancer-uw-researchers-are-on-it/600059156
-   headline: Selfies helping detect cancer? UW researchers are on it
+   headline: "Selfies helping detect cancer? UW researchers are on it"
    date: 2017-08-29
- - name: United Press International
+ - name: "United Press International"
    url: https://www.upi.com/Health_News/2017/08/28/App-uses-smartphone-selfies-to-screen-for-pancreatic-cancer/9681503947051/
-   headline: App uses smartphone selfies to screen for pancreatic cancer
+   headline: "App uses smartphone selfies to screen for pancreatic cancer"
    date: 2017-08-28
- - name: New York Post
+ - name: "New York Post"
    url: http://nypost.com/2017/08/29/selfies-can-now-diagnose-cancer/
-   headline: Selfies can now diagnose cancer
+   headline: "Selfies can now diagnose cancer"
    date: 2017-08-29
- - name: GeekWire
+ - name: "GeekWire"
    url: https://www.geekwire.com/2017/uw-team-creates-smartphone-selfie-system-screen-pancreatic-cancer/
-   headline: UW team creates smartphone selfie system to screen for pancreatic cancer
+   headline: "UW team creates smartphone selfie system to screen for pancreatic cancer"
    date: 2017-08-28
- - name: Cosmopolitan
+ - name: "Cosmopolitan"
    url: http://www.cosmopolitan.com/uk/body/a12140600/selfies-app-billscreen-cancer-jaundice/
-   headline: How selfies could soon be used to diagnose cancer
+   headline: "How selfies could soon be used to diagnose cancer"
    date: 2017-08-30
- - name: Engadget
+ - name: "Engadget"
    url: https://www.engadget.com/2017/08/28/app-detects-pancreatic-cancer-whites-of-eye/
-   headline: App detects pancreatic cancer from the whites of your eyes
+   headline: "App detects pancreatic cancer from the whites of your eyes"
    date: 2017-08-28
+ - name: "Reuters"
+   url: http://uk.reuters.com/video/2017/09/29/eye-selfie-could-screen-for-pancreatic-c?videoId=372636325&videoChannel=4000&channelName=Technology
+   headline: "Eye selfie could screen for pancreatic cancer"
+   date: 2017-09-29
 ---
