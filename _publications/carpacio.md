@@ -9,6 +9,8 @@ thumbnail: /images/pubs/carpacio_thumb.png
 caption: Carpacio enables modern vehicles to differentiate the user of the touch screen based on capacitive coupling of the user's body to the screen. 
 citation: | 
     Edward Jay Wang, Jake Garrison, Eric Whitmire, Mayank Goel, and Shwetak Patel. 2017. Carpacio: Repurposing Capacitive Sensors to Distinguish Driver and Passenger Touches on In-Vehicle Screens. In Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology (UIST '17). ACM, New York, NY, USA, 49-55. DOI: https://doi.org/10.1145/3126594.3126623
+video: 'https://youtu.be/v7hFJGhtokc'
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/v7hFJGhtokc" frameborder="0" allowfullscreen></iframe>'
 
 bibtex: |
     @inproceedings{Wang:2017:CRC:3126594.3126623,
