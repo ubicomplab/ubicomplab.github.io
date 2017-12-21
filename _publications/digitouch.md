@@ -8,6 +8,7 @@ pdf: /pdfs/digitouch.pdf
 # video: https://www.youtube.com/watch?v=R8DG0aIZymg
 # video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/R8DG0aIZymg" frameborder="0" allowfullscreen></iframe>'
 image: /images/pubs/digitouch.png
+video: https://youtu.be/4d_RMTVn9eQ
 thumbnail: /images/pubs/digitouch_thumb.png
 caption: DigiTouch is a reconfigurable glove that senses thumb-to-finger touches. It enables general input as well as text entry on head-mounted displays.
 citation: |
