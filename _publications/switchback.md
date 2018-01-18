@@ -5,7 +5,7 @@ authors:
 - goel
 - Md. Tanvir Islam Aumi
 - patel
-- wobbrock
+- Jacob Wobbrock
 conference: CHI '15
 award:
 date: 2015-04-01
