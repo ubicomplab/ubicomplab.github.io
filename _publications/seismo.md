@@ -32,10 +32,11 @@ bibtex: |-
 caption: 'Measuring blood pressure using Seismo, a smartphone application that uses the built-in accelerometer and camera to calculate pulse transit time.'
 citation: |-
   Edward Jay Wang, Junyi Zhu, Mohit Jain, Tien-Jui Lee, Elliot Saba, Lama Nachman, and Shwetak N. Patel. 2018. Seismo: Blood Pressure Monitoring using Built-in Smartphone Accelerometer and Camera. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA, Paper 425, 9 pages. DOI: https://doi.org/10.1145/3173574.3173999
+conference: Conference on Human Factors in Computing Systems (CHI), 2018
 date: '2018-04-20'
 image: '/images/pubs/seismo.jpg'
 pdf: /pdfs/seismo.pdf
-thumbnail: '/images/pubs/seismo+_thumb.jpg'
+thumbnail: '/images/pubs/seismo_thumb.jpg'
 title: 'Seismo: Blood Pressure Monitoring using Built-in Smartphone Accelerometer and Camera'
 video: 'https://youtu.be/Xd6hSQYHVCc'
 video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/Xd6hSQYHVCc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
