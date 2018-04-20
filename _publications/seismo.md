@@ -11,25 +11,25 @@ authors:
 - patel
 award: 'Honorable Mention Award'
 bibtex: |-
-  @inproceedings{Wang:2018:SBP:3173574.3173999,
- author = {Wang, Edward Jay and Zhu, Junyi and Jain, Mohit and Lee, Tien-Jui and Saba, Elliot and Nachman, Lama and Patel, Shwetak N.},
- title = {Seismo: Blood Pressure Monitoring Using Built-in Smartphone Accelerometer and Camera},
- booktitle = {Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems},
- series = {CHI '18},
- year = {2018},
- isbn = {978-1-4503-5620-6},
- location = {Montreal QC, Canada},
- pages = {425:1--425:9},
- articleno = {425},
- numpages = {9},
- url = {http://doi.acm.org/10.1145/3173574.3173999},
- doi = {10.1145/3173574.3173999},
- acmid = {3173999},
- publisher = {ACM},
- address = {New York, NY, USA},
- keywords = {noninvasive blood pressure, photoplethysmography, physiological sensing, ppg, ptt, pulse transit time, scg, seismocardiography},
-} 
-caption: 'Measuring blood pressure using Seismo, a smartphone application that uses the built-in accelerometer and camera to calculate pulse transit time.'
+      @inproceedings{Wang:2018:SBP:3173574.3173999,
+     author = {Wang, Edward Jay and Zhu, Junyi and Jain, Mohit and Lee, Tien-Jui and Saba, Elliot and Nachman, Lama and Patel, Shwetak N.},
+     title = {Seismo: Blood Pressure Monitoring Using Built-in Smartphone Accelerometer and Camera},
+     booktitle = {Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems},
+     series = {CHI '18},
+     year = {2018},
+     isbn = {978-1-4503-5620-6},
+     location = {Montreal QC, Canada},
+     pages = {425:1--425:9},
+     articleno = {425},
+     numpages = {9},
+     url = {http://doi.acm.org/10.1145/3173574.3173999},
+     doi = {10.1145/3173574.3173999},
+     acmid = {3173999},
+     publisher = {ACM},
+     address = {New York, NY, USA},
+     keywords = {noninvasive blood pressure, photoplethysmography, physiological sensing, ppg, ptt, pulse transit time, scg, seismocardiography},
+    } 
+caption: 'Seismo is a smartphone application that uses the built-in accelerometer and camera to calculate pulse transit time.'
 citation: |-
   Edward Jay Wang, Junyi Zhu, Mohit Jain, Tien-Jui Lee, Elliot Saba, Lama Nachman, and Shwetak N. Patel. 2018. Seismo: Blood Pressure Monitoring using Built-in Smartphone Accelerometer and Camera. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA, Paper 425, 9 pages. DOI: https://doi.org/10.1145/3173574.3173999
 conference: Conference on Human Factors in Computing Systems (CHI), 2018
