@@ -5,7 +5,7 @@ authors:
 - Sayna Parsi
 - patel
 - Jacob O. Wobbrock
-conference: CHI '18
+conference: Conference on Human Factors in Computing Systems (CHI), 2018
 date: 2018-04-22
 pdf: /pdfs/dui.pdf
 slides: 'https://www.dropbox.com/s/riobvfwegnfld6v/DUI_presentation.pptx?dl=0'
