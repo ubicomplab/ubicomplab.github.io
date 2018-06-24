@@ -4,7 +4,7 @@ authors:
 - mariakakis
 - Sayna Parsi
 - patel
-- wobbrock
+- Jacob O. Wobbrock
 conference: CHI '18
 date: 2018-04-22
 pdf: /pdfs/dui.pdf
