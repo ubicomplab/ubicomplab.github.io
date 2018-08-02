@@ -438,6 +438,11 @@
   name: Frank Liu
   image: /images/members/dummy.png
   status: ugrad_alumni
+
+- id: ruth_parker
+  name: Parker Ruth
+  image: /images/members/dummy.png
+  status: ugrad_alumni
   
 # Past summer
 
