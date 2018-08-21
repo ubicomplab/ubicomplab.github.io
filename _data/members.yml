@@ -25,13 +25,6 @@
   affiliation: CSE
   status: current
 
-- id: li
-  name: Hanchuan Li
-  image: /images/members/Hanchuan.jpg
-  email: hanchuan@cs.washington.edu
-  website: http://www.hanchuanli.com
-  affiliation: CSE
-  status: alumni
 
 - id: wang
   name: Edward Wang
@@ -135,7 +128,7 @@
   image: /images/members/garrison.jpg
   affiliation: EE
   website: http://jakegarrison.me/
-  status: current
+  status: master_alumni
 
 # Alumni
 
@@ -193,6 +186,13 @@
   status: alumni
   affiliation: Assistant Professor at the University of Michigan
 
+- id: li
+  name: Hanchuan Li
+  image: /images/members/Hanchuan.jpg
+  email: hanchuan@cs.washington.edu
+  website: http://www.hanchuanli.com
+  affiliation: Researcher at Microsoft Research
+  status: alumni
 
 # Past masters
 
@@ -446,11 +446,6 @@
   
 # Past summer
 
-- id: badshah
-  name: Akash Badshah
-  image: /images/members/dummy.png
-  status: summer_alumni
-  
 - id: badshah
   name: Akash Badshah
   image: /images/members/dummy.png
