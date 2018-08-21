@@ -123,12 +123,12 @@
   
 # Masters
   
-- id: garrison
-  name: Jake Garrison
-  image: /images/members/garrison.jpg
+- id: alvin
+  name: Alvin Cao
+  image: /images/members/alvin.jpg
   affiliation: EE
-  website: http://jakegarrison.me/
-  status: master_alumni
+  email: asc228@uw.edu
+  status: current
 
 # Alumni
 
@@ -221,6 +221,13 @@
   image: /images/members/dummy.png
   status: master_alumni
   
+- id: garrison
+  name: Jake Garrison
+  image: /images/members/garrison.jpg
+  affiliation: EE
+  website: http://jakegarrison.me/
+  status: master_alumni
+
   
 # Past undergrad
 
