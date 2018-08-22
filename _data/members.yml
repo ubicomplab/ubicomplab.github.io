@@ -224,8 +224,6 @@
 - id: garrison
   name: Jake Garrison
   image: /images/members/garrison.jpg
-  affiliation: EE
-  website: http://jakegarrison.me/
   status: master_alumni
 
   
