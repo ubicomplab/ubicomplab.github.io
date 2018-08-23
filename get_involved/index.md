@@ -15,11 +15,11 @@ Undergraduate research is an important part of the lab and we have a very active
 ## Applying
 Undergraduates and Masters students interested in conducting research in the Ubicomp lab must fill out an application at least one week before the start of the quarter during the academic year. Summer applicants must apply by April 15. We use the applications to keep track of everyone interested in doing research and to find project matches. Please note that we often get many more applications than positions we have, but we will try our best to find an opportunity for you.
 
-<!--<a href="http://www.surveygizmo.com/s3/4121925/UbiComp-Lab-Research-Application-Spring-2018">Apply Here</a> to get involved Spring quarter. Application due March 19th, 2018.-->
-<a href="http://www.surveygizmo.com/s3/4121883/UbiComp-Lab-Research-Application-Summer-2018">Apply Here</a> to get involved Summer quarter. Application due April 15th, 2018.
+<a href="https://www.surveygizmo.com/s3/4535373/UbiComp-Lab-Research-Application-Fall-2018">Apply Here</a> to get involved Fall quarter. Application due September 19th, 2018.
+<!--<a href="http://www.surveygizmo.com/s3/4121883/UbiComp-Lab-Research-Application-Summer-2018">Apply Here</a> to get involved Summer quarter. Application due April 15th, 2018.-->
 
 
 ## High school research opportunities 
-The Ubicomp Lab invites a select number of high school students from the Seattle area to conduct an intense 8-week long research project during the summer.  Prof. Shwetak Patel created this program because of his own participation in research when he was in high school and the incredible experience it provided for his career path.  Applications for the Summer 2018 program are due May 1st, 2018.
+The Ubicomp Lab invites a select number of high school students from the Seattle area to conduct an intense 8-week long research project during the summer.  Prof. Shwetak Patel created this program because of his own participation in research when he was in high school and the incredible experience it provided for his career path.  Applications for the Summer 2019 program will be available around March 2019.
 
-<a href="http://www.surveygizmo.com/s3/4210024/UbiComp-Lab-High-School-Research-Application-Summer-2018">Apply Here</a> to get involved over the summer as a High School student.
+<!--<a href="http://www.surveygizmo.com/s3/4210024/UbiComp-Lab-High-School-Research-Application-Summer-2018">Apply Here</a> to get involved over the summer as a High School student.-->
