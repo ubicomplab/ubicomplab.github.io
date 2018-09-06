@@ -34,14 +34,6 @@
   affiliation: EE
   status: current
 
-- id: saba
-  name: Elliot Saba
-  image: /images/members/saba.png
-  affiliation: EE
-  email: sabae@uw.edu
-  website: http://staticfloat.github.io
-  status: current
-
 - id: degreef
   name: Lilian de Greef
   image: /images/members/liliandegreef.jpg
@@ -104,7 +96,7 @@
   email: manuja21@uw.edu
   status: current
 
-  
+
 # Visiting Researchers
 
 - id: gulati
@@ -113,16 +105,16 @@
   affiliation: PhD student at IIIT-Delhi
   website: https://manojgulati.wordpress.com/
   status: visiting
-  
+
 - id: wong
   name: Dorothy Wong
   image: /images/members/wong.jpg
   affiliation: Masters student at the University of Washington in HCDE
   status: visiting
-  
-  
+
+
 # Masters
-  
+
 - id: cao
   name: Alvin Cao
   image: /images/members/alvin.jpg
@@ -145,14 +137,14 @@
   website: http://www.keyuc.com
   status: alumni
   affiliation: UX Researcher at Google ATAP
-  
+
 - id: cohn
   name: Gabe Cohn
   image: /images/members/cohn.jpg
   website: http://www.gabeacohn.com
   status: alumni
   affiliation: Researcher at Microsoft Research
-  
+
 - id: gupta
   name: Sidhant Gupta
   image: /images/members/gupta.jpg
@@ -166,7 +158,7 @@
   website: http://www.cs.umd.edu/~jonf/
   status: alumni
   affiliation: Assistant Professor at the University of Washington
-  
+
 - id: larson
   name: Eric Larson
   image: /images/members/larson.jpg
@@ -179,7 +171,7 @@
   image: /images/members/tien.jpg
   status: alumni
   affiliation: Engineer at Senosis Health
-  
+
 - id: kay
   name: Matthew Kay
   image: /images/members/kay.jpg
@@ -194,6 +186,15 @@
   affiliation: Researcher at Microsoft Research
   status: alumni
 
+  - id: saba
+    name: Elliot Saba
+    image: /images/members/saba.png
+    affiliation: EE
+    email: sabae@uw.edu
+    website: http://staticfloat.github.io
+    status: alumni
+    
+
 # Past masters
 
 - id: aumi
@@ -205,28 +206,28 @@
   name: Jack Lindsay
   image: /images/members/dummy.png
   status: master_alumni
-  
+
 - id: swanson
   name: Eric Swanson
   image: /images/members/dummy.png
   status: master_alumni
-  
+
 - id: ianacci
   name: Fran Iannacci
   image: /images/members/dummy.png
   status: master_alumni
-  
+
 - id: liu
   name: Sean Liu
   image: /images/members/dummy.png
   status: master_alumni
-  
+
 - id: garrison
   name: Jake Garrison
   image: /images/members/garrison.jpg
   status: master_alumni
 
-  
+
 # Past undergrad
 
 - id: alcaide
@@ -238,22 +239,22 @@
   name: Sergey Alekhnovich
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: campbell
   name: Tim Campbell
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: chou
   name: Michael Chou
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: garg
   name: Sunil Garg
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: horton
   name: Alex Horton
   image: /images/members/dummy.png
@@ -263,52 +264,52 @@
   name: Han Kim
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: kristjansson
   name: Stefan Kristjansson
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: michel
   name: Jonas Michel
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: peterson
   name: Josh Peterson
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: schwarz
   name: Julia Schwarz
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: sommerville
   name: Tom Sommerville
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: turnquist
   name: Erik Turnquist
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: zizyte
   name: Milda Zizyte
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: tseng
   name: Clint Tseng
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: agashe
   name: Rajas Agashe
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: banks
   name: Megan Banks
   image: /images/members/dummy.png
@@ -318,12 +319,12 @@
   name: Steven Benaloh
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: chen_yuxiang
   name: Yuxiang Chen
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: dorsett
   name: Matt Dorsett
   image: /images/members/dummy.png
@@ -333,107 +334,107 @@
   name: Michael Fadaie
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: guh
   name: Ka Ho Guh
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: jiang
   name: Siju Jiang
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: johanson
   name: Brandon Johanson
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: johnson
   name: Michael Johnson
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: kathuria
   name: Mayank Kathuria
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: mandyam
   name: Aishwarya Mandyam
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: mehta
   name: Vardhman Mehta
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: pickett
   name: Cameron Pickett
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: smoots
   name: Ryan Smoots
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: wang_ying
   name: Ying Wang
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: wu_meiling
   name: Meiling Wu
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: yisrael
   name: Samuel Yisrael
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: li_william
   name: William Li
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: zhu_junyi
   name: Junyi Zhu
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: luo_andrew
   name: Andrew Luo
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: jain_divye
   name: Divye Jain
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: yi_michael
   name: Michael Yi
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: lu_clara
   name: Clara Lu
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: kotalik_justin
   name: Justin Kotalik
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: rana_rajneil
   name: Rajneil Rana
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 - id: viswanath_varun
   name: Varun Viswanath
   image: /images/members/dummy.png
@@ -448,12 +449,10 @@
   name: Parker Ruth
   image: /images/members/dummy.png
   status: ugrad_alumni
-  
+
 # Past summer
 
 - id: badshah
   name: Akash Badshah
   image: /images/members/dummy.png
   status: summer_alumni
-
-  
