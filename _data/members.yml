@@ -186,14 +186,13 @@
   affiliation: Researcher at Microsoft Research
   status: alumni
 
-  - id: saba
-    name: Elliot Saba
-    image: /images/members/saba.png
-    affiliation: EE
-    email: sabae@uw.edu
-    website: http://staticfloat.github.io
-    status: alumni
-    
+- id: saba
+  name: Elliot Saba
+  image: /images/members/saba.png
+  affiliation: EE
+  email: sabae@uw.edu
+  website: http://staticfloat.github.io
+  status: alumni
 
 # Past masters
 
