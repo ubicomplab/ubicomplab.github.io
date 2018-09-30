@@ -96,6 +96,14 @@
   email: manuja21@uw.edu
   status: current
 
+- id: liu_xin
+  name: Xin Liu
+  image: /images/members/xin_liu.jpg
+  affiliation: CSE
+  website: https://homes.cs.washington.edu/~xliu0/
+  email: xliu0@cs.washington.edu
+  status: current
+
 
 # Visiting Researchers
 
