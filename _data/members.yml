@@ -103,6 +103,14 @@
   website: https://homes.cs.washington.edu/~xliu0/
   email: xliu0@cs.washington.edu
   status: current
+  
+  - id: ching
+  name: Alex Ching
+  image: /images/members/ching_alex.jpg
+  affiliation: CSE
+  website: https://students.washington.edu/atching/
+  email: atching@cs.washington.edu
+  status: current
 
 
 # Visiting Researchers
