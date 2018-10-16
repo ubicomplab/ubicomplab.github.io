@@ -5,7 +5,7 @@ authors:
 - patel
 - Matthew S. Reynolds
 - Gregory D. Abowd
-award: ''
+award: 'Ubicomp 10 year impact award'
 bibtex: |-
   @inproceedings{Patel:2009:DHM:1532200.1532202,
    author = {Patel, Shwetak N. and Reynolds, Matthew S. and Abowd, Gregory D.},
