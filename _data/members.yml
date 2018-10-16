@@ -112,6 +112,13 @@
   email: atching@cs.washington.edu
   status: current
 
+  - id: whitehill
+  name: Matt Whitehill
+  image: /images/members/whitehill_matt.jpg
+  affiliation: CSE
+  website: https://matthewwhitehill.com
+  email: mattw12@cs.washington.edu
+  status: current
 
 # Visiting Researchers
 
