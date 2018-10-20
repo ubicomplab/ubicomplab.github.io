@@ -6,7 +6,7 @@ abstract: |-
 We propose Glabella, a wearable device that continuously and unobtrusively monitors heart rates at three sites on the wearer’s head. Our glasses prototype incorporates optical sensors, processing, storage, and communication components, all integrated into the frame to passively collect physiological data about the user without the need for any interaction. Glabella continuously records the stream of reflected light intensities from blood flow as well as inertial measurements of the user’s head. From the temporal differences in pulse events across the sensors, our prototype derives the wearer’s pulse transit time on a beat-to-beat basis.
 award: 'Best Paper Award'
 bibtex: |-
-    @article{Holz:2017:GCS:3139486.3132024,
+@article{Holz:2017:GCS:3139486.3132024,
  author = {Holz, Christian and Wang, Edward J.},
  title = {Glabella: Continuously Sensing Blood Pressure Behavior Using an Unobtrusive Wearable Device},
  journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
