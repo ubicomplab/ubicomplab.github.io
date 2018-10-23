@@ -1,7 +1,7 @@
 ---
 title: 'RoyalFlush: non-invasive water level monitor to prevent toilet overflows'
 date: 2018-10-16 00:00:00 Z
-authors:[parizi, fromm, Shantanu Deshpande, patel]
+authors: [parizi, fromm, Shantanu Deshpande, patel]
 conference: Proceedings of the 8th International Conference on the Internet of Things, 2018
 #award: Honorable Mention Award
 pdf: "/pdfs/royalflush.pdf"
