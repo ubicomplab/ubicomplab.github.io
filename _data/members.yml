@@ -14,7 +14,7 @@
   image: /images/members/joshfromm.jpg
   email: jwfromm@uw.edu
   website: http://jwfromm.com
-  affiliation: EE
+  affiliation: ECE
   status: current
 
 - id: jain
@@ -31,7 +31,7 @@
   image: /images/members/edwardjaywang.jpg
   email: ejaywang@uw.edu
   website: http://www.ejaywang.com
-  affiliation: EE
+  affiliation: ECE
   status: current
 
 - id: degreef
@@ -45,7 +45,7 @@
 - id: ravichandran
   name: Ruth Ravichandran
   image: /images/members/ruth_profile.png
-  affiliation: EE
+  affiliation: ECE
   email: vinisha@uw.edu
   website: http://vinisha7.wixsite.com/mysite
   status: current
@@ -77,9 +77,9 @@
 - id: parizi
   name: Farshid Salemi Parizi
   image: /images/members/farshid.jpg
-  affiliation: EE
+  affiliation: ECE
   email: farshid@uw.edu
-  website: http://homes.cs.washington.edu/~farshid/
+  website: http://farshidsp.com/
   status: current
 
 - id: parkcj
@@ -92,7 +92,7 @@
 - id: sharma
   name: Manuja Sharma
   image: /images/members/sharma.jpg
-  affiliation: EE
+  affiliation: ECE
   email: manuja21@uw.edu
   status: current
 
@@ -141,7 +141,7 @@
 - id: cao
   name: Alvin Cao
   image: /images/members/alvin.jpg
-  affiliation: EE
+  affiliation: ECE
   email: asc228@uw.edu
   status: current
 
@@ -212,7 +212,7 @@
 - id: saba
   name: Elliot Saba
   image: /images/members/saba.png
-  affiliation: EE
+  affiliation: ECE
   email: sabae@uw.edu
   website: http://staticfloat.github.io
   status: alumni
