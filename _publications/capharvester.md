@@ -1,7 +1,7 @@
 ---
 title: 'CapHarvester: A Stick-on Capacitive Energy Harvester Using Stray Electric Field from AC Power Lines'
 date: 2018-09-08 00:00:00 Z
-authors:[gulati, parizi ,whitmire, gupta, Shobha Ram, Amarjeet Singh, patel]
+authors: [gulati, parizi ,whitmire, gupta, Shobha Ram, Amarjeet Singh, patel]
 conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2018
 #award: Honorable Mention Award
 pdf: "/pdfs/capharvester.pdf"
