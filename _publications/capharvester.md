@@ -33,5 +33,5 @@ bibtex: |
    publisher = {ACM},
    address = {New York, NY, USA},
    keywords = {Internet of Things, Power harvesting, Ultra-low power},
- } 
+  } 
 ---
