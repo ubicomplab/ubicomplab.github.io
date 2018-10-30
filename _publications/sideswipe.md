@@ -7,7 +7,6 @@ authors:
 - aumi
 - patel
 - Matthew S. Reynolds
-award: ''
 bibtex: |-
   @inproceedings{Zhao:2014:SDI:2642918.2647380,
    author = {Zhao, Chen and Chen, Ke-Yu and Aumi, Md Tanvir Islam and Patel, Shwetak and Reynolds, Matthew S.},

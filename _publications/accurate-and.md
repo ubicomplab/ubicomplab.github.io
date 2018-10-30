@@ -7,7 +7,6 @@ authors:
 - liu
 - Margaret Rosenfeld
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Larson:2011:APP:2030112.2030163,
    author = {Larson, Eric C. and Lee, TienJui and Liu, Sean and Rosenfeld, Margaret and Patel, Shwetak N.},

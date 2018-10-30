@@ -7,7 +7,6 @@ authors:
 - Cameron Pickett
 - Matt Reynolds
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Aumi:2014:SAW:2632048.2636087,
    author = {Aumi, Md Tanvir Islam and Gupta, Sidhant and Pickett, Cameron and Reynolds, Matt and Patel, Shwetak},

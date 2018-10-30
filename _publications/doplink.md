@@ -7,7 +7,6 @@ authors:
 - goel
 - larson
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Aumi:2013:DUD:2493432.2493515,
    author = {Aumi, Md Tanvir Islam and Gupta, Sidhant and Goel, Mayank and Larson, Eric and Patel, Shwetak},

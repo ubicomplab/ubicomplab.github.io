@@ -8,7 +8,6 @@ authors:
 - froehlich
 - alcaide
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Campbell:2010:WMS:1864349.1864378,
    author = {Campbell, Tim and Larson, Eric and Cohn, Gabe and Froehlich, Jon and Alcaide, Ramses and Patel, Shwetak N.},

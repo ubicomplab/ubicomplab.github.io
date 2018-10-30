@@ -7,7 +7,6 @@ authors:
 - froehlich
 - larson
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Cohn:2010:GAS:2166616.2166638,
    author = {Cohn, Gabe and Gupta, Sidhant and Froehlich, Jon and Larson, Eric and Patel, Shwetak N.},

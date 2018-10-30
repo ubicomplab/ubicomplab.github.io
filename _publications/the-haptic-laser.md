@@ -6,7 +6,6 @@ authors:
 - turnquist
 - Daniel Avrahami
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Iannacci:2011:HLM:1978942.1979239,
    author = {Iannacci, Francis and Turnquist, Erik and Avrahami, Daniel and Patel, Shwetak N.},

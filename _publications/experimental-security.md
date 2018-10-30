@@ -9,7 +9,6 @@ authors:
 - Tadayoshi Kohno
 - gupta
 - patel
-award: ''
 bibtex: |-
   @inproceedings {179014,
   author = {Temitope Oluwafemi and Tadayoshi Kohno and Sidhant Gupta and Shwetak Patel},

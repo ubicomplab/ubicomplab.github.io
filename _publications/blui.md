@@ -4,7 +4,6 @@ abstract: |-
 authors:
 - patel
 - Gregory D. Abowd
-award: ''
 bibtex: |-
   @inproceedings{Patel:2007:BLL:1294211.1294250,
    author = {Patel, Shwetak N. and Abowd, Gregory D.},

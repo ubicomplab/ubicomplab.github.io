@@ -7,7 +7,6 @@ authors:
 - goel
 - Sung-Hyuck Lee
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Chen:2014:ASF:2632048.2632090,
    author = {Chen, Ke-Yu and Ashbrook, Daniel and Goel, Mayank and Lee, Sung-Hyuck and Patel, Shwetak},

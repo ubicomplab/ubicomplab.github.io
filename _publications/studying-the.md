@@ -5,7 +5,6 @@ authors:
 - patel
 - Julie A. Kientz
 - gupta
-award: ''
 bibtex: |-
   @inproceedings{Patel:2010:SUU:2166616.2166635,
    author = {Patel, Shwetak N. and Kientz, Julie A. and Gupta, Sidhant},

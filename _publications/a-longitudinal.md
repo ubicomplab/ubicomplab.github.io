@@ -9,7 +9,6 @@ authors:
 - Les Atlas
 - James Fogarty
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Froehlich:2011:LSP:2021975.2021981,
    author = {Froehlich, Jon and Larson, Eric and Saba, Elliot and Campbell, Tim and Atlas, Les and Fogarty, James and Patel, Shwetak},

@@ -6,7 +6,6 @@ authors:
 - Kent Lyons
 - Sean White
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Chen:2013:UIU:2501988.2502035,
    author = {Chen, Ke-Yu and Lyons, Kent and White, Sean and Patel, Shwetak},

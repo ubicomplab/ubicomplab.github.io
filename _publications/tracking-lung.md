@@ -8,7 +8,6 @@ authors:
 - Gaetano Boriello
 - Margaret Rosenfeld
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Larson:2013:TLF:2442882.2442917,
    author = {Larson, Eric C. and Goel, Mayank and Redfield, Morgan and Boriello, Gaetano and Rosenfeld, Margaret and Patel, Shwetak N.},

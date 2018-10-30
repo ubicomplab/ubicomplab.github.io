@@ -6,7 +6,6 @@ authors:
 - Julie A. Kientz
 - patel
 - Gregory D. Abowd
-award: ''
 bibtex: |-
   @inproceedings{Kim:2008:YSS:1460563.1460660,
    author = {Kim, Sunyoung and Kientz, Julie A. and Patel, Shwetak N. and Abowd, Gregory D.},

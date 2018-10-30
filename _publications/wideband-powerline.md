@@ -7,7 +7,6 @@ authors:
 - Thomas Robertson
 - Matthew S. Reynolds
 - Gregory D. Abowd
-award: ''
 bibtex: |-
   @inproceedings{Stuntebeck:2008:WPP:1409635.1409649,
    author = {Stuntebeck, Erich P. and Patel, Shwetak N. and Robertson, Thomas and Reynolds, Matthew S. and Abowd, Gregory D.},

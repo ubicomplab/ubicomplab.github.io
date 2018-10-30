@@ -6,7 +6,6 @@ authors:
 - Dan Morris
 - patel
 - Desney Tan
-award: ''
 bibtex: |-
   @inproceedings{Gupta:2013:ANH:2493432.2493463,
    author = {Gupta, Sidhant and Morris, Dan and Patel, Shwetak N. and Tan, Desney},

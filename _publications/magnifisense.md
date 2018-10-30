@@ -8,7 +8,6 @@ authors:
 - goel
 - gupta
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Wang:2015:MID:2750858.2804271,
    author = {Wang, Edward J. and Lee, Tien-Jui and Mariakakis, Alex and Goel, Mayank and Gupta, Sidhant and Patel, Shwetak N.},

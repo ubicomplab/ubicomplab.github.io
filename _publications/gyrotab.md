@@ -7,7 +7,6 @@ authors:
 - Daniel Morris
 - patel
 - Desney Tan
-award: ''
 bibtex: |-
   @inproceedings{Badshah:2012:GHD:2207676.2208731,
    author = {Badshah, Akash and Gupta, Sidhant and Morris, Daniel and Patel, Shwetak and Tan, Desney},

@@ -6,7 +6,6 @@ authors:
 - gupta
 - larson
 - patel
-award: ''
 bibtex: |-
   @INPROCEEDINGS{7146508, 
   author={K. Y. Chen and S. Gupta and E. C. Larson and S. Patel}, 

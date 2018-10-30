@@ -6,7 +6,6 @@ authors:
 - cohn
 - gupta
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Chen:2013:UST:2470654.2481356,
    author = {Chen, Ke-Yu and Cohn, Gabe A. and Gupta, Sidhant and Patel, Shwetak N.},

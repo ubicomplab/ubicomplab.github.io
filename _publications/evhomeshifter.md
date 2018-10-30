@@ -6,7 +6,6 @@ authors:
 - John Krumm
 - gupta
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Brush:2015:EEI:2750858.2804274,
    author = {Brush, A. J. Bernheim and Krumm, John and Gupta, Sidhant and Patel, Shwetak},

@@ -8,7 +8,6 @@ authors:
 - Dan Morris
 - patel
 - Jun Rekimoto
-award: ''
 bibtex: |-
   @inproceedings{Mujibiya:2013:STO:2512349.2512821,
    author = {Mujibiya, Adiyan and Cao, Xiang and Tan, Desney S. and Morris, Dan and Patel, Shwetak N. and Rekimoto, Jun},

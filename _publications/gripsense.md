@@ -5,7 +5,6 @@ authors:
 - goel
 - Jacob Wobbrock
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Goel:2012:GUB:2380116.2380184,
    author = {Goel, Mayank and Wobbrock, Jacob and Patel, Shwetak},

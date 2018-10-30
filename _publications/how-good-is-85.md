@@ -5,7 +5,6 @@ authors:
 - Matthew Kay
 - patel
 - Julie A. Kientz
-award: ''
 bibtex: |-
   @inproceedings{Kay:2015:GST:2702123.2702603,
    author = {Kay, Matthew and Patel, Shwetak N. and Kientz, Julie A.},

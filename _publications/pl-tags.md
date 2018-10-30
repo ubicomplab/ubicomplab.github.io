@@ -5,7 +5,6 @@ authors:
 - patel
 - Erich P. Stuntebeck
 - Thomas Robertson
-award: ''
 bibtex: |-
   @inproceedings{Patel:2009:PDB:1560004.1560028,
    author = {Patel, Shwetak N. and Stuntebeck, Erich P. and Robertson, Thomas},

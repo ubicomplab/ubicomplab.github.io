@@ -6,7 +6,6 @@ authors:
 - campbell
 - Jeffrey R. Hightower
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Gupta:2010:SUV:1866029.1866046,
    author = {Gupta, Sidhant and Campbell, Tim and Hightower, Jeffrey R. and Patel, Shwetak N.},

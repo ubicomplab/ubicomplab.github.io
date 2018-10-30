@@ -8,7 +8,6 @@ authors:
 - Youngjun Han
 - Kurt L. Johnson
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Chen:2013:UUL:2555319.2555354,
    author = {Chen, Ke-Yu and Harniss, Mark and Lim, Justin Haowei and Han, Youngjun and Johnson, Kurt L. and Patel, Shwetak N.},

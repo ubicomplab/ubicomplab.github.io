@@ -8,7 +8,6 @@ authors:
 - Richard Adams
 - patel
 - Blake Hannaford
-award: ''
 bibtex: |-
   @inproceedings{Lindsay:2013:GVE:2501988.2502051,
    author = {Lindsay, Jack I.C. and Jiang, Iris and Larson, Eric and Adams, Richard and Patel, Shwetak N. and Hannaford, Blake},

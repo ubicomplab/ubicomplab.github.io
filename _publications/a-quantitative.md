@@ -6,7 +6,6 @@ authors:
 - patel
 - Matt Reynolds
 - Gregory Abowd
-award: ''
 bibtex: |-
   @inproceedings{Yun:2008:QII:1409635.1409646,
    author = {Yun, Jaeseok and Patel, Shwetak and Reynolds, Matt and Abowd, Gregory},

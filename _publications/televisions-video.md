@@ -6,7 +6,6 @@ authors:
 - gupta
 - Tadayoshi Kohno
 - patel
-award: ''
 bibtex: |-
   @inproceedings{Enev:2011:TVP:2046707.2046770,
    author = {Enev, Miro and Gupta, Sidhant and Kohno, Tadayoshi and Patel, Shwetak N.},
