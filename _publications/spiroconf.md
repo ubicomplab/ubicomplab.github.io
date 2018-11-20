@@ -10,8 +10,8 @@ pdf: '/pdfs/spiroconf.pdf'
 video: ''
 video_embed: ''
 image: '/images/pubs/spiroconf.png'
-thumbnail: ''/images/pubs/spiroconf_thumb.png
-caption: 'A patient performs a smartphone spirometry effort. The app using our proposed method recognizes that there was too much background noise, so it rejected the effort from analysis.'
+thumbnail: '/images/pubs/spiroconf_thumb.png'
+caption: A patient performs a smartphone spirometry effort. The app using our proposed method recognizes that there was too much background noise, so it rejected the effort from analysis.
 citation: |
     Varun Viswanath, Jake Garrison, and Shwetak Patel. 2018. SpiroConfidence: Determining the Validity of Smartphone Based Spirometry Using Machine Learning. In Proceedings of the 2018 EMBC Conference on Engineering in Medicine and Biology Conference (EMBC '18). IEEE, New York, NY, USA, Paper 1262, 4 pages.
 abstract: |
