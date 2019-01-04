@@ -2,7 +2,7 @@
 title: 'SpiroConfidence: Determining the Validity of Smartphone Based Spirometry Using Machine Learning'
 authors:
 - Varun Viswanath
-- Jake Garrison
+- garrison
 - patel
 conference: 'Engineering in Medicine and Biology Conference (EMBC) 2018'
 date: 2018-07-21 00:00:00 Z
