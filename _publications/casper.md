@@ -1,5 +1,5 @@
 ---
-title: 'CASPER: capacitive serendipitous power transfer for through-body charging of multiple wearable devices'
+title: 'CASPER: Capacitive Serendipitous Power Transfer for Through-body Charging of Multiple Wearable Devices'
 authors: [wang, sharma, yzhao, patel]
 conference: ACM International Symposium on Wearable Computers (ISWC), 2018
 date: 2018-10-08
