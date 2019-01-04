@@ -1,11 +1,11 @@
 ---
 title: 'CASPER: capacitive serendipitous power transfer for through-body charging of multiple wearable devices'
-authors: [wang, sharma, zhao, patel]
+authors: [wang, sharma, yzhao, patel]
 conference: ACM International Symposium on Wearable Computers (ISWC), 2018
 date: 2018-10-08
 pdf: /pdfs/casper.pdf
 image: /images/pubs/casper.jpg
-thumbnail: /images/pubs/casper_thumb.jpg
+thumbnail: /images/pubs/casper_thumb.png
 caption: (Left) Prototype of a CASPER powered wound monitoring gauze pad worn on the user’s leg. The bed sheet acts as the body electrode, while the blanket acts as the floating electrode. (Right) The RX floating and body electrode feeds the 13.56MHz coupled signal into a multi-stage diode rectifier network for AC to DC conversion. A Zener diode prevents the power storage from over-voltage. Depending on the application, the power storage can be a simple capacitor or a solid state battery with a BQ25504 charge controller. A load can then be run from the stored DC power. 
 citation: | 
     Edward J. Wang, Manuja Sharma, Yiran Zhao, and Shwetak N. Patel. 2018. CASPER: capacitive serendipitous power transfer for through-body charging of multiple wearable devices. In Proceedings of the 2018 ACM International Symposium on Wearable Computers (ISWC '18). ACM, New York, NY, USA, 188-195. DOI: https://doi.org/10.1145/3267242.3267254
