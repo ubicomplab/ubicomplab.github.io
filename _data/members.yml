@@ -103,7 +103,7 @@
   website: https://homes.cs.washington.edu/~xliu0/
   email: xliu0@cs.washington.edu
   status: current
-  
+
 - id: ching
   name: Alex Ching
   image: /images/members/ching_alex.jpg
@@ -255,6 +255,21 @@
   name: Jake Garrison
   image: /images/members/garrison.jpg
   status: master_alumni
+
+
+# Current Undergraduate
+
+- id: viswanath_varun
+  name: Varun Viswanath
+  affiliation: Computer Science and Engineering
+  image: /images/members/dummy.png
+  status: ugrad
+
+- id: ruth_parker
+  name: Parker Ruth
+  affiliation: Computer Science and Engineering
+  image: /images/members/dummy.png
+  status: ugrad
 
 
 # Past undergrad
@@ -464,20 +479,11 @@
   image: /images/members/dummy.png
   status: ugrad_alumni
 
-- id: viswanath_varun
-  name: Varun Viswanath
-  image: /images/members/dummy.png
-  status: ugrad_alumni
-
 - id: liu_frank
   name: Frank Liu
   image: /images/members/dummy.png
   status: ugrad_alumni
 
-- id: ruth_parker
-  name: Parker Ruth
-  image: /images/members/dummy.png
-  status: ugrad_alumni
 
 # Past summer
 

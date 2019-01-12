@@ -7,14 +7,14 @@ Thumbnail pictures should be 16x9, at least 300 px wide.
 
 ## Updating profile
 #### Edit Metadata
-Modify `_data/members.yml`. 
+Modify `_data/members.yml`.
 Fields:
 - `id`: This should be your last name. This is what you'll use throughout the site to refer to you. If you have a website listed, it will replace references of your name with a link to your website.
 - `name`: Full name
 - `image`: Path to your profile picture. Images should be square and ideally 165x165px.
 - `website`: Full link to your personal website
 - `affiliation`: Either EE or CSE. See _data/affiliations.yml.
-- `status`: One of `current`, `alumni`, `master_alumni`, `ugrad_alumni`, or `summer_alumni`
+- `status`: One of `current`, `alumni`, `master_alumni`, `ugrad`, `ugrad_alumni`, or `summer_alumni`
 
 #### Upload image
 Images should be uploaded to `images/members/`. Images should be square and (ideally) 165x165px. If you upload something else, it will be cropped.
