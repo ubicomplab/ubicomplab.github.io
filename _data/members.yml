@@ -262,13 +262,15 @@
 - id: viswanath_varun
   name: Varun Viswanath
   affiliation: Computer Science and Engineering
-  image: /images/members/dummy.png
+  image: /images/members/varun.png
+  website: https://www.linkedin.com/in/varun-viswanath-aab70345
   status: ugrad
 
 - id: ruth_parker
   name: Parker Ruth
   affiliation: Computer Science and Engineering
-  image: /images/members/dummy.png
+  image: /images/members/parker_ruth.png
+  website: https://parkersruth.github.io/
   status: ugrad
 
 
