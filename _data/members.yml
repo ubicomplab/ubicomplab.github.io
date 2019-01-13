@@ -120,22 +120,6 @@
   email: mattw12@cs.washington.edu
   status: current
 
-# Visiting Researchers
-
-- id: gulati
-  name: Manoj Gulati
-  image: /images/members/gulati.jpg
-  affiliation: PhD student at IIIT-Delhi
-  website: https://manojgulati.wordpress.com/
-  status: visiting
-
-- id: wong
-  name: Dorothy Wong
-  image: /images/members/wong.jpg
-  affiliation: Masters student at the University of Washington in HCDE
-  status: visiting
-
-
 # Masters
 
 - id: cao
@@ -143,14 +127,14 @@
   image: /images/members/alvin.jpg
   affiliation: ECE
   email: asc228@uw.edu
-  status: current
+  status: master
 
 - id: yzhao
   name: Yiran Zhao
   image: /images/members/yzhao.jpg
   affiliation: BHI
   email: yzhao362@uw.edu
-  status: current
+  status: master
 
 # Alumni
 
@@ -273,6 +257,20 @@
   website: https://parkersruth.github.io/
   status: ugrad
 
+# Past Visiting Researchers
+
+- id: gulati
+  name: Manoj Gulati
+  image: /images/members/gulati.jpg
+  affiliation: PhD student at IIIT-Delhi
+  website: https://manojgulati.wordpress.com/
+  status: visiting_alumni
+
+- id: wong
+  name: Dorothy Wong
+  image: /images/members/wong.jpg
+  affiliation: Masters student at the University of Washington in HCDE
+  status: visiting_alumni
 
 # Past undergrad
 
