@@ -257,6 +257,13 @@
   website: https://parkersruth.github.io/
   status: ugrad
 
+- id: millicent_li
+  name: Millicent Li
+  affiliation: Computer Science and Engineering
+  image: /images/members/millicent_li.jpg
+  website: https://www.linkedin.com/in/limillicent/
+  status: ugrad
+
 # Past Visiting Researchers
 
 - id: gulati
