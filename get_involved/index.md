@@ -16,6 +16,7 @@ Undergraduate research is an important part of the lab and we have a very active
 Undergraduates and Masters students interested in conducting research in the Ubicomp lab must fill out an application before the start of the quarter during the academic year. Summer applicants must apply by April 30. We use the applications to keep track of everyone interested in doing research and to find project matches. Please note that we often get many more applications than positions we have, but we will try our best to find an opportunity for you.
 
 <a href="https://www.surveygizmo.com/s3/4850688/UbiComp-Lab-Research-Application-Spring-2019">Apply Here</a> to get involved Spring quarter. Application due April 7th, 2019.
+
 <a href="https://www.surveygizmo.com/s3/4850707/UbiComp-Lab-Research-Application-Summer-2019">Apply Here</a> to get involved Summer quarter. Application due April 30th, 2019.
 
 
