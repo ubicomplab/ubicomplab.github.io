@@ -8,7 +8,7 @@ pdf: /pdfs/farmchat.pdf
 video: https://www.youtube.com/watch?v=kZOHereThR0
 video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/kZOHereThR0" frameborder="0" allowfullscreen></iframe>'
 image: /images/pubs/farmchat.jpg
-thumbnail: /images/pubs/farmchat_thumb.jpg
+thumbnail: /images/pubs/farmchat_thumb.png
 caption: FarmChat is a novel speech-based conversational system that meets the information needs of low literate rural Indian farmers. The chatbot's intelligence was based on Kisan Call Center logs and inputs from local agri-experts.
 citation: |
     Mohit Jain, Pratyush Kumar, Ishita Bhansali, Q. Vera Liao, Khai Truong, and Shwetak Patel. 2018. FarmChat: A Conversational Agent to Answer Farmer Queries. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 2, 4, Article 170 (December 2018), 22 pages. https://doi.org/10.1145/3287048
