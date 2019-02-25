@@ -2,7 +2,7 @@
 title: 'FarmChat: A Conversational Agent to Answer Farmer Queries'
 authors: [jain, Pratyush Kumar, Ishita Bhansali, Q. Vera Liao, Khai Truong, patel]
 conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2018
-date: 2019-09-12
+date: 2018-12-01
 award: ''
 pdf: /pdfs/farmchat.pdf
 video: https://www.youtube.com/watch?v=kZOHereThR0
