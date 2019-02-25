@@ -7,7 +7,7 @@ award: ''
 pdf: /pdfs/farmchat.pdf
 video: https://www.youtube.com/watch?v=kZOHereThR0
 video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/kZOHereThR0" frameborder="0" allowfullscreen></iframe>'
-image: /images/pubs/farmchat.jpg
+image: /images/pubs/farmchat.png
 thumbnail: /images/pubs/farmchat_thumb.png
 caption: FarmChat is a novel speech-based conversational system that meets the information needs of low literate rural Indian farmers. The chatbot's intelligence was based on Kisan Call Center logs and inputs from local agri-experts.
 citation: |
