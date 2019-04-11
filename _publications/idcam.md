@@ -3,9 +3,10 @@ title: 'IDCam: Precise Item Identification for AR Enhanced Object Interactions'
 authors: [li, whitmire, mariakakis, Victor Chan, Alanson P. Sample, patel]
 conference: 13th Annual IEEE International Conference on RFID, 2019
 date: 2019-04-02
-pdf:
-video:
-video_embed:
+award: Best Paper Nominee
+pdf: /pdfs/idcam.pdf
+video: https://www.youtube.com/watch?v=ANTm7oKZLLE
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/ANTm7oKZLLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 image: /images/pubs/idcam.png
 thumbnail: /images/pubs/idcam_thumb.jpg
 caption: IDCam combines hand tracking trajectories with RFID data to precisely identify objects the user picks up.
