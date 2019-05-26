@@ -366,6 +366,11 @@
   image: /images/members/dummy.png
   status: ugrad_alumni
 
+- id: chan
+  name: Eric Chan
+  image: /images/members/dummy.png
+  status: ugrad_alumni
+
 - id: benaloh
   name: Steven Benaloh
   image: /images/members/dummy.png
