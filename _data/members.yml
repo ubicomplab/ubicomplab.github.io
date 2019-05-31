@@ -264,6 +264,13 @@
   website: https://www.linkedin.com/in/limillicent/
   status: ugrad
 
+- id: jerry_cao
+  name: Jerry Cao
+  affiliation: Computer Science and Engineering
+  image: /images/members/jerry_cao.jpg
+  website: https://www.linkedin.com/in/jcao22/
+  status: ugrad
+
 # Past Visiting Researchers
 
 - id: gulati
