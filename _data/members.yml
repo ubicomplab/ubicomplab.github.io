@@ -25,14 +25,6 @@
   website: http://vinisha7.wixsite.com/mysite
   status: current
 
-- id: mariakakis
-  name: Alex Mariakakis
-  image: /images/members/alexmariakakis.jpg
-  affiliation: CSE
-  email: atm15@cs.washington.edu
-  website: http://atm15.github.io
-  status: post_grad
-
 - id: arian
   name: Morelle Arian
   image: /images/members/morelle_square.jpg
@@ -95,6 +87,15 @@
   status: current
 
 # Masters
+
+# Postdocs/visiting researchers
+- id: mariakakis
+  name: Alex Mariakakis
+  image: /images/members/alexmariakakis.jpg
+  affiliation: CSE
+  email: atm15@cs.washington.edu
+  website: http://atm15.github.io
+  status: visiting
 
 # Alumni
 
