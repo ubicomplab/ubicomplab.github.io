@@ -242,13 +242,6 @@
 
 # Current Undergraduate
 
-- id: viswanath_varun
-  name: Varun Viswanath
-  affiliation: Computer Science and Engineering
-  image: /images/members/varun.jpg
-  website: https://www.linkedin.com/in/varun-viswanath-aab70345
-  status: ugrad
-
 - id: ruth_parker
   name: Parker Ruth
   affiliation: Computer Science and Engineering
@@ -502,6 +495,12 @@
   image: /images/members/dummy.png
   status: ugrad_alumni
 
+- id: viswanath_varun
+  name: Varun Viswanath
+  affiliation: Computer Science and Engineering
+  image: /images/members/varun.jpg
+  website: https://www.linkedin.com/in/varun-viswanath-aab70345
+  status: ugrad_alumni
 
 # Past summer
 
