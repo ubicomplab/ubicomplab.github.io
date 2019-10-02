@@ -236,9 +236,9 @@
 - id: yzhao
   name: Yiran Zhao
   image: /images/members/yzhao.jpg
-  affiliation: BHI
   email: yzhao362@uw.edu
   status: master_alumni
+  #affiliation: BHI
 
 
 # Current Undergraduate
