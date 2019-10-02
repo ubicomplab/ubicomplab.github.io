@@ -17,31 +17,6 @@
   affiliation: ECE
   status: current
 
-- id: jain
-  name: Mohit Jain
-  image: /images/members/mohitjain.jpg
-  email: mohitj@cs.washington.edu
-  website: https://homes.cs.washington.edu/~mohitj/
-  affiliation: CSE
-  status: current
-
-
-- id: wang
-  name: Edward Wang
-  image: /images/members/edwardjaywang.jpg
-  email: ejaywang@uw.edu
-  website: http://www.ejaywang.com
-  affiliation: ECE
-  status: current
-
-- id: degreef
-  name: Lilian de Greef
-  image: /images/members/liliandegreef.jpg
-  affiliation: CSE
-  email: ldegreef@cs.washington.edu
-  website: http://www.ldegreef.com
-  status: current
-
 - id: ravichandran
   name: Ruth Ravichandran
   image: /images/members/ruth_profile.png
@@ -50,21 +25,13 @@
   website: http://vinisha7.wixsite.com/mysite
   status: current
 
-- id: whitmire
-  name: Eric Whitmire
-  image: /images/members/whitmire.jpg
-  affiliation: CSE
-  email: emwhit@cs.washington.edu
-  website: http://www.ericwhitmire.com
-  status: current
-
 - id: mariakakis
   name: Alex Mariakakis
   image: /images/members/alexmariakakis.jpg
   affiliation: CSE
   email: atm15@cs.washington.edu
   website: http://atm15.github.io
-  status: current
+  status: post_grad
 
 - id: arian
   name: Morelle Arian
@@ -207,6 +174,38 @@
   email: sabae@uw.edu
   website: http://staticfloat.github.io
   status: alumni
+  
+- id: jain
+  name: Mohit Jain
+  image: /images/members/mohitjain.jpg
+  email: mohitj@cs.washington.edu
+  website: https://homes.cs.washington.edu/~mohitj/
+  affiliation: Senior Researcher at MSR India
+  status: alumni
+  
+- id: wang
+  name: Edward Wang
+  image: /images/members/edwardjaywang.jpg
+  email: ejaywang@uw.edu
+  website: http://www.ejaywang.com
+  affiliation: Assistant Professor at UCSD 
+  status: alumni
+  
+- id: degreef
+  name: Lilian de Greef
+  image: /images/members/liliandegreef.jpg
+  affiliation: Research Scientist at Apple
+  email: ldegreef@cs.washington.edu
+  website: http://www.ldegreef.com
+  status: alumni
+
+- id: whitmire
+  name: Eric Whitmire
+  image: /images/members/whitmire.jpg
+  affiliation: Research Scientist at Facebook Reality Labs
+  email: emwhit@cs.washington.edu
+  website: http://www.ericwhitmire.com
+  status: current
 
 # Past masters
 
