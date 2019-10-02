@@ -86,22 +86,15 @@
   website: https://matthewwhitehill.com
   email: mattw12@cs.washington.edu
   status: current
-
-# Masters
-
+  
 - id: cao
   name: Alvin Cao
   image: /images/members/alvin.jpg
   affiliation: ECE
   email: asc228@uw.edu
-  status: master
+  status: current
 
-- id: yzhao
-  name: Yiran Zhao
-  image: /images/members/yzhao.jpg
-  affiliation: BHI
-  email: yzhao362@uw.edu
-  status: master
+# Masters
 
 # Alumni
 
@@ -237,6 +230,13 @@
 - id: garrison
   name: Jake Garrison
   image: /images/members/garrison.jpg
+  status: master_alumni
+  
+- id: yzhao
+  name: Yiran Zhao
+  image: /images/members/yzhao.jpg
+  affiliation: BHI
+  email: yzhao362@uw.edu
   status: master_alumni
 
 
