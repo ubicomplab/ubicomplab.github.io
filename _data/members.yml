@@ -92,10 +92,10 @@
 - id: mariakakis
   name: Alex Mariakakis
   image: /images/members/alexmariakakis.jpg
-  affiliation: CSE
   email: atm15@cs.washington.edu
   website: http://atm15.github.io
   status: visiting
+  #affiliation: CSE
 
 # Alumni
 
