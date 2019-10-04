@@ -86,7 +86,7 @@
   email: asc228@uw.edu
   status: current
 
-  - id: hoffman
+- id: hoffman
   name: Jason Hoffman
   image: /images/members/jason.jpg
   affiliation: cse
