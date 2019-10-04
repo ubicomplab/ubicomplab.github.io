@@ -86,6 +86,13 @@
   email: asc228@uw.edu
   status: current
 
+  - id: hoffman
+  name: Jason Hoffman
+  image: /images/members/jason.jpg
+  affiliation: cse
+  email: jasonhof@cs.washington.edu
+  status: current
+
 # Masters
 
 # Postdocs/visiting researchers
