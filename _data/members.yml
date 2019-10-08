@@ -93,6 +93,13 @@
   email: jasonhof@cs.washington.edu
   status: current
 
+- id: breda
+  name: Joseph Breda
+  image: /images/memebers/breda_joe.jpg
+  affiliation: CSE
+  email: joebreda@cs.washington.edu
+  status: current
+
 - id: peplinski
   name: Jacob Peplinski
   image: /images/members/jacob.jpg
