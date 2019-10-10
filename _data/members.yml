@@ -107,6 +107,13 @@
   email: jpeplins@uw.edu
   status: current
 
+  - id: chatterjee
+  name: Ishan Chatterjee
+  image: /images/members/chatterjee.jpg
+  affiliation: CSE
+  email: ichat@cs.washington.edu
+  status: current
+
 # Masters
 
 # Postdocs/visiting researchers
