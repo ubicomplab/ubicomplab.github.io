@@ -107,7 +107,7 @@
   email: jpeplins@uw.edu
   status: current
 
-  - id: chatterjee
+- id: chatterjee
   name: Ishan Chatterjee
   image: /images/members/chatterjee.jpg
   affiliation: CSE
