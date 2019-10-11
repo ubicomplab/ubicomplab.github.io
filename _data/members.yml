@@ -122,6 +122,14 @@
   website: https://www.xueqiuyue.com
   status: current
 
+- id: lichard 
+  name: Richard Li
+  image: /images/members/richard_li.jpeg
+  affiliation: CSE
+  email: lichard@cs.washington.ede
+  website: https://lichard49.github.io
+  status: current
+
 # Masters
 
 # Postdocs/visiting researchers
