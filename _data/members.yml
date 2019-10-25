@@ -135,15 +135,15 @@
 # Masters
 
 # Postdocs/visiting researchers
+
+# Alumni
 - id: mariakakis
   name: Alex Mariakakis
   image: /images/members/alexmariakakis.jpg
   email: atm15@cs.washington.edu
   website: http://atm15.github.io
-  status: visiting
-  #affiliation: CSE
-
-# Alumni
+  status: alumni
+  affiliation: Post-Doc under Anind Dey and at Sage Bionetworks
 
 - id: goel
   name: Mayank Goel
