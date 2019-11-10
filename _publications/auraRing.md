@@ -6,7 +6,7 @@ date: 2019-09-15
 pdf: 
 video: 
 video_embed:
-image: /images/pubs/auraRing.jpg
+image: /images/pubs/auraRing.JPG
 thumbnail: /images/pubs/auraRing_thumb.jpg
 caption: AuraRing is 5-DoF electromagnetic tracker that enables precise, accurate, and fine-grained finger tracking for AR, VR and wearable applications.
 citation:
