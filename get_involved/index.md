@@ -15,7 +15,7 @@ Undergraduate research is an important part of the lab and we have a very active
 ## Applying
 Undergraduates and Masters students interested in conducting research in the Ubicomp lab must fill out an application before the start of the quarter during the academic year. We use the applications to keep track of everyone interested in doing research and to find project matches. Please note that we often get many more applications than positions we have, but we will try our best to find an opportunity for you.
 
-<a href="https://www.surveygizmo.com/s3/5192424/UbiComp-Lab-Research-Application-Fall-2019">Apply Here</a> to get involved Fall quarter. Application due September 25th, 2019.
+<a href="https://www.surveygizmo.com/s3/5314918/UbiComp-Lab-Research-Application-Winter-2020">Apply Here</a> to get involved Winter quarter. Application due Jan 6th, 2020.
 
 
 ## High school research opportunities 
