@@ -4,7 +4,7 @@ authors: [whitmire, parizi, patel]
 conference: 17th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), 2019
 date: 2019-06-17
 pdf: /pdfs/aura.pdf
-video: https://www.dropbox.com/s/x53kemxx68q51vy/aura_v2.mp4?dl=0
+video: https://youtu.be/P6TU2hA_R5w
 video_embed:
 image: /images/pubs/aura.png
 thumbnail: /images/pubs/aura_thumb.jpg
