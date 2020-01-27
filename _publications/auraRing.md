@@ -5,7 +5,7 @@ conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquito
 date: 2019-12-01
 pdf: /pdfs/auraring.pdf
 video: https://www.youtube.com/watch?v=j6p9zqXpTF0
-video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/watch?v=j6p9zqXpTF0&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/j6p9zqXpTF0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 image: /images/pubs/auraRing.JPG
 thumbnail: /images/pubs/auraRing_thumb.jpg
 caption: AuraRing is 5-DoF electromagnetic tracker that enables precise, accurate, and fine-grained finger tracking for AR, VR and wearable applications.
