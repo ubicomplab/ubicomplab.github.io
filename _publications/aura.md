@@ -5,7 +5,7 @@ conference: 17th ACM International Conference on Mobile Systems, Applications, a
 date: 2019-06-17
 pdf: /pdfs/aura.pdf
 video: https://www.youtube.com/watch?v=P6TU2hA_R5w&feature=youtu.be
-video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/watch?v=P6TU2hA_R5w&feature=youtu.be" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+video_embed: '<iframe width="560" height="315" src="https://www.youtube.com/embed/P6TU2hA_R5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 image: /images/pubs/aura.png
 thumbnail: /images/pubs/aura_thumb.jpg
 caption: Aura uses custom non-orthogonal coils on the headset and a 3-axis receiver coil within the handheld controller to reconstruct the 6-DoF pose of the controller.
