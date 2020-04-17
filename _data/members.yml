@@ -125,7 +125,13 @@
   website: https://www.linkedin.com/in/libby-lavitt/
   status: staff
 
-
+- id: colleen
+  name: Colleen Carroll
+  image: /images/members/colleen_carroll.jpg
+  affiliation: CSE
+  email: cecarrol@cs.washington.edu
+  website: https://www.linkedin.com/in/colleencarroll
+  status: staff
 
 # Masters
 
