@@ -62,7 +62,7 @@
   website: https://matthewwhitehill.com
   email: mattw12@cs.washington.edu
   status: current
-  
+
 - id: cao
   name: Alvin Cao
   image: /images/members/alvin.jpg
@@ -99,7 +99,7 @@
   email: ichat@cs.washington.edu
   status: current
 
-- id: xue 
+- id: xue
   name: Qiuyue (Shirley) Xue
   image: /images/members/shirley.jpg
   affiliation: CSE
@@ -107,13 +107,25 @@
   website: https://www.xueqiuyue.com
   status: current
 
-- id: lichard 
+- id: lichard
   name: Richard Li
   image: /images/members/richard_li.jpeg
   affiliation: CSE
   email: lichard@cs.washington.ede
   website: https://lichard49.github.io
   status: current
+
+
+# Staff
+- id: lrlavitt
+  name: Libby Lavitt
+  image: /images/members/libby_lavitt.jpg
+  affiliation: CSE
+  email: lrlavitt@cs.washington.ede
+  website: https://www.linkedin.com/in/libby-lavitt/
+  status: staff
+
+
 
 # Masters
 
@@ -189,7 +201,7 @@
   email: sabae@uw.edu
   website: http://staticfloat.github.io
   status: alumni
-  
+
 - id: jain
   name: Mohit Jain
   image: /images/members/mohitjain.jpg
@@ -197,15 +209,15 @@
   website: https://homes.cs.washington.edu/~mohitj/
   affiliation: Senior Researcher at MSR India
   status: alumni
-  
+
 - id: wang
   name: Edward Wang
   image: /images/members/edwardjaywang.jpg
   email: ejaywang@uw.edu
   website: http://www.ejaywang.com
-  affiliation: Assistant Professor at UCSD 
+  affiliation: Assistant Professor at UCSD
   status: alumni
-  
+
 - id: degreef
   name: Lilian de Greef
   image: /images/members/liliandegreef.jpg
@@ -237,7 +249,7 @@
   email: vinisha@uw.edu
   website: http://vinisha7.wixsite.com/mysite
   status: alumni
-  
+
 - id: fromm
   name: Josh Fromm
   image: /images/members/joshfromm.jpg
@@ -278,7 +290,7 @@
   name: Jake Garrison
   image: /images/members/garrison.jpg
   status: master_alumni
-  
+
 - id: yzhao
   name: Yiran Zhao
   image: /images/members/yzhao.jpg
