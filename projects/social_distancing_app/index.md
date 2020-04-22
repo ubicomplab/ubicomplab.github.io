@@ -3,7 +3,7 @@ layout: page
 title: Social Distancing App
 ---
 
-![](/images/projects/smartphone_listening.png "Sample image")
+![](/images/projects/smartphone_listening.png "Social distancing smartphone app")
 
 
 ### Background
@@ -28,7 +28,7 @@ Modern speaker identification algorithms can estimate how many unique voices are
 
 #### Detecting Coughers
 
-The UW UbiComp Lab recently published a method for determining the identity of a cougher - [https://ieeexplore.ieee.org/document/9053268](https://ieeexplore.ieee.org/document/9053268). Similar to detecting speakers, our app would first determine when a cough is heard. Next, it would estimate the identity of the person who produced the cough so a table of coughs per person could be provided.
+The UW UbiComp Lab recently published a method for determining the identity of a cougher. [https://ieeexplore.ieee.org/document/9053268](https://ieeexplore.ieee.org/document/9053268). Similar to detecting speakers, our app would first determine when a cough is heard. Next, it would estimate the identity of the person who produced the cough so a table of coughs per person could be provided.
 
 #### Privacy
 
