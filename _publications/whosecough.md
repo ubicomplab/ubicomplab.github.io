@@ -1,6 +1,6 @@
 ---
 title: 'Whosecough: In-the-Wild Cougher Verification Using Multitask Learning'
-authors: [whitehill, garison, patel]
+authors: [whitehill, garrison, patel]
 conference: IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020
 date: 2020-05-07
 pdf: /pdfs/Whosecough.pdf
