@@ -1,7 +1,7 @@
 ---
 title: 'Supporting Smartphone-Based Image Capture of Rapid Diagnostic Tests in Low-Resource Settings'
 authors: 
-- cjpark
+- parkcj
 - mariakakis
 - patel
 - Jane Yang
@@ -11,8 +11,9 @@ authors:
 - Fatou Fall
 - Marème Soda Gaye
 - Isaac Holeman
-conference: ICTD '20
-date: 2020-03-15
+conference: International Conference on Information and Communication Technologies and Development (ICTD), 2020
+date: 2020-06-17
+pdf: /pdfs/mali_malaria.pdf
 image: /images/pubs/mali_malaria.jpg
 thumbnail: /images/pubs/mali_malaria_thumb.jpg
 caption: RDTScan helps community health workers capture high-quality images of malaria rapid diagnostic tests (RDTs) collected in real-world environments without the need of extra hardware.
@@ -26,7 +27,7 @@ bibtex: |
     author = {Park, Chunjong and Mariakakis, Alex and Patel, Shwetak and Yang, Jane and Lassala, Diego and Johnson, Ari and Wassuna, Beatrice and Fall, Fatou and Soda Gaye, Marème and Holeman, Isaac},
     title = {Supporting Smartphone-Based Image Capture of Rapid Diagnostic Tests in Low-Resource Settings},
     booktitle = {Proceedings of the 2020 International Conference on Information and Communication Technologies and Development},
-    series = {ICTD '20},
+    series = {ICTD '20: International Conference on Information and Communication Technologies and Development},
     year = {2020},
     location = {Guayaquil, Ecuador},
     pages = {145--156},
