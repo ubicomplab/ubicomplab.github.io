@@ -1,3 +1,4 @@
+---
 title: 'Supporting Smartphone-Based Image Capture of Rapid Diagnostic Tests in Low-Resource Settings'
 authors: 
 - cjpark
@@ -36,3 +37,4 @@ bibtex: |
     address = {New York, NY, USA},
     keywords = {Rapid diagnostic tests (RDTs); malaria; mobile health; imageprocessing; image quality control},
     }
+---
