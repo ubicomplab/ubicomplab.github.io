@@ -3,14 +3,18 @@ title: 'Supporting Smartphone-Based Image Capture of Rapid Diagnostic Tests in L
 authors: 
 - parkcj
 - mariakakis
-- patel
 - Jane Yang
 - Diego Lassala
-- Ari Johnson
-- Beatrice Wassuna
+- Yasamba Djiguiba
+- Youssouf Keita
+- Hawa Diarra
+- Beatrice Wasunna
 - Fatou Fall
 - Marème Soda Gaye
+- Bara Ndiaye
+- Ari Johnson
 - Isaac Holeman
+- patel
 conference: International Conference on Information and Communication Technologies and Development (ICTD), 2020
 date: 2020-06-17
 pdf: /pdfs/mali_malaria.pdf
