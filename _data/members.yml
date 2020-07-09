@@ -245,9 +245,9 @@
   name: Alex Mariakakis
   image: /images/members/alexmariakakis.jpg
   email: atm15@cs.washington.edu
-  website: http://atm15.github.io
+  website: https://mariakakis.github.io
   status: alumni
-  affiliation: Post-Doc under Anind Dey and at Sage Bionetworks
+  affiliation: Assistant Professor at the University of Toronto
 
 - id: ravichandran
   name: Ruth Ravichandran
