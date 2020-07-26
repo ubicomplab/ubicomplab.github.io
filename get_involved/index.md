@@ -15,10 +15,10 @@ Undergraduate research is an important part of the lab and we have a very active
 ## Applying
 Undergraduates and Masters students interested in conducting research in the Ubicomp lab must fill out an application before the start of the quarter during the academic year. We use the applications to keep track of everyone interested in doing research and to find project matches. Please note that we often get many more applications than positions we have, but we will try our best to find an opportunity for you.
 
-<a href="https://www.surveygizmo.com/s3/5547814/UbiComp-Lab-Research-Application-Summer-2020">Apply Here</a> to get involved Summer quarter. Application due June 10th, 2020.
+<a href="https://www.surveygizmo.com/s3/5743716/UbiComp-Lab-Research-Application-Fall-2020">Apply Here</a> to get involved in the Fall quarter. Application due September 22nd, 2020.
 
 
 ## High school research opportunities 
-The Ubicomp Lab invites a select number of high school students from the Seattle area to conduct an intense 8-week long research project during the summer.  Prof. Shwetak Patel created this program because of his own participation in research when he was in high school and the incredible experience it provided for his career path. Applications for the Summer 2020 program is now available. The deadline for the application is May 1st. 2020 and decision will be made by June 1st. 2020.
+The Ubicomp Lab invites a select number of high school students from the Seattle area to conduct an intense 8-week long research project during the summer.  Prof. Shwetak Patel created this program because of his own participation in research when he was in high school and the incredible experience it provided for his career path. Applications for the Summer 2021 program will be available in Spring 2021. The deadline for the application is May 1st. 2021 and decision will be made by June 1st. 2021.
 
 <a href="https://www.surveygizmo.com/s3/5315212/UbiComp-Lab-High-School-Research-Application-Summer-2020">Apply Here</a> to get involved over the summer as a High School student.
