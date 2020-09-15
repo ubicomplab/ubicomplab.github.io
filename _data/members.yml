@@ -116,6 +116,14 @@
   email: lichard@cs.washington.ede
   website: https://lichard49.github.io
   status: current
+  
+- id: waghmare
+  name: Anandghan Waghmare
+  image: /images/members/anandghan.jpeg
+  affiliation: CSE
+  email: anandw@cs.washington.edu
+  website: https://www.anandghan.in
+  status: current  
 
 
 # Staff
