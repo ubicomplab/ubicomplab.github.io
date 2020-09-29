@@ -1,10 +1,10 @@
 ---
 title: 'Heterogeneous Bitwidth Binarization in Convolutional Neural Networks'
-authors: 
+authors:
 - fromm
 - patel
 - Matthai Philipose
-conference: Advances in Neural Information Processing Systems 31 (NIPS 2018)
+conference: Conference on Neural Information Processing Systems (NeurIPS 2018)
 date: 2018-12-02
 pdf: /pdfs/hbnns.pdf
 abstract: |
