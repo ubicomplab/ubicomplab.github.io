@@ -338,13 +338,6 @@
   website: https://www.linkedin.com/in/jcao22/
   status: ugrad
 
-- id: hung_ngo
-  name: Hung Ngo
-  affiliation: Computer Science and Engineering
-  image: /images/members/hung_ngo.jpg
-  website: http://www.hungvngo.com
-  status: ugrad
-
 # Past Visiting Researchers
 
 - id: gulati
@@ -582,6 +575,13 @@
   affiliation: Computer Science and Engineering
   image: /images/members/varun.jpg
   website: https://www.linkedin.com/in/varun-viswanath-aab70345
+  status: ugrad_alumni
+
+- id: hung_ngo
+  name: Hung Ngo
+  affiliation: Computer Science and Engineering
+  image: /images/members/hung_ngo.jpg
+  website: http://www.hungvngo.com
   status: ugrad_alumni
 
 # Past summer
