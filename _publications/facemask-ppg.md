@@ -25,10 +25,9 @@ citation: |
     Parker Ruth, Jerry Cao, Millicent Li, et al. 2020. Multi-Channel Facial Photoplethysmography Sensing. 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 4179–4182. https://doi.org/10.1109/EMBC44109.2020.9176700
 conference: 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2020
 date: 2020-08-27
-image: '/images/pubs/facemask.jpg'
+image: '/images/pubs/facemask.png'
 pdf: '/pdfs/facemask-ppg.pdf'
 thumbnail: '/images/pubs/facemask_thumb.jpg'
-caption: 'Glabella is a pair of glasses with optical pulse sensors embedded strategically to measure continuous blood pressure changes based on pulse transit time.'
 video: https://embs.papercept.net/proceedings/EMBC20/1258_FP.mp4
 
 ---
