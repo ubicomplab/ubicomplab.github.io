@@ -147,6 +147,15 @@
 
 # Postdocs/visiting researchers
 
+- id: yuntao
+  name: Yuntao Wang
+  image: /images/members/yuntao.png
+  affiliation: Assistant Professor at Tsinghua University & GIX
+  email: yuntao@uw.edu
+  website: http://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/
+  status: visiting
+
+
 # Alumni
 - id: goel
   name: Mayank Goel

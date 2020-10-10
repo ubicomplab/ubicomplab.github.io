@@ -1,7 +1,7 @@
 ---
 title: 'FlexTouch: Enabling Large-Scale Interaction Sensing Beyond Touchscreens Using Flexible and Conductive Materials'
 authors: 
-- Yuntao Wang
+- yuntao
 - Jianyu Zhou
 - li
 - Tengxiang Zhang

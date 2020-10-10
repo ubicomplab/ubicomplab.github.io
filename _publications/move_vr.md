@@ -1,7 +1,7 @@
 ---
 title: 'MoveVR: Enabling Multiform Force Feedback in Virtual Reality using Household Cleaning Robot'
 authors: 
-- Yuntao Wang
+- yuntao
 - Zichao (Tyson) Chen
 - li
 - Zhengyi Cao
