@@ -10,10 +10,15 @@ Hi! We are a team of researchers with the UW UbiComp Lab and we are researching 
 We are now seeking volunteers to help with testing. Testing is easy!  It should only take 2-3 minutes of setup time, then a 24-hour monitoring period.  And for your help, you'll receive a $15 Amazon Gift Card!
 
 Here's how it works:
+
 - You'll first download the cough monitoring app using a link we provide.
+
 - Next, you'll complete a consent form administered through the app.
+
 - You'll then start the cough monitoring and leave the app running for 24 hours.
+
 - The app will automatically detect and upload sounds it thinks are coughs.
+
 - You are free to disable the monitoring after the 24 hours are complete.
 
 Interested in participating in the study? Please send an email to UWCoughTest@gmail.com.
