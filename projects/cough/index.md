@@ -24,4 +24,5 @@ Here's how it works:
 Interested in participating in the study? Please send an email to UWCoughTest@gmail.com.
 
 Thanks in advance!
+
 UW UbiComp Lab Cough Team
