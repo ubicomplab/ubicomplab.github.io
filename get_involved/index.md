@@ -21,4 +21,4 @@ Undergraduates and Masters students interested in conducting research in the Ubi
 ## High school research opportunities 
 The Ubicomp Lab invites a select number of high school students from the Seattle area to conduct an intense 8-week long research project during the summer.  Prof. Shwetak Patel created this program because of his own participation in research when he was in high school and the incredible experience it provided for his career path. Applications for the Summer 2021 program will be available in Spring 2021. The deadline for the application is May 1st. 2021 and decision will be made by June 1st. 2021.
 
-<a href="https://www.surveygizmo.com/s3/5315212/UbiComp-Lab-High-School-Research-Application-Summer-2020">Apply Here</a> to get involved over the summer as a High School student.
+<a href="https://survey.alchemer.com/s3/6137820/UbiComp-Lab-Research-Application-Spring-2021">Apply Here</a> to get involved over the summer as a High School student.
