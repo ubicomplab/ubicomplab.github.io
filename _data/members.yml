@@ -116,15 +116,22 @@
   email: lichard@cs.washington.ede
   website: https://lichard49.github.io
   status: current
-  
+
 - id: waghmare
   name: Anandghan Waghmare
   image: /images/members/anandghan.jpeg
   affiliation: CSE
   email: anandw@cs.washington.edu
   website: https://www.anandghan.in
-  status: current  
+  status: current
 
+- id: narayanswamy
+  name: Girish Narayanswamy
+  image: /images/members/narayanswamy_girish.jpg
+  affiliation: ECE
+  website: https://girishvn.github.io
+  email: girishvn@uw.edu
+  status: current
 
 # Staff
 - id: lrlavitt
