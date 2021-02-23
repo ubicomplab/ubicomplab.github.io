@@ -133,6 +133,14 @@
   email: girishvn@uw.edu
   status: current
 
+- id: lelkin
+  name: Lisa Elkin
+  image: /images/members/elkin.png
+  affiliation: CSE
+  website: http://www.lisaelkin.com
+  email: lelkin@cs.washington.edu
+  status: current
+
 # Staff
 - id: lrlavitt
   name: Libby Lavitt
