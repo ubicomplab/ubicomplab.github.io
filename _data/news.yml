@@ -1,9 +1,13 @@
+- date: 2021-01-01
+  blurb: Parker Ruth is named CRA Outstanding Undergraduate Research Award Finalist
+  url: https://news.cs.washington.edu/2021/01/15/computing-research-association-recognizes-undergraduates-advancing-data-science-for-mental-health-commonsense-reasoning-mobile-health-sensing-and-more/
+
 - date: 2020-12-06
-  blurb: \"Multi-Task Temporal Shift Attention Networks for On-Device Contactless Vitals Measuremen\" was presented at NeurIPS 2020
+  blurb: "\"Multi-Task Temporal Shift Attention Networks for On-Device Contactless Vitals Measurement\" was presented at NeurIPS 2020"
   url: https://nips.cc/virtual/2020/public/poster_e1228be46de6a0234ac22ded31417bc7.html
 
 - date: 2020-09-23
-  blurb: Article on \"Challenges in Health Sensing\" Earns Best Paper Runner-Up
+  blurb: "Article on \"Challenges in Health Sensing\" Earns Best Paper Runner-Up"
   url: /publications/mhealth_challenges/
 
 - date: 2020-08-01
@@ -11,7 +15,7 @@
   url: https://web.cs.toronto.edu/news-events/news/u-of-ts-department-of-computer-science-welcomes-its-newest-faculty-members
 
 - date: 2020-04-01
-  blurb: Parker Ruth named a 2020 Goldwater Scholar
+  blurb: Parker Ruth is named a 2020 Goldwater Scholar
   url: https://news.cs.washington.edu/2020/04/02/allen-schools-parker-ruth-named-a-2020-goldwater-scholar/
 
 - date: 2019-04-03
