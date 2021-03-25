@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/*
   label: Data
-  match: "**/*"
 - type: directory
   path: _publications
   label: Publications
