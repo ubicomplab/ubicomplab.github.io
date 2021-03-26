@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/members.yml
   label: Members
-  match: "**/*"
 - type: document
   path: _data/*
   label: Data
