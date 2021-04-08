@@ -35,8 +35,8 @@ build:
   - JEKYLL_ENV=staging
   preview_output_directory: _site
   install_dependencies_command: gem install jekyll github-pages
-  preview_docker_image: forestryio/ruby:2.6
-  mount_path: "/srv"
+  preview_docker_image: jekyll/jekyll
+  mount_path: ubicomp
   working_dir: "/srv"
   instant_preview_command: 'jekyll serve --drafts --unpublished --future --port 8080
     --host 0.0.0.0 '
