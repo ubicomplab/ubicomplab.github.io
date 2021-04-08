@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: yml
 - type: document
   path: _data/members.yml
   label: Members
@@ -18,10 +20,12 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: heading
+  label: pages
 - type: jekyll-pages
   label: Pages
   create: all
-upload_dir: uploads
+upload_dir: images
 public_path: "/files"
 front_matter_path: ''
 use_front_matter_path: false
