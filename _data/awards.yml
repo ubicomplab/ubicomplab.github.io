@@ -1,3 +1,7 @@
+- name: ACM Prize in Computing
+  url: https://awards.acm.org/award_winners/patel_3462843
+  people: [patel]
+
 - name: Gaetano Borriello Outstanding Student Award of UbiComp
   people: [mariakakis]
 
