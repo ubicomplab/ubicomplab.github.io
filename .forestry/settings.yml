@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: yml
 - type: document
   path: _data/members.yml
   label: Members
@@ -18,11 +20,13 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+- type: heading
+  label: pages
 - type: jekyll-pages
   label: Pages
   create: all
 upload_dir: images
-public_path: "/images"
+public_path: "/files"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
@@ -30,8 +34,8 @@ build:
   preview_env:
   - JEKYLL_ENV=staging
   preview_output_directory: _site
-  install_dependencies_command: gem install bundler jekyll
-  preview_docker_image: forestryio/ruby:2.6
-  mount_path: "/srv"
+  install_dependencies_command: gem install jekyll github-pages
+  preview_docker_image: jekyll/jeklyy
+  mount_path: _site
   working_dir: "/srv"
-  instant_preview_command: jekyll serve --drafts --unpublished --future -d _site
+  instant_preview_command: 'jekyll serve '
