@@ -1,0 +1,26 @@
+---
+label: Members
+hide_body: true
+fields:
+- type: field_group_list
+  name: Members
+  label: Members
+  fields:
+  - type: text
+    name: id
+    label: id
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: website
+    label: website
+  - type: text
+    name: status
+    label: status
+  - type: textarea
+    name: affiliation
+    label: affiliation
