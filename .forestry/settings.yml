@@ -35,7 +35,7 @@ build:
   - JEKYLL_ENV=staging
   preview_output_directory: _site
   install_dependencies_command: gem install jekyll github-pages
-  preview_docker_image: jekyll/jekyll
+  preview_docker_image: jekyll/jeklyy
   mount_path: _site
   working_dir: "/srv"
   instant_preview_command: 'jekyll serve '
