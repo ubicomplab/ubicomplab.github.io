@@ -51,6 +51,5 @@ thumbnail: ''
 title: 'Your Noise is My Command: Sensing Gestures Using the Body As an Antenna'
 video: ''
 video_embed: ''
-published: false
 
 ---
