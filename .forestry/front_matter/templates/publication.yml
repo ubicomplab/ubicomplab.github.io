@@ -1,0 +1,31 @@
+---
+label: Publication
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: list
+  name: authors
+  label: authors
+- type: text
+  name: conference
+  label: conference
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: pdf
+  label: pdf
+- type: file
+  name: thumbnail
+  label: thumbnail
+- type: file
+  name: image
+  label: image
+- type: textarea
+  name: abstract
+  label: abstract
+- type: textarea
+  name: bibtex
+  label: bibtex
