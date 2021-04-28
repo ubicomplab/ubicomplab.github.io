@@ -35,4 +35,5 @@ fields:
   default: []
   label: tags
 pages:
+- _layouts/asdf.html
 - _projects/rdtscan.md

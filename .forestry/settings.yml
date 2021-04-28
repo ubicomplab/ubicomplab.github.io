@@ -37,7 +37,7 @@ sections:
   label: Layouts
   create: all
   match: "**/*"
-  new_doc_ext: ".html"
+  new_doc_ext: html
 upload_dir: images
 public_path: "/files"
 front_matter_path: ''
