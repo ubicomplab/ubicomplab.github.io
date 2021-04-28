@@ -7,6 +7,10 @@ sections:
 - type: heading
   label: yml
 - type: document
+  path: _config.yml
+  label: Config
+  match: "**/*"
+- type: document
   path: _data/members.yml
   label: Members
 - type: directory
