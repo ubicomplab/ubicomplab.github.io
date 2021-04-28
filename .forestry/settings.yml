@@ -9,17 +9,21 @@ sections:
 - type: document
   path: _data/members.yml
   label: Members
-- type: document
-  path: _data/*
-  label: Data
 - type: directory
   path: _publications
   label: Publications
   create: all
   match: "**/*"
-- type: document
-  path: _projects/**/*
+- type: directory
+  path: _projects
   label: Projects
+  create: all
+  match: "**/*"
+- type: directory
+  path: _data
+  label: Data
+  create: all
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
