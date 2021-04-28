@@ -7,3 +7,30 @@ fields:
   config:
     required: false
   label: name
+- name: publications
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: publications
+- name: members
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: members
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: description
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
