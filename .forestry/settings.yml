@@ -6,10 +6,12 @@ webhook_url:
 sections:
 - type: heading
   label: yml
-- type: document
-  path: _config.yml
+- type: directory
+  path: ''
   label: Config
+  create: all
   match: "**/*"
+  new_doc_ext: yml
 - type: document
   path: _data/members.yml
   label: Members
