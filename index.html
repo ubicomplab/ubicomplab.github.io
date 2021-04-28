@@ -5,27 +5,9 @@ layout: default
 
 {% assign sorted_news = site.data.news | sort: 'date' | reverse %}
 
-<div class="row">
-  <div class="col-sm-12">
-    <h3>The Ubiquitous Computing Lab develops innovative sensing systems for real world applications in <b>health</b>, <b>sustainability</b>, and <b>novel interactions</b>.</h3>
-  </div>
 
-</div>
-
-<div class="row">
-  <div class="col-md-8">
-
-    <ul class="bxslider">
-      <li><a href="{{site.base_url}}/pdfs/lab/ubicomplab-flyer.pdf"><img src="{{site.base_url}}/images/slider/poster_banner_new.png" title=""/></a></li>
-      <li><a href="{{site.base_url}}/publications/hemaapp"><img src="{{site.base_url}}/images/slider/hemaapp.png" title="HemaApp screens for anemia and other blood conditions using the camera on a smartphone. "/></a></li>
-      <li><a href="{{site.base_url}}/publications/bilicam"><img src="{{site.base_url}}/images/slider/bilicam.jpg" title="BiliCam uses a smartphone to screen newborns for jaundice."/></a></li>
-      <li><a href="{{site.base_url}}/publications/spirocall"><img src="{{site.base_url}}/images/slider/spirocall.jpg" title="SpiroCall enables lung function estimation using the microphone on any mobile phone."/></a></li>
-      <!--li><a href="{{site.base_url}}/pdfs/lab/ubicomplab-health.pdf"><img src="{{site.base_url}}/images/slider/health_banner.png" title=""/></a></li-->
-
-    </ul>
-  </div>
-
-  <div class="col-md-4 news">
+<div class="container-fluid" style="position: relative">
+  <div class="col-md-3 news">
     <h2>News</h2>
     <ul>
     {% for news in sorted_news limit:5 %}
@@ -41,12 +23,35 @@ layout: default
     </ul>
     <a href="{{site.base_url}}/news/">(More news...)</a>
   </div>
+</div>
 
-
+<div class="container-fluid">
+  <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+      <div class="item active">
+        <div class="fill" style="background-image:url({{site.base_url}}/images/slider/poster_banner_new.png)"></div>
+      </div>
+      <div class="item">
+        <div class="fill" style="background-image:url({{site.base_url}}/images/slider/hemaapp.png)"></div>
+      </div>
+      <div class="item">
+        <div class="fill" style="background-image:url({{site.base_url}}/images/slider/bilicam.jpg)"></div>
+      </div>
+      <div class="item">
+        <div class="fill" style="background-image:url({{site.base_url}}/images/slider/spirocall.jpg)"></div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <div class="row">
-  <div class="col-xs-12">
+  <div class="col-sm-12">
+    <h3>The Ubiquitous Computing Lab develops innovative sensing systems for real world applications in <b>health</b>, <b>sustainability</b>, and <b>novel interactions</b>.</h3>
+  </div>
+</div>
+
+<div class="row">
+<div class="col-xs-12">
 The Ubiquitous Computing (UbiComp) research lab, led by Prof. Shwetak Patel,
 focuses on many areas of ubiquitous computing including novel user interface
 technology, health sensing, activity recognition, low-power sensing, and energy
@@ -56,12 +61,42 @@ interdisciplinary team of investigators that tackle challenging research problem
 both from building the enabling hardware and software systems to the deployment
 and evaluation of these technologies in real-world settings, especially around
 health. We collaborate very closely with UW Professors in the Paul G. Allen
-School of Computer Science & Engineering, Department of Electrical and Computer
+School of Computer Science &amp; Engineering, Department of Electrical and Computer
 Engineering, and School of Medicine. In addition, we have close collaborations
-with Google, Microsoft Research, the Bill & Melinda Gates Foundation, Intel,
+with Google, Microsoft Research, the Bill &amp; Melinda Gates Foundation, Intel,
 Facebook, and many other companies.
-    </div>
 </div>
+</div>
+
+
+<h1>Recent Projects</h1>
+{% assign sorted_pubs = site.publications | sort: 'date' | reverse | slice: 0, 4 %}
+<div class="row publication-badge">
+{% for pub in sorted_pubs %}
+  {% if pub.thumbnail.size > 0 %}
+  <div class="publication-pic col-md-3 col-sm-3 col-xs-12">
+    <a href="{{ pub.url }}"><img src="{{ pub.thumbnail }}"/></a>
+    <span class="badge badge-health">health</span>
+    <span>{{ pub.title }}</span>
+  </div>
+  {% endif %}
+{% endfor %}
+</div>
+
+{% assign sorted_pubs1 = site.publications | sort: 'date' | reverse | slice: 4, 4 %}
+<div class="row publication-badge">
+{% for pub in sorted_pubs1 %}
+  {% if pub.thumbnail.size > 0 %}
+  <div class="publication-pic col-md-3 col-sm-3 col-xs-12">
+    <a href="{{ pub.url }}"><img src="{{ pub.thumbnail }}"/></a>
+    <span class="badge badge-interaction">ix</span>
+    <span>{{ pub.title }}</span>
+  </div>
+  {% endif %}
+{% endfor %}
+</div>
+
+
 
 <script>
 $(document).ready(function(){
