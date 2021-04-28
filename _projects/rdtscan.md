@@ -10,6 +10,5 @@ members:
 - mariakakis
 - patel
 description: RDT project page
-published: false
 
 ---
