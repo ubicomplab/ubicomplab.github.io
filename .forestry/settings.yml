@@ -17,6 +17,10 @@ sections:
   label: Publications
   create: all
   match: "**/*"
+- type: document
+  path: _projects/**/*
+  label: Projects
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
