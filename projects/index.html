@@ -4,24 +4,8 @@ title:
 redirect_from: []
 
 ---
-<h1>Recent Projects</h1>
-
 <h1>Projects</h1>
-{% capture last_year %}0{% endcapture %}
 
-{% assign sorted_pubs = site.publications | sort: 'date' %}
-{% for pub in sorted_pubs reversed %}
-
-{% capture this_year %}{{ pub.date | date: "%Y" }}{% endcapture %}
-
-{% if this_year != nil and this_year != last_year%}
-<h2 id="{{ this_year }}-ref">{{this_year}}</h2>
-<hr/>
-{% endif %}
-
-{% capture last_year %}{{ this_year }}{% endcapture %}
-
-<h1>Recent Projects</h1>
 {% assign sorted_pubs = site.publications | sort: 'date' | reverse | slice: 0, 4 %}
 <div class="row publication-badge">
 {% for project in site.projects %}
