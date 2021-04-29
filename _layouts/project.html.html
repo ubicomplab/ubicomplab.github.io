@@ -1,12 +1,11 @@
 ---
 layout: default
 title: project.html
-published: false
 
 ---
 <script src="{{site.baseurl}}/bower_components/jquery.fitvids/jquery.fitvids.js"></script>
 <article class="page publication">
-  <h1>{{ page.title }}</h1>
+  <h1>{{ page.name }}</h1>
   <span class="author_list">{% include author_list.html authors=page.authors %}</span>
     <section>
     {% if page.date <= site.time %}
@@ -30,7 +29,7 @@ published: false
         <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            <h4 class="modal-title">{{ page.title }}</h4>
+            <h4 class="modal-title">{{ page.name }}</h4>
           </div>
           <div class="modal-body">
             <code>{{ page.bibtex }}</code>
