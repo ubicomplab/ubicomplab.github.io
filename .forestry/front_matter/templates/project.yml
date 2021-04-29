@@ -34,5 +34,11 @@ fields:
   type: tag_list
   default: []
   label: tags
+- name: thumbnail
+  type: text
+  config:
+    required: false
+  label: thumbnail
 pages:
+- _projects/rdtscan.md
 - _projects/rdtscan.md
