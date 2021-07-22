@@ -7,7 +7,7 @@ published: false
 <script src="{{site.baseurl}}/bower_components/jquery.fitvids/jquery.fitvids.js"></script>
 <article class="page publication">
   <h1>{{ page.name }}</h1>
-  <h3>{{ page | jsonify }}</h3>
+  <!--h3>{{ page | jsonify }}</h3-->
   <span class="auhor_list">{% include author_list.html authors=page.members %}</span>
     <section>
     <div class="materials">
@@ -64,7 +64,7 @@ published: false
     <div class="row">
       <div class="image col-xs-12 col-md-6">
         <div class="image-holder">
-          <img src="{{ site.baseurl }}{{ page.image }}"/>
+          <img src="{{ site.baseurl }}{{ page.thumbnail }}"/>
         </div>
         {{page.caption}}
       </div>
