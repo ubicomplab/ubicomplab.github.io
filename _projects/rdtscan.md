@@ -11,5 +11,6 @@ members:
 - patel
 description: RDT project page
 thumbnail: "/images/pubs/rdtscan.png"
+about: This is about RDTScan project
 
 ---

@@ -39,6 +39,11 @@ fields:
   config:
     required: false
   label: thumbnail
+- name: about
+  type: text
+  config:
+    required: false
+  label: about
 pages:
 - _projects/rdtscan.md
 - _projects/rdtscan.md
