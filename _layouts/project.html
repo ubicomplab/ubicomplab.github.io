@@ -95,11 +95,11 @@ published: false
   </section>
   
 {% assign sorted_pubs = page.publications | sort: 'date' %}
-    <h5>{{site.publications|first | jsonify}}</h5>
+    <!--h5>{{site.publications|first | jsonify}}</h5-->
   <section>
 
 {% for pub_id in sorted_pubs reversed %}
-{% assign pub = site.publications | where: "name",pub_id %}
+{% assign pub = site.publications | where: "slug",pub_id %}
 <<div class="row publication-badge">
   <div class="publication-pic col-md-2 col-sm-3 col-xs-12 text-left">
     {% if pub.thumbnail.size > 0 %}<a href="{{ pub.url }}"><img src="{{ pub.thumbnail }}"/></a>{% endif %}&nbsp;
