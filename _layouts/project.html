@@ -93,10 +93,13 @@ published: false
       {% endfor %}
     {% endif %}
   </section>
+  
 {% assign sorted_pubs = site.publications | sort: 'date' %}
-{% for pub in sorted_pubs reversed %}
+    <h5>{{sorted_pubs | jsonify}}</h5>
   <section>
-<div class="row publication-badge">
+
+{% for pub in sorted_pubs reversed %}
+<<div class="row publication-badge">
   <div class="publication-pic col-md-2 col-sm-3 col-xs-12 text-left">
     {% if pub.thumbnail.size > 0 %}<a href="{{ pub.url }}"><img src="{{ pub.thumbnail }}"/></a>{% endif %}&nbsp;
   </div>
@@ -124,6 +127,42 @@ published: false
 
 
 </div>
+
+<div class="modal fade" tabindex="-1" role="dialog" id="{{pub.title | slugify}}_bibtex">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">{{ pub.title }}</h4>
+      </div>
+      <div class="modal-body">
+        <code>{{ pub.bibtex }}</code>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div class="modal fade" tabindex="-1" role="dialog" id="{{pub.title | slugify}}_citation">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">{{ pub.title }}</h4>
+      </div>
+      <div class="modal-body">
+        <code>{{ pub.citation }}</code>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+{% endfor %}
   </section>
 
 </article>
