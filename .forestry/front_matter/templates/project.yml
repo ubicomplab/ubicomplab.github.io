@@ -49,6 +49,11 @@ fields:
   config:
     required: false
   label: video
+- name: video_embed
+  type: text
+  config:
+    required: false
+  label: video_embed
 pages:
 - _projects/rdtscan.md
 - _projects/rdtscan.md
