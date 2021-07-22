@@ -10,7 +10,6 @@ published: false
   <h3>{{ page | jsonify }}</h3>
   <span class="auhor_list">{% include author_list.html authors=page.members %}</span>
     <section>
-    {% if page.date <= site.time %}
     <div class="materials">
       {% if page.pdf %}<a href="{{ site.baseurl }}{{ page.pdf }}" class="btn btn-default btn-xs" aria-label="Download PDF">
         <span class="glyphicon glyphicon-file" aria-hidden="true"></span> PDF
@@ -59,8 +58,6 @@ published: false
         </div><!-- /.modal-content -->
       </div><!-- /.modal-dialog -->
     </div><!-- /.modal -->
-
-  {% endif %}
 
   </section>
   <section>
