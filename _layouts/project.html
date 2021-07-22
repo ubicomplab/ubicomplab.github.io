@@ -100,7 +100,8 @@ published: false
 {% for pub_id in sorted_pubs reversed %}
 {% assign pub_id_full = '/publications/' | append: pub_id %}
     <h5>PUB ID!!!!! {{ pub_id_full | jsonify}}</h5>
-{% assign pub = site.publications | where: "title", "uTrack: 3D Input Using Two Magnetic Sensors" %}
+{% assign pub = site.publications | where: "id", pub_id_full %}
+    {{pub.date|jsonify}}
 <div class="row publication-badge">
   <div class="publication-pic col-md-2 col-sm-3 col-xs-12 text-left">
     {% if pub.thumbnail.size > 0 %}<a href="{{ pub.url }}"><img src="{{ pub.thumbnail }}"/></a>{% endif %}&nbsp;
