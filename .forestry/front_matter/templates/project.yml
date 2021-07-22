@@ -44,6 +44,11 @@ fields:
   config:
     required: false
   label: about
+- name: video
+  type: text
+  config:
+    required: false
+  label: video
 pages:
 - _projects/rdtscan.md
 - _projects/rdtscan.md
