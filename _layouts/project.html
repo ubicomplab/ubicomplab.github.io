@@ -95,7 +95,7 @@ published: false
   </section>
   
 {% assign sorted_pubs = page.publications | sort: 'date' %}
-    <h5>{{sorted_pubs | jsonify}}</h5>
+    <h5>{{site.publications|first | jsonify}}</h5>
   <section>
 
 {% for pub_id in sorted_pubs reversed %}
