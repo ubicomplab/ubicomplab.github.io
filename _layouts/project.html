@@ -99,6 +99,7 @@ published: false
   <section>
 
 {% for pub_id in sorted_pubs reversed %}
+    <h5>{{ pub_id | jsonify}}</h5>
 {% assign pub = site.publications | where: "slug",pub_id %}
 <<div class="row publication-badge">
   <div class="publication-pic col-md-2 col-sm-3 col-xs-12 text-left">
